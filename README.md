@@ -4,9 +4,9 @@
 
 💡 It started with a crazy idea... due to Corona, we were all working in our home offices, joining remote only.
 
-🎊 And it worked fabulously. We saw: #digital work can literally be done from anywhere. #RemoteFirst is the new way of working!
+🎊 And it worked fabulously. We saw: digital work can literally be done from anywhere. Remote-first is the new way of working!
 
-🤔 So why - during summer time - shouldn't we be working together #outdoor? Because of disturbing screen reflections, challenging weather conditions or limited privacy? No! This might be challenging - but definitely doable.
+🤔 So why - during summer time - shouldn't we be working together outdoors? Because of disturbing screen reflections, challenging weather conditions or limited privacy? No! This might be challenging - but definitely doable.
 
 💪 So - we as UX professional sat together and re-invented the way of working remotely. Together. Anywhere.
 
