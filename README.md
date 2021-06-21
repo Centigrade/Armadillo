@@ -1,5 +1,20 @@
 # Armadillo Next Generation Workspace
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2j23XJB2bOQ/0.jpg)](https://youtu.be/2j23XJB2bOQ)
+
+🤔 It started with a crazy idea...
+Due to #Corona, we were all working in our #HomeOffices, joining #remote only.
+🎊 And it worked fabulously.
+We saw: #digital work can literally be done from anywhere. #RemoteFirst is the new way of working!
+
+☀*So why - during summer time - shouldn't we be working together #outdoor? Because of disturbing screen reflections, challenging weather conditions or limited privacy?**
+
+No! This might be challenging - but definitely doable.
+💪 So - we as UX professional sat together and re-invented the way of working remotely.
+
+#TogetherAnywhere.
+
+
 ## Why
 We are digital design professionals, UX designers and software engineers working remotely together with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
 
