@@ -1,6 +1,6 @@
 # Project Armadillo - Building the Next Generation Workspace
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2j23XJB2bOQ/0.jpg)](https://youtu.be/2j23XJB2bOQ)
+[![Armadillo Workspace](https://img.youtube.com/vi/2j23XJB2bOQ/0.jpg)](https://youtu.be/2j23XJB2bOQ)
 
 💡 It started with a crazy idea... due to Corona, we were all working in our home offices, joining remote only.
 
