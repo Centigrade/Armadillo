@@ -19,6 +19,21 @@ Our approach is to work outdoors as much as possible, especially during summer t
 ## What
 The heart of our project is the Armadillo Outdoor desk that can be used inside and outside and is optimized for mobility, screen work and removing sunbeams. It is made to have a good time at work. You can find the entire building process including 3D printing files and user test videos in this repository. Have fun and join the movement!
 
+## How to build your own Armadillo Canopy for existing desks (⚠️ for fearless makers only)
+
+### Tools
+You need the following tools in order to get started:
+- A 3D printer (17x12cm minimum buildspace)
+- An electric drill (ideally portable)
+- 2mm drill (for pre-drilling)
+- 10mm and 5mm wood drill (for actual drilling)
+- Screwdriver
+- Chop saw (only if at hand), hand saw otherwise
+
+## Material
+- 3 Tough fillament
+- ..
+
 ## Resources
 
 ### Gather
