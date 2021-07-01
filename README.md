@@ -21,7 +21,7 @@ The heart of our project is the Armadillo Outdoor desk that can be used inside a
 
 ## How to build your own Armadillo Canopy for existing desks (⚠️ for fearless makers only)
 
-### Tools
+### Physical Tools
 You need the following tools in order to get started:
 - A 3D printer (17x12cm minimum buildspace)
 - An electric drill (ideally portable)
@@ -33,6 +33,9 @@ You need the following tools in order to get started:
 ## Material
 - 3 Tough fillament
 - ..
+
+## Software Tools
+- [CURA 3D Printing Software](https://ultimaker.com/software/ultimaker-cura) to open the STL files in the *assets/printables* folder
 
 ## Resources
 
