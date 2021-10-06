@@ -11,7 +11,7 @@
 💪 So - we as UX professional sat together and re-invented the way of working remotely. Together. Anywhere.
 
 ## Why
-We are digital design professionals, UX designers and software engineers working remotely together with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
+We are [digital design professionals](https://www.digitaldesign.org/), UX designers and software engineers working remotely together with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
 
 ## What
 The heart of our project is the Armadillo Mobile desk that can be used inside and outside and is optimized for mobility and outdoor screen work. It is made to have a good time at work. 
