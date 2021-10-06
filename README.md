@@ -23,8 +23,8 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 
 💪 Here is how you jumpstart into building your own Armadillo Desk:
 
-- 1️⃣ Watch our DIY teaser video to get inspired!
-- 2️⃣ Checkout this GitHub repository on your local harddrive
+- 1️⃣ Watch our cool [DIY teaser video](https://img.youtube.com/vi/Gkbu_ZHPUQ8/0.jpg)](https://youtu.be/Gkbu_ZHPUQ8) to get inspired!
+- 2️⃣ Checkout this [GitHub repository](https://github.com/Centigrade/Armadillo.git) on your local harddrive
 - 3️⃣ Register with LeanScope, the tool that will provide you with the building instructions: https://app.leanscope.io
 - 4️⃣ Launch LeanScope and open the [ResearchAndDevelopment-Spec.lnscp](https://github.com/Centigrade/Armadillo/tree/main/requirements/ArmadilloWorkspace-Requirements.lnscp) file using LeanScope
 - 5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
