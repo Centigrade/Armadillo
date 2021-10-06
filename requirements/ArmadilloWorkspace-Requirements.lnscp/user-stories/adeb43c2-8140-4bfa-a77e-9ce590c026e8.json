@@ -1,43 +1,45 @@
 {
+	"_guid": "adeb43c2-8140-4bfa-a77e-9ce590c026e8",
+	"listIndex": 399.5406177591248,
+	"customId": null,
+	"needingEquipment": [
+		{
+			"equipment": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
+		}
+	],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "c9a9c14f-7909-4124-a6ae-b07ffe122014"
+		},
+		{
+			"artifact": "c60fa9d7-9f1b-4c4d-83a6-ecc59c371541"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Ergonomics",
 		"Outdoor"
 	],
-	"_guid": "adeb43c2-8140-4bfa-a77e-9ce590c026e8",
-	"listIndex": 399.5406177591248,
-	"needingInformation": [],
-	"needingEquipment": [
-		{
-			"_id": "60d1bb86f2bf5c57a74adde7",
-			"equipment": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
-		}
-	],
 	"timeStamp": 1624200503700,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "User need to see everything on their screen. Reflections are more than disturbing.",
 	"originScenarioStepRef": "515e18e8-a57e-4599-bb05-9b5c81c6c38d",
 	"triggerRef": "",
 	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"roleRef": "02810c09-2c76-4520-bb99-a86e038db292",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cf55ddf2bf5cef3c4ad913",
-			"artifact": "c9a9c14f-7909-4124-a6ae-b07ffe122014"
-		},
-		{
-			"_id": "60cf55ddf2bf5c9d574ad914",
-			"artifact": "c60fa9d7-9f1b-4c4d-83a6-ecc59c371541"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Avoiding screen reflections",
-	"userNeed": "User need to see everything on their screen. Reflections are more than disturbing.",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

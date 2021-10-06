@@ -1,9 +1,13 @@
 {
-	"_guid": "20156a34-9117-4b2d-8db3-08263da7cd62",
 	"listIndex": -827.8854841034514,
-	"line": "Screw 2.5x13 countersunk",
-	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"_guid": "20156a34-9117-4b2d-8db3-08263da7cd62",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
-	"charts": []
+	"charts": [],
+	"line": "Screw 2.5x13 countersunk",
+	"imageRef": "2ccf5d82-3205-478d-95dc-e7a099047e41",
+	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"description": null,
+	"backgroundColor": null
 }

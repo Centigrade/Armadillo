@@ -1,4 +1,7 @@
 {
+	"listIndex": 1480.4198668327558,
+	"_guid": "2fbbb072-49ea-4f07-9438-c496c7e56391",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "2fbbb072-49ea-4f07-9438-c496c7e56391",
-	"timeStamp": 1627309358356,
 	"line": "Standing is preferred sometimes for some colleagues",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 1480.4198668327558,
-	"description": "We observed that some colleagues miss their standing desk in the outdoor office. "
+	"image": null,
+	"description": "We observed that some colleagues miss their standing desk in the outdoor office. ",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627309358356
 }

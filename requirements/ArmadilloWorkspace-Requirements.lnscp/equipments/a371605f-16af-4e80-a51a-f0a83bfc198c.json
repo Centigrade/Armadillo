@@ -1,0 +1,22 @@
+{
+	"listIndex": -186.56522387650523,
+	"_guid": "a371605f-16af-4e80-a51a-f0a83bfc198c",
+	"customId": null,
+	"parameters": [],
+	"childEntities": [
+		{
+			"listIndex": null,
+			"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626"
+		},
+		{
+			"listIndex": null,
+			"_guid": "677059f1-ffc7-49a6-9810-16ed38fd3b6e"
+		}
+	],
+	"charts": [],
+	"line": "Armadillo Pivot",
+	"imageRef": null,
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000",
+	"description": null,
+	"backgroundColor": "bg-pink"
+}

@@ -1,4 +1,7 @@
 {
+	"listIndex": -30.42784915951612,
+	"_guid": "f56028c9-70a2-4677-9ed9-dbbe8838a783",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "f56028c9-70a2-4677-9ed9-dbbe8838a783",
-	"timeStamp": 1623933846990,
 	"line": "Stumbling over cords and stripes",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": -30.42784915951612,
-	"description": "We observed, that due to the electric cord and the stabilization stripes of the table users are stumbling over those cords or cling to doors."
+	"image": null,
+	"description": "We observed, that due to the electric cord and the stabilization stripes of the table users are stumbling over those cords or cling to doors.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623933846990
 }

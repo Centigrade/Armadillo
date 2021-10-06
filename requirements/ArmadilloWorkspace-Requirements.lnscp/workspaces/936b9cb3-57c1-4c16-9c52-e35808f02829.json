@@ -1,0 +1,131 @@
+{
+	"listIndex": null,
+	"_guid": "936b9cb3-57c1-4c16-9c52-e35808f02829",
+	"customId": null,
+	"session": "d6604ba2-a6b9-4631-9944-9a00f3398535",
+	"includedEntities": [
+		{
+			"entity": "2781371a-e157-4320-a774-d956f1b2e8dc",
+			"included": false
+		},
+		{
+			"entity": "ce4c1a54-7dbf-4327-831a-6fb1dca89202",
+			"included": true
+		},
+		{
+			"entity": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
+			"included": true
+		},
+		{
+			"entity": "20658a2e-ad4e-44b5-b5df-a593f189a852",
+			"included": false
+		},
+		{
+			"entity": "d079563c-24cf-4978-83f7-2e6a3c097556",
+			"included": true
+		},
+		{
+			"entity": "6258e1cb-dee9-4073-b029-d84838678bd5",
+			"included": true
+		},
+		{
+			"entity": "cb247613-e1e6-477f-847c-d58d55af888a",
+			"included": false
+		},
+		{
+			"entity": "d82fb587-bdd3-4b4a-9ae2-6ace6c50912c",
+			"included": true
+		},
+		{
+			"entity": "ce046bb7-6a9e-4921-9439-3ea52f1f7dc3",
+			"included": true
+		},
+		{
+			"entity": "ed42173b-2f63-44b5-a8bf-84efb0cf563e",
+			"included": true
+		},
+		{
+			"entity": "66a4be5c-cbdd-43d7-9f23-34d19bf25aa7",
+			"included": true
+		},
+		{
+			"entity": "a6e82ae2-6145-4983-b927-12543f262e0d",
+			"included": true
+		},
+		{
+			"entity": "d5eb610c-d0b1-406d-946a-a2d1c00f3ffa",
+			"included": true
+		},
+		{
+			"entity": "5695f237-185e-4833-b7e9-dc0d8e7f2d19",
+			"included": true
+		},
+		{
+			"entity": "a8884e02-5825-4279-bd02-2c10fd3d06b0",
+			"included": true
+		},
+		{
+			"entity": "de7136c9-a27b-4a15-af6f-1465ac453a47",
+			"included": true
+		},
+		{
+			"entity": "72ea6408-5b0a-4e8f-b726-6378f186ddc2",
+			"included": true
+		},
+		{
+			"entity": "676f2d99-cabe-4e7c-9b7d-58c632afba87",
+			"included": true
+		},
+		{
+			"entity": "800d38a3-e5a6-4b9b-a18f-6847c388e75d",
+			"included": true
+		},
+		{
+			"entity": "8f59c1dd-d72f-4e82-b644-ab4ec3382e45",
+			"included": true
+		},
+		{
+			"entity": "57ba0550-2612-4d6d-beb9-ca4a92e97d13",
+			"included": true
+		},
+		{
+			"entity": "e9865154-9a14-45a1-8f8d-5758da76c8e1",
+			"included": true
+		},
+		{
+			"entity": "bceca1e9-154d-4bff-ad52-6127c909b8eb",
+			"included": true
+		},
+		{
+			"entity": "ff101d00-a9ab-4bab-9db6-dd01d75cbea1",
+			"included": true
+		}
+	],
+	"name": "DIY Requirements",
+	"includes": {
+		"2781371a-e157-4320-a774-d956f1b2e8dc": false,
+		"ce4c1a54-7dbf-4327-831a-6fb1dca89202": true,
+		"c9b1de32-9022-4eb7-b2ca-70bc1eefa145": true,
+		"20658a2e-ad4e-44b5-b5df-a593f189a852": false,
+		"d079563c-24cf-4978-83f7-2e6a3c097556": true,
+		"6258e1cb-dee9-4073-b029-d84838678bd5": true,
+		"cb247613-e1e6-477f-847c-d58d55af888a": false,
+		"d82fb587-bdd3-4b4a-9ae2-6ace6c50912c": true,
+		"ce046bb7-6a9e-4921-9439-3ea52f1f7dc3": true,
+		"ed42173b-2f63-44b5-a8bf-84efb0cf563e": true,
+		"66a4be5c-cbdd-43d7-9f23-34d19bf25aa7": true,
+		"a6e82ae2-6145-4983-b927-12543f262e0d": true,
+		"d5eb610c-d0b1-406d-946a-a2d1c00f3ffa": true,
+		"5695f237-185e-4833-b7e9-dc0d8e7f2d19": true,
+		"a8884e02-5825-4279-bd02-2c10fd3d06b0": true,
+		"de7136c9-a27b-4a15-af6f-1465ac453a47": true,
+		"72ea6408-5b0a-4e8f-b726-6378f186ddc2": true,
+		"676f2d99-cabe-4e7c-9b7d-58c632afba87": true,
+		"800d38a3-e5a6-4b9b-a18f-6847c388e75d": true,
+		"8f59c1dd-d72f-4e82-b644-ab4ec3382e45": true,
+		"57ba0550-2612-4d6d-beb9-ca4a92e97d13": true,
+		"e9865154-9a14-45a1-8f8d-5758da76c8e1": true,
+		"bceca1e9-154d-4bff-ad52-6127c909b8eb": true,
+		"ff101d00-a9ab-4bab-9db6-dd01d75cbea1": true
+	}
+}

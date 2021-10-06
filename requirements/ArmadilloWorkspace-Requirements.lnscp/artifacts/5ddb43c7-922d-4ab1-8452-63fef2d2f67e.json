@@ -1,4 +1,7 @@
 {
+	"listIndex": 92.4800596634345,
+	"_guid": "5ddb43c7-922d-4ab1-8452-63fef2d2f67e",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "5ddb43c7-922d-4ab1-8452-63fef2d2f67e",
-	"timeStamp": 1623935546323,
 	"line": "UV Sensor",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 92.4800596634345,
-	"description": "An UV sensor directly integrated in the table could warn users when the UV radiation is too high."
+	"image": null,
+	"description": "An UV sensor directly integrated in the table could warn users when the UV radiation is too high.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623935546323
 }

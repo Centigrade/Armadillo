@@ -1,32 +1,37 @@
 {
-	"tags": [
-		"Feelgood"
-	],
 	"_guid": "474837c2-b8a3-49b2-8229-b33f377d4d0d",
 	"listIndex": 614.9487804816807,
-	"needingInformation": [],
+	"customId": null,
 	"needingEquipment": [
 		{
-			"_id": "60fec6c5b450f344921a8ac9",
 			"equipment": "83845695-d18c-494e-8bc7-5816f92d3f17"
 		}
 	],
+	"needingInformation": [],
+	"artifacts": [],
+	"lastArtifactType": "New",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4",
+	"manualGroupAssign": null,
+	"tags": [
+		"Feelgood"
+	],
 	"timeStamp": 1625127931136,
 	"originScenarioRef": "",
+	"userNeed": null,
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [],
+	"backgroundColor": null,
 	"title": "Drinking coffee or tea",
-	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

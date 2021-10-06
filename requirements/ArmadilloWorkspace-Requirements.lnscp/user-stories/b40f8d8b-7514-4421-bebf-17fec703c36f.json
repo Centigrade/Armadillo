@@ -1,60 +1,57 @@
 {
+	"_guid": "b40f8d8b-7514-4421-bebf-17fec703c36f",
+	"listIndex": 560.3645311538492,
+	"customId": null,
+	"needingEquipment": [
+		{
+			"equipment": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
+		},
+		{
+			"equipment": "3341edda-49a4-4911-8c2a-1c29345688e7"
+		}
+	],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "27da5b2a-8559-46b1-a0ea-3708880242b5"
+		},
+		{
+			"artifact": "006002c8-446d-4200-b1f1-df9aa91a4fe2"
+		},
+		{
+			"artifact": "3511d7aa-c12c-499f-9b86-7fc492487f42"
+		},
+		{
+			"artifact": "2d6353e6-a83d-4622-84c7-1f27dad550e8"
+		},
+		{
+			"artifact": "85e422f7-8eb6-4cd8-bc64-034f89c2dc43"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true,
 	"tags": [
 		"Protection",
 		"Outdoor"
 	],
-	"_guid": "b40f8d8b-7514-4421-bebf-17fec703c36f",
-	"listIndex": 560.3645311538492,
-	"needingInformation": [],
-	"needingEquipment": [
-		{
-			"_id": "60fec7ddb450f36f971a8b12",
-			"equipment": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
-		},
-		{
-			"_id": "60fec7ddb450f336311a8b13",
-			"equipment": "3341edda-49a4-4911-8c2a-1c29345688e7"
-		}
-	],
 	"timeStamp": 1624009475992,
 	"originScenarioRef": "",
+	"userNeed": "User do not want their electronics to get wet. It is the worst thing that could happen!",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60df22f7f2bf5c62324b1d0d",
-			"artifact": "27da5b2a-8559-46b1-a0ea-3708880242b5"
-		},
-		{
-			"_id": "60df22f7f2bf5c5ac64b1d0e",
-			"artifact": "006002c8-446d-4200-b1f1-df9aa91a4fe2"
-		},
-		{
-			"_id": "60df22f7f2bf5c44b94b1d0f",
-			"artifact": "3511d7aa-c12c-499f-9b86-7fc492487f42"
-		},
-		{
-			"_id": "60df22f7f2bf5c915e4b1d10",
-			"artifact": "2d6353e6-a83d-4622-84c7-1f27dad550e8"
-		},
-		{
-			"_id": "60df22f7f2bf5cdc584b1d11",
-			"artifact": "85e422f7-8eb6-4cd8-bc64-034f89c2dc43"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Staying dry",
-	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
-	"userNeed": "User do not want their electronics to get wet. It is the worst thing that could happen!",
-	"manualGroupAssign": true
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

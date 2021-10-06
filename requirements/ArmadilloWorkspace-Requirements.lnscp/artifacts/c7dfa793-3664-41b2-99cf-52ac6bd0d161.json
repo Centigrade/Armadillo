@@ -1,4 +1,7 @@
 {
+	"listIndex": 202.99951874118796,
+	"_guid": "c7dfa793-3664-41b2-99cf-52ac6bd0d161",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "c7dfa793-3664-41b2-99cf-52ac6bd0d161",
-	"timeStamp": 1623998156847,
 	"line": "Sunburns do happen in longer meetings",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 202.99951874118796,
+	"image": null,
 	"description": "When being \"trapped\" in longer meetings, it is not possible to change the position when the shadow vanishes. This might lead to situations where people have not made use of suncream (as they started the meeting in the shadows in the first place), being more vulnerable for sunburns.",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623998156847
 }

@@ -1,9 +1,13 @@
 {
-	"_guid": "319f762d-74d4-4058-aa7f-73c440208c67",
 	"listIndex": -277.71197188144646,
-	"line": "Electronics Compartment",
+	"_guid": "319f762d-74d4-4058-aa7f-73c440208c67",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
-	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7"
+	"line": "Electronics Compartment",
+	"imageRef": null,
+	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7",
+	"description": null,
+	"backgroundColor": null
 }

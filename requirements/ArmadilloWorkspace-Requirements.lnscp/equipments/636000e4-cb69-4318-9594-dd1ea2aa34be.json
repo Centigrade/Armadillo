@@ -1,9 +1,13 @@
 {
-	"_guid": "636000e4-cb69-4318-9594-dd1ea2aa34be",
 	"listIndex": -811.9818585026002,
-	"line": "Screw 4x25 roundhead",
-	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"_guid": "636000e4-cb69-4318-9594-dd1ea2aa34be",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
-	"charts": []
+	"charts": [],
+	"line": "Screw 4x25 roundhead",
+	"imageRef": "6dd0fccc-ab72-4344-b403-172aa65310d6",
+	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"description": null,
+	"backgroundColor": null
 }

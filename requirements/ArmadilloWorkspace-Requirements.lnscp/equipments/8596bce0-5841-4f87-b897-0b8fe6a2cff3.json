@@ -1,14 +1,18 @@
 {
-	"_guid": "8596bce0-5841-4f87-b897-0b8fe6a2cff3",
 	"listIndex": -291.2842669118659,
-	"line": "Food & Beverage Compartment",
+	"_guid": "8596bce0-5841-4f87-b897-0b8fe6a2cff3",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "60fec69cb450f37efa1a8abe",
+			"listIndex": null,
 			"_guid": "83845695-d18c-494e-8bc7-5816f92d3f17"
 		}
 	],
 	"charts": [],
-	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7"
+	"line": "Food & Beverage Compartment",
+	"imageRef": null,
+	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7",
+	"description": null,
+	"backgroundColor": null
 }

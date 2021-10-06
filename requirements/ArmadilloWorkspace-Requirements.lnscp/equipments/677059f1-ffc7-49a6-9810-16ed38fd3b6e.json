@@ -1,0 +1,22 @@
+{
+	"listIndex": -175.60353883189393,
+	"_guid": "677059f1-ffc7-49a6-9810-16ed38fd3b6e",
+	"customId": null,
+	"parameters": [],
+	"childEntities": [
+		{
+			"listIndex": null,
+			"_guid": "b5e25e87-dcfa-485f-8608-20ec2bd1301f"
+		},
+		{
+			"listIndex": null,
+			"_guid": "034f11b3-55a5-4102-9fdb-9022d72d27a6"
+		}
+	],
+	"charts": [],
+	"line": "Table Connector",
+	"imageRef": null,
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000",
+	"description": null,
+	"backgroundColor": null
+}

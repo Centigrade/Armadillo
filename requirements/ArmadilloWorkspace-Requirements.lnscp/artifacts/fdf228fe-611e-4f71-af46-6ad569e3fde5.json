@@ -1,0 +1,26 @@
+{
+	"listIndex": 1683.6411774362634,
+	"_guid": "fdf228fe-611e-4f71-af46-6ad569e3fde5",
+	"customId": null,
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"line": "Wifi and Coffee",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"image": null,
+	"description": "We observed, that visitors of the outdoor workspace want to join into the Wifi conveniently. Also, of course, they want to be offered something to drink (such as water) and especially good coffee ;)",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1628591379121
+}

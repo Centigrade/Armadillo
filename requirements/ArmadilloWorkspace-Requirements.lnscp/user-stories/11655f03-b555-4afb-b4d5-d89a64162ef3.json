@@ -1,0 +1,40 @@
+{
+	"_guid": "11655f03-b555-4afb-b4d5-d89a64162ef3",
+	"listIndex": 664.8960347575795,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "95c8fdbb-9291-47fe-987b-c0adaa9ca515"
+		},
+		{
+			"artifact": "eac49da4-f49f-4f72-8908-a55f31b0a589"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
+	"tags": [
+		"Health"
+	],
+	"timeStamp": 1625238192251,
+	"originScenarioRef": "",
+	"userNeed": null,
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"reasoningRef": null,
+	"task": "",
+	"benefit": "",
+	"benefittingRoleRefs": [],
+	"painPoint": "",
+	"processStep": "",
+	"backgroundColor": null,
+	"title": "Drinking enough water",
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

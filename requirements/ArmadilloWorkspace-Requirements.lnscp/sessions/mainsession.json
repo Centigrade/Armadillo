@@ -1,1 +1,15 @@
-{"_guid":"mainsession","fileName":"ResearchAndDevelopment-Spec","listIndex": 0,"version": "0.87"}
+{
+	"listIndex": 0,
+	"_guid": "mainsession",
+	"customId": null,
+	"branding": {
+		"logoUrl": null,
+		"headerPrimary": null,
+		"headerSecondary": null,
+		"bodyPrimary": null,
+		"bodySecondary": null
+	},
+	"name": null,
+	"fileName": "ResearchAndDevelopment-Spec",
+	"version": "0.87"
+}

@@ -1,4 +1,7 @@
 {
+	"listIndex": 151.91538465522882,
+	"_guid": "61cf2f5c-909a-4d4e-bad6-aa457a07e09a",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "61cf2f5c-909a-4d4e-bad6-aa457a07e09a",
-	"timeStamp": 1623940703889,
 	"line": "Lockable sidebag",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 151.91538465522882,
-	"description": "A side-bag integrated inside the smaller leg unit unfolds together with the leg unit itself. Similar to the canopy segments the bag can be unfolded like a spanish hand-fan at around 30°.\n\nOutside we the same fabrique like for the canopy (colors could be complementary) while inside we have strong inlay that cannot be easily damaged with a knife.\n\nFor security we provide a 3-digit code lock so that no keys need to be stored.\n\nInside the bag we provide several compartments for stuff like\n\n- display adapters\n- key chains\n- power supply\n- mouse and keyboard\n- smartphone stand\n- fidgets\n- beverage\n- food boxes\n..."
+	"image": null,
+	"description": "A side-bag integrated inside the smaller leg unit unfolds together with the leg unit itself. Similar to the canopy segments the bag can be unfolded like a spanish hand-fan at around 30°.\n\nOutside we the same fabrique like for the canopy (colors could be complementary) while inside we have strong inlay that cannot be easily damaged with a knife.\n\nFor security we provide a 3-digit code lock so that no keys need to be stored.\n\nInside the bag we provide several compartments for stuff like\n\n- display adapters\n- key chains\n- power supply\n- mouse and keyboard\n- smartphone stand\n- fidgets\n- beverage\n- food boxes\n...",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623940703889
 }

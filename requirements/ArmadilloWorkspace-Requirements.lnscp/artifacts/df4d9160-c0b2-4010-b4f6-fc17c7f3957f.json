@@ -1,4 +1,7 @@
 {
+	"listIndex": 107.42071348912643,
+	"_guid": "df4d9160-c0b2-4010-b4f6-fc17c7f3957f",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "df4d9160-c0b2-4010-b4f6-fc17c7f3957f",
-	"timeStamp": 1623935591550,
 	"line": "UV protection tissue",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 107.42071348912643,
-	"description": "The Armadillo canopy should be equipped with UV blocking tissue to protect users right away."
+	"image": null,
+	"description": "The Armadillo canopy should be equipped with UV blocking tissue to protect users right away.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623935591550
 }

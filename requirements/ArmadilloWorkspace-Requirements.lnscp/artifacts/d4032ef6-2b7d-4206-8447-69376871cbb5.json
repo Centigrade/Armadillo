@@ -1,4 +1,7 @@
 {
+	"listIndex": 1778.3844550059675,
+	"_guid": "d4032ef6-2b7d-4206-8447-69376871cbb5",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "d4032ef6-2b7d-4206-8447-69376871cbb5",
-	"timeStamp": 1628847343568,
 	"line": "Constant observation of weather",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 1778.3844550059675,
-	"description": "We observed that people who planned to work outdoors keep on watching the weather reports for the time when they plan to go outdoors. Or vice versa: whenever there is a timeframe of 4-8h of outdoor weather they want to know it in order to plan going outdoors for that period in time.\n\n\nThis constant observation of the current weather status is timeconsuming and stressful, as the weather changes quite often. We saw that the app \"Regenradar\" is quite reliable with their prognoses, at least two to one day before."
+	"image": null,
+	"description": "We observed that people who planned to work outdoors keep on watching the weather reports for the time when they plan to go outdoors. Or vice versa: whenever there is a timeframe of 4-8h of outdoor weather they want to know it in order to plan going outdoors for that period in time.\n\n\nThis constant observation of the current weather status is timeconsuming and stressful, as the weather changes quite often. We saw that the app \"Regenradar\" is quite reliable with their prognoses, at least two to one day before.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1628847343568
 }

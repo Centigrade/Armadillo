@@ -1,9 +1,13 @@
 {
-	"_guid": "3341edda-49a4-4911-8c2a-1c29345688e7",
 	"listIndex": -343.8488166070083,
-	"line": "Rain poncho",
+	"_guid": "3341edda-49a4-4911-8c2a-1c29345688e7",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
-	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c"
+	"line": "Rain poncho",
+	"imageRef": null,
+	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
+	"description": null,
+	"backgroundColor": null
 }

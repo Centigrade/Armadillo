@@ -1,0 +1,27 @@
+{
+	"listIndex": 38.61050644071547,
+	"_guid": "b445a0e4-277d-4f84-a2ac-db7029909ad7",
+	"customId": null,
+	"imagePath": null,
+	"equipment": [],
+	"scenario": [],
+	"startTime": {
+		"year": null,
+		"month": null,
+		"time": {
+			"hour": null,
+			"minute": null,
+			"second": null
+		}
+	},
+	"title": "Cleaning up and storing stuff",
+	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+	"primaryActorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"environment": "",
+	"personaGoal": "",
+	"interactions": "",
+	"preconditions": "",
+	"verificationStatus": "unverified",
+	"backgroundColor": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

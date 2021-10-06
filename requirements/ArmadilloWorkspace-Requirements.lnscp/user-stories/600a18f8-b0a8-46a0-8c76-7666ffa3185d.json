@@ -1,42 +1,44 @@
 {
+	"_guid": "600a18f8-b0a8-46a0-8c76-7666ffa3185d",
+	"listIndex": 734.5115185061906,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "2fbbb072-49ea-4f07-9438-c496c7e56391"
+		},
+		{
+			"artifact": "33fc8f51-ec21-40cf-a0e6-483a3fa29c27"
+		},
+		{
+			"artifact": "18830cf2-af60-466d-801f-1aacf815d248"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Health",
 		"Ergonomics"
 	],
-	"_guid": "600a18f8-b0a8-46a0-8c76-7666ffa3185d",
-	"listIndex": 734.5115185061906,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1627309306024,
 	"originScenarioRef": "",
+	"userNeed": "Some colleagues want to stand rather than sit to treat their spine with care",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60fec5f8b450f358ba1a8a96",
-			"artifact": "2fbbb072-49ea-4f07-9438-c496c7e56391"
-		},
-		{
-			"_id": "60fec5f8b450f309e71a8a97",
-			"artifact": "33fc8f51-ec21-40cf-a0e6-483a3fa29c27"
-		},
-		{
-			"_id": "60fec5f8b450f3d3431a8a98",
-			"artifact": "18830cf2-af60-466d-801f-1aacf815d248"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Working while standing",
-	"userNeed": "Some colleagues want to stand rather than sit to treat their spine with care",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

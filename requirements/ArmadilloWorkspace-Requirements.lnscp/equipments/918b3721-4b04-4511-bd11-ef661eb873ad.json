@@ -1,26 +1,30 @@
 {
-	"_guid": "918b3721-4b04-4511-bd11-ef661eb873ad",
 	"listIndex": -302.16023081950465,
-	"line": "Convenience Compartment",
+	"_guid": "918b3721-4b04-4511-bd11-ef661eb873ad",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "60fec836b450f34de71a8b26",
+			"listIndex": null,
 			"_guid": "3341edda-49a4-4911-8c2a-1c29345688e7"
 		},
 		{
-			"_id": "60fec836b450f3c9981a8b27",
+			"listIndex": null,
 			"_guid": "ffac6c57-2018-471e-8bc2-1d5652f44b22"
 		},
 		{
-			"_id": "60fec836b450f301ad1a8b28",
+			"listIndex": null,
 			"_guid": "d87ff31d-98a2-4f64-97d5-589b23414017"
 		},
 		{
-			"_id": "60fec836b450f3bd301a8b29",
+			"listIndex": null,
 			"_guid": "f84a18fc-73a0-4d0b-aa6a-4613f1f14a12"
 		}
 	],
 	"charts": [],
-	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7"
+	"line": "Convenience Compartment",
+	"imageRef": null,
+	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7",
+	"description": null,
+	"backgroundColor": null
 }

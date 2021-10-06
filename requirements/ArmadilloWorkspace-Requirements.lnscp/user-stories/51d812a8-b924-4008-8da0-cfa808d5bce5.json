@@ -1,64 +1,60 @@
 {
+	"_guid": "51d812a8-b924-4008-8da0-cfa808d5bce5",
+	"listIndex": 547.5600602008033,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "c7dfa793-3664-41b2-99cf-52ac6bd0d161"
+		},
+		{
+			"artifact": "f564e6f4-e375-4dd3-a060-36ad74c18b1a"
+		},
+		{
+			"artifact": "5ddb43c7-922d-4ab1-8452-63fef2d2f67e"
+		},
+		{
+			"artifact": "df4d9160-c0b2-4010-b4f6-fc17c7f3957f"
+		},
+		{
+			"artifact": "27703e77-433e-48f7-af26-26320f679c55"
+		},
+		{
+			"artifact": "ccc22026-a289-46f7-926e-6e0a8466ac3d"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true,
 	"tags": [
 		"Outdoor",
 		"Health"
 	],
-	"_guid": "51d812a8-b924-4008-8da0-cfa808d5bce5",
-	"listIndex": 547.5600602008033,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1623932015829,
 	"originScenarioRef": "",
+	"userNeed": "Employees might forget about the dangers that sunshine can provoke when too intense. They should not be harmed in any case. Especially bare foot usage with short trousers of skirts can lead to burned feet.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"roleRef": "f5f04b67-c60e-466f-bc86-6869b8577096",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
-	"painPoint": "",
-	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
 	"benefittingRoleRefs": [
 		{
-			"_id": "60cb3c98f2bf5cb4c04ab761",
 			"roleRef": "106dec96-6969-415b-874d-19ec0b53f879"
 		},
 		{
-			"_id": "60cb3c98f2bf5c75264ab762",
 			"roleRef": ""
 		}
 	],
-	"artifacts": [
-		{
-			"_id": "60decfb2f2bf5c3a5b4b1bb3",
-			"artifact": "c7dfa793-3664-41b2-99cf-52ac6bd0d161"
-		},
-		{
-			"_id": "60decfb2f2bf5c397d4b1bb4",
-			"artifact": "f564e6f4-e375-4dd3-a060-36ad74c18b1a"
-		},
-		{
-			"_id": "60decfb2f2bf5c2b7c4b1bb5",
-			"artifact": "5ddb43c7-922d-4ab1-8452-63fef2d2f67e"
-		},
-		{
-			"_id": "60decfb2f2bf5c44534b1bb6",
-			"artifact": "df4d9160-c0b2-4010-b4f6-fc17c7f3957f"
-		},
-		{
-			"_id": "60decfb2f2bf5c3a6a4b1bb7",
-			"artifact": "27703e77-433e-48f7-af26-26320f679c55"
-		},
-		{
-			"_id": "60decfb2f2bf5c3ca64b1bb8",
-			"artifact": "ccc22026-a289-46f7-926e-6e0a8466ac3d"
-		}
-	],
+	"painPoint": "",
+	"processStep": "",
+	"backgroundColor": null,
 	"title": "Avoiding sunburns",
-	"userNeed": "Employees might forget about the dangers that sunshine can provoke when too intense. They should not be harmed in any case. Especially bare foot usage with short trousers of skirts can lead to burned feet.",
-	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
-	"manualGroupAssign": true
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

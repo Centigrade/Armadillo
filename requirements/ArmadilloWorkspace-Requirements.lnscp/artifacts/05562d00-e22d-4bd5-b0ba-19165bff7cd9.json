@@ -1,4 +1,7 @@
 {
+	"listIndex": 1327.3265157637152,
+	"_guid": "05562d00-e22d-4bd5-b0ba-19165bff7cd9",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "05562d00-e22d-4bd5-b0ba-19165bff7cd9",
-	"timeStamp": 1627139612876,
 	"line": "Break indicator",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1327.3265157637152,
-	"description": "An LED in the table could indicate after 4 hours of work to take a break. A small distance sensor resets this warning automatically as it sensors when users leave their desk. "
+	"image": null,
+	"description": "An LED in the table could indicate after 4 hours of work to take a break. A small distance sensor resets this warning automatically as it sensors when users leave their desk. ",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627139612876
 }

@@ -1,4 +1,7 @@
 {
+	"listIndex": 256.09384836940075,
+	"_guid": "947ce6d5-454e-4110-84f0-1a47d8dd88a5",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "947ce6d5-454e-4110-84f0-1a47d8dd88a5",
-	"timeStamp": 1624004028492,
 	"line": "Stable storage for drinks needed",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 256.09384836940075,
+	"image": null,
 	"description": "We observe that users have at least one or two bottles on their table (and they are getting more through the course of the day). When moving the table, these drinks oftentimes fall and could harm the electrical equipment.\nAfter a while in the outdoor environment, the drinks become warm very soon.",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624004028492
 }

@@ -1,4 +1,7 @@
 {
+	"listIndex": 1614.187148563955,
+	"_guid": "c3ba42aa-8105-405b-acc7-b201bc81ae33",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "c3ba42aa-8105-405b-acc7-b201bc81ae33",
-	"timeStamp": 1628581733461,
 	"line": "Placing stuff",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 1614.187148563955,
-	"description": "We observed that people have a tendency to prefer larger desks so that apart from their laptop they can store and place their additional stuff such as drinks, mouse, sketchbook etc."
+	"image": null,
+	"description": "We observed that people have a tendency to prefer larger desks so that apart from their laptop they can store and place their additional stuff such as drinks, mouse, sketchbook etc.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1628581733461
 }

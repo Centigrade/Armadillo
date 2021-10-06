@@ -1,0 +1,26 @@
+{
+	"listIndex": null,
+	"_guid": "46f0f919-d5cd-4695-a4c4-c640b1a14edd",
+	"customId": null,
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"line": "Insects all around",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"image": null,
+	"description": "- Hornisse-\n- Zecken\n- Grasmilben",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1625214620629
+}

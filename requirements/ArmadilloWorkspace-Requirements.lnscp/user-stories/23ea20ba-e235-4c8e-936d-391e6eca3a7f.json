@@ -1,0 +1,35 @@
+{
+	"_guid": "23ea20ba-e235-4c8e-936d-391e6eca3a7f",
+	"listIndex": 651.3136321596311,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "4ca48bcc-f44e-4b5c-98c4-39fb5e636d50"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
+	"tags": [],
+	"timeStamp": 1625237136536,
+	"originScenarioRef": "",
+	"userNeed": "A modern employer that has a lot of employees working all around the world at any time needs to check whether they are currently at their work desk or not.",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "638ccc8c-ed2b-4c61-b1c1-f801dde06c87",
+	"roleRef": "",
+	"driverRef": "",
+	"reasoningRef": null,
+	"task": "",
+	"benefit": "",
+	"benefittingRoleRefs": [],
+	"painPoint": "",
+	"processStep": "",
+	"backgroundColor": null,
+	"title": "Knowing availability",
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

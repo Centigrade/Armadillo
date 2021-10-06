@@ -1,4 +1,7 @@
 {
+	"listIndex": 233.5412766112395,
+	"_guid": "6fbe3bf3-c457-46cf-8dc3-2b842560c82c",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "6fbe3bf3-c457-46cf-8dc3-2b842560c82c",
-	"timeStamp": 1624002467466,
 	"line": "Automatic pull back cord",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 233.5412766112395,
-	"description": "Similar to a vacuum cleaner we could provide an automatic pull-back mechanism that pulls in the cord when dragging on it."
+	"image": null,
+	"description": "Similar to a vacuum cleaner we could provide an automatic pull-back mechanism that pulls in the cord when dragging on it.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624002467466
 }

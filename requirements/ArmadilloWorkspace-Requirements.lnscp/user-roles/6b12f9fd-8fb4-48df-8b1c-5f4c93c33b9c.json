@@ -1,20 +1,21 @@
 {
+	"listIndex": -23.015075732290107,
+	"_guid": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
+	"customId": null,
 	"tasks": [
 		"a750d2c3-6cb5-40eb-8576-277db951ca92",
 		"c7d67743-9efb-44ee-ba32-418449a9fd55",
 		"94e3d40f-5a2f-4632-8ea2-c3a0daee8277"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [
 		"6258e1cb-dee9-4073-b029-d84838678bd5"
 	],
-	"_guid": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
-	"listIndex": -23.015075732290107,
 	"role": "Digital Design Professional",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
-	"importance": 3,
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "short",
 	"hairColor": "black",
 	"headRef": "head",
@@ -35,6 +36,8 @@
 	"upperBodyColor": "orange",
 	"attributeRightRef": "megaphone",
 	"attributeRightColor": "pink",
-	"resources": [],
-	"color": null
+	"importance": 3,
+	"backgroundColor": null,
+	"baseRole": null,
+	"resources": []
 }

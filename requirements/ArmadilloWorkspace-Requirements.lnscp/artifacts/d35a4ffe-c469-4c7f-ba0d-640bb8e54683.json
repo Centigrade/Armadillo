@@ -1,4 +1,7 @@
 {
+	"listIndex": 616.0404809868003,
+	"_guid": "d35a4ffe-c469-4c7f-ba0d-640bb8e54683",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "d35a4ffe-c469-4c7f-ba0d-640bb8e54683",
-	"timeStamp": 1624199097808,
 	"line": "Time-consuming setup",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 616.0404809868003,
+	"image": null,
 	"description": "We observed that users need a significant amount of time to setup the desk in front of their office building. That's because:\na) they need to take the elevator to get from their stationary workplace to their outdoor workplace\nb) they need to go twice to also fetch their chair (or even three times to fetch and setup the wifi)\nc) they need to assemble the desk carefully, sometimes asking for help\n\n",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624199097808
 }

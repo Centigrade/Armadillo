@@ -1,4 +1,7 @@
 {
+	"listIndex": 1003.4079160862717,
+	"_guid": "c1efec60-e215-4f47-9905-6c97db6f55d1",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "c1efec60-e215-4f47-9905-6c97db6f55d1",
-	"timeStamp": 1624526871600,
 	"line": "Filming",
 	"url": "",
 	"typeRef": "cd8c7c55-dcbc-4869-a6ff-bb77081c528d",
-	"listIndex": 1003.4079160862717,
-	"description": "Plugging into the solar powerd socket when doing the setup at the Hackaton. Showing that workplaces can now be anywhere and indipendet from electrical infrastructure."
+	"image": null,
+	"description": "Plugging into the solar powerd socket when doing the setup at the Hackaton. Showing that workplaces can now be anywhere and indipendet from electrical infrastructure.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624526871600
 }

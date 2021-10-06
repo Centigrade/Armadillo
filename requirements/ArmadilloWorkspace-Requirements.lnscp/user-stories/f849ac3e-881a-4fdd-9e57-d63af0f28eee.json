@@ -1,33 +1,37 @@
 {
+	"_guid": "f849ac3e-881a-4fdd-9e57-d63af0f28eee",
+	"listIndex": 410.3102830286198,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "a2036e5a-aaa9-47b6-af03-10e5c09701ec"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
 	"tags": [
 		"Socializing"
 	],
-	"_guid": "f849ac3e-881a-4fdd-9e57-d63af0f28eee",
-	"listIndex": 410.3102830286198,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624201051543,
 	"originScenarioRef": "",
+	"userNeed": "Users do not just want to work together but also do gossip or kitchen nonsense talk",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cf579bf2bf5ca8e84ad946",
-			"artifact": "a2036e5a-aaa9-47b6-af03-10e5c09701ec"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Socializing with colleagues",
-	"userNeed": "Users do not just want to work together but also do gossip or kitchen nonsense talk",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

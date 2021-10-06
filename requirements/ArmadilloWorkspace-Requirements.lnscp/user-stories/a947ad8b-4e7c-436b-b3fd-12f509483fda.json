@@ -1,42 +1,44 @@
 {
-	"tags": [
-		"Feelgood"
-	],
 	"_guid": "a947ad8b-4e7c-436b-b3fd-12f509483fda",
 	"listIndex": 353.8440010846404,
-	"needingInformation": [],
+	"customId": null,
 	"needingEquipment": [
 		{
-			"_id": "615aed23c8985703591643bc",
 			"equipment": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
 		}
 	],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "9ce17242-baeb-43de-8140-c2b3ea8fb4c7"
+		},
+		{
+			"artifact": "8184b53c-e438-4753-8df2-0c1315404afd"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
+	"tags": [
+		"Feelgood"
+	],
 	"timeStamp": 1624023976949,
 	"originScenarioRef": "",
+	"userNeed": "Users do not want to ask somebody else to setup their canopy position as it is a very personal preference.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cca456f2bf5c4fd84ad525",
-			"artifact": "9ce17242-baeb-43de-8140-c2b3ea8fb4c7"
-		},
-		{
-			"_id": "60cca456f2bf5cfe4b4ad526",
-			"artifact": "8184b53c-e438-4753-8df2-0c1315404afd"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Changing the canopy position",
-	"userNeed": "Users do not want to ask somebody else to setup their canopy position as it is a very personal preference.",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

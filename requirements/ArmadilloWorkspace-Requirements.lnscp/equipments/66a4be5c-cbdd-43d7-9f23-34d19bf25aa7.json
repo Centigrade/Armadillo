@@ -1,18 +1,34 @@
 {
+	"listIndex": -607.8996461101743,
 	"_guid": "66a4be5c-cbdd-43d7-9f23-34d19bf25aa7",
-	"line": "Armadillo One Tools",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "615d9f55c898570aea1652da",
-			"_guid": "a6e82ae2-6145-4983-b927-12543f262e0d"
+			"listIndex": null,
+			"_guid": "d71cfa21-5e50-48d2-8697-03024137b535"
 		},
 		{
-			"_id": "615d9f55c8985757a91652db",
-			"_guid": "d5eb610c-d0b1-406d-946a-a2d1c00f3ffa"
+			"listIndex": null,
+			"_guid": "8151ecc6-53b4-438c-ac03-710ab13368c2"
+		},
+		{
+			"listIndex": null,
+			"_guid": "8fb6a1af-96ed-4b8a-95fd-ee0b93c15b36"
+		},
+		{
+			"listIndex": null,
+			"_guid": "46ccead1-0cbc-484a-bd12-df839faa77d1"
+		},
+		{
+			"listIndex": null,
+			"_guid": "90c7443d-acfd-4897-ade5-50e5eb223b9a"
 		}
 	],
 	"charts": [],
+	"line": "Armadillo One Tools",
+	"imageRef": "38d0fe26-20fb-4e6b-b0c9-0f83ee877fcc",
 	"typeRef": "688ee03f-432d-4d73-9c7f-8895b24f21fd",
-	"imageRef": "38d0fe26-20fb-4e6b-b0c9-0f83ee877fcc"
+	"description": null,
+	"backgroundColor": null
 }

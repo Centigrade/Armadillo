@@ -1,35 +1,39 @@
 {
+	"_guid": "d1d2cc02-0b17-4a3b-a9a6-d14bf160518c",
+	"listIndex": 467.81011627863484,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "3deda0e6-1237-4403-a661-3e969376e4d2"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
 	"tags": [
 		"Outdoor",
 		"Effectiveness",
 		"Protection"
 	],
-	"_guid": "d1d2cc02-0b17-4a3b-a9a6-d14bf160518c",
-	"listIndex": 467.81011627863484,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624286135460,
 	"originScenarioRef": "",
+	"userNeed": "Users need to have a silent signal on their microphone during meetings. Wind or storm affects the audio quality in a bad way.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60d0a3e4f2bf5c4ac54adbef",
-			"artifact": "3deda0e6-1237-4403-a661-3e969376e4d2"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Keeping windyness low",
-	"userNeed": "Users need to have a silent signal on their microphone during meetings. Wind or storm affects the audio quality in a bad way.",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

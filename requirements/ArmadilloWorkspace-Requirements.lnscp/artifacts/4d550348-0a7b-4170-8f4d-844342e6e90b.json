@@ -1,4 +1,7 @@
 {
+	"listIndex": -42.10364493293328,
+	"_guid": "4d550348-0a7b-4170-8f4d-844342e6e90b",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "4d550348-0a7b-4170-8f4d-844342e6e90b",
-	"timeStamp": 1623932229879,
 	"line": "Orientation towards the South",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": -42.10364493293328,
-	"description": "When the Armadillo desk is oriented towards south, the shadow moves shorter distances and therefore provides longer shadows. We observed that no user knows this fact intuitively."
+	"image": null,
+	"description": "When the Armadillo desk is oriented towards south, the shadow moves shorter distances and therefore provides longer shadows. We observed that no user knows this fact intuitively.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623932229879
 }

@@ -1,40 +1,43 @@
 {
+	"_guid": "3e46d55d-ed17-4922-a550-64c3f5237c88",
+	"listIndex": 712.1833388383938,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "efc8c5d8-14a6-4d7c-a690-4e28cf808151"
+		},
+		{
+			"artifact": "05562d00-e22d-4bd5-b0ba-19165bff7cd9"
+		},
+		{
+			"artifact": "0d9395b8-b2b0-45f5-8726-02631f7718d2"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Health"
 	],
-	"_guid": "3e46d55d-ed17-4922-a550-64c3f5237c88",
-	"listIndex": 712.1833388383938,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1627139554028,
 	"originScenarioRef": "",
+	"userNeed": null,
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60fc2ef2b450f30e931a82cf",
-			"artifact": "efc8c5d8-14a6-4d7c-a690-4e28cf808151"
-		},
-		{
-			"_id": "60fc2ef2b450f360511a82d0",
-			"artifact": "05562d00-e22d-4bd5-b0ba-19165bff7cd9"
-		},
-		{
-			"_id": "60fc2ef2b450f325ae1a82d1",
-			"artifact": "0d9395b8-b2b0-45f5-8726-02631f7718d2"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Knowing when to take a break",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

@@ -1,4 +1,7 @@
 {
+	"listIndex": 0.0929949411881017,
+	"_guid": "7e73e03f-ca2a-4342-b8c3-b83a49efc1ad",
+	"customId": null,
 	"tasks": [
 		"64989a18-bad7-4621-987e-bed8cb7ae391",
 		"caa416f9-3b50-489f-b3b3-b1a07a21d593",
@@ -6,14 +9,12 @@
 		"c78ed8bd-bb55-4b09-a371-7658f748d03f"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [],
-	"_guid": "7e73e03f-ca2a-4342-b8c3-b83a49efc1ad",
-	"listIndex": 0.0929949411881017,
 	"role": "HR Manager",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
-	"importance": 3,
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "no-hair",
 	"hairColor": "grey",
 	"headRef": "head",
@@ -34,5 +35,8 @@
 	"upperBodyColor": "grey",
 	"attributeRightRef": "no-attribute",
 	"attributeRightColor": "grey",
+	"importance": 3,
+	"backgroundColor": null,
+	"baseRole": null,
 	"resources": []
 }

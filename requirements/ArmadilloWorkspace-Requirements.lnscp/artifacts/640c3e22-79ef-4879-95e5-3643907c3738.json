@@ -1,4 +1,7 @@
 {
+	"listIndex": 495.7687777685087,
+	"_guid": "640c3e22-79ef-4879-95e5-3643907c3738",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "640c3e22-79ef-4879-95e5-3643907c3738",
-	"timeStamp": 1624020851479,
 	"line": "Anti-theft dummy",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 495.7687777685087,
-	"description": "We deliver inflatable legs that people can put on their chair so that with a closed canopy everybody from outside thinks, that somebody is actually sitting their. 🤣"
+	"image": null,
+	"description": "We deliver inflatable legs that people can put on their chair so that with a closed canopy everybody from outside thinks, that somebody is actually sitting their. 🤣",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624020851479
 }

@@ -1,4 +1,7 @@
 {
+	"listIndex": 378.0137749973403,
+	"_guid": "8a14a3b9-85e5-45a7-ab88-267da7b228b0",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "8a14a3b9-85e5-45a7-ab88-267da7b228b0",
-	"timeStamp": 1624006968758,
 	"line": "",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 378.0137749973403,
-	"description": "We observed that some users did not spread the legs to the max as intended and therefore had a stability "
+	"image": null,
+	"description": "We observed that some users did not spread the legs to the max as intended and therefore had a stability ",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624006968758
 }

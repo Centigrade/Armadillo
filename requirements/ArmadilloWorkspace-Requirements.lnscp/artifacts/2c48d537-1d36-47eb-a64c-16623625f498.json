@@ -1,4 +1,7 @@
 {
+	"listIndex": 451.4796269844418,
+	"_guid": "2c48d537-1d36-47eb-a64c-16623625f498",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "2c48d537-1d36-47eb-a64c-16623625f498",
-	"timeStamp": 1624018943491,
 	"line": "Storable folding chair",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 451.4796269844418,
-	"description": "For the portrait mode version of the Armadillo it would be great if the chair can be integrated directly into the table so that users only have to carry one single piece."
+	"image": null,
+	"description": "For the portrait mode version of the Armadillo it would be great if the chair can be integrated directly into the table so that users only have to carry one single piece.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624018943491
 }

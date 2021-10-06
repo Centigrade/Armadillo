@@ -1,9 +1,13 @@
 {
-	"_guid": "ffac6c57-2018-471e-8bc2-1d5652f44b22",
 	"listIndex": -319.960061226089,
-	"line": "Blanket",
+	"_guid": "ffac6c57-2018-471e-8bc2-1d5652f44b22",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
-	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c"
+	"line": "Blanket",
+	"imageRef": null,
+	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
+	"description": null,
+	"backgroundColor": null
 }

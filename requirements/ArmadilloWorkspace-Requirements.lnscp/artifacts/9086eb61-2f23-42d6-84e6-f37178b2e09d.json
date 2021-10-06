@@ -1,4 +1,7 @@
 {
+	"listIndex": 120.0055626451367,
+	"_guid": "9086eb61-2f23-42d6-84e6-f37178b2e09d",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "9086eb61-2f23-42d6-84e6-f37178b2e09d",
-	"timeStamp": 1623939281165,
 	"line": "Users do not want to be selfish through taking the desk",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 120.0055626451367,
-	"description": "Users were a bit reluctant when it came to using the desk as they thought they might prevent other colleagues from using the desk and do not want to behave selfish. If a booking system such as the Outlook calender shows, that enough desks are available, users are more confident."
+	"image": null,
+	"description": "Users were a bit reluctant when it came to using the desk as they thought they might prevent other colleagues from using the desk and do not want to behave selfish. If a booking system such as the Outlook calender shows, that enough desks are available, users are more confident.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623939281165
 }

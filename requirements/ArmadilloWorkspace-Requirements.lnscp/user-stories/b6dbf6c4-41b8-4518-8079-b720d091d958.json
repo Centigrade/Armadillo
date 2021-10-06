@@ -1,37 +1,40 @@
 {
+	"_guid": "b6dbf6c4-41b8-4518-8079-b720d091d958",
+	"listIndex": 421.8428563607242,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "c9dcad08-8071-4662-b48a-77c2b8061581"
+		},
+		{
+			"artifact": "c2787d19-a35b-4c81-ac27-7a9aa7089f74"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Onboarding"
 	],
-	"_guid": "b6dbf6c4-41b8-4518-8079-b720d091d958",
-	"listIndex": 421.8428563607242,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624262815713,
 	"originScenarioRef": "",
+	"userNeed": "Users want to be confident about how to setup the desk properly, because it might be embarrassing not to achieve it or even break something.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60d048f5f2bf5c085d4ad9c6",
-			"artifact": "c9dcad08-8071-4662-b48a-77c2b8061581"
-		},
-		{
-			"_id": "60d048f5f2bf5c2ee94ad9c7",
-			"artifact": "c2787d19-a35b-4c81-ac27-7a9aa7089f74"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Getting onboarded quickly",
-	"userNeed": "Users want to be confident about how to setup the desk properly, because it might be embarrassing not to achieve it or even break something.",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

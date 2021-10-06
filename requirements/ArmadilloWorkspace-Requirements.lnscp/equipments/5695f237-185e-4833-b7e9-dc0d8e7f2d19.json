@@ -1,23 +1,22 @@
 {
+	"listIndex": -964.4090177856024,
 	"_guid": "5695f237-185e-4833-b7e9-dc0d8e7f2d19",
-	"line": "Armadillo One Materials",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "615d9f79c898573997165307",
-			"_guid": "a8884e02-5825-4279-bd02-2c10fd3d06b0"
+			"listIndex": null,
+			"_guid": "6a24626f-c1b9-4d3a-9525-ab371092b642"
 		},
 		{
-			"_id": "615d9f79c898572f1c165308",
-			"_guid": "de7136c9-a27b-4a15-af6f-1465ac453a47"
-		},
-		{
-			"_id": "615d9f79c8985766fb165309",
-			"_guid": "72ea6408-5b0a-4e8f-b726-6378f186ddc2"
+			"listIndex": null,
+			"_guid": "b3cf708d-ff19-49f9-af08-9b5336e229f3"
 		}
 	],
 	"charts": [],
-	"typeRef": "688ee03f-432d-4d73-9c7f-8895b24f21fd",
+	"line": "Armadillo One Materials",
 	"imageRef": "38d0fe26-20fb-4e6b-b0c9-0f83ee877fcc",
-	"listIndex": -964.4090177856024
+	"typeRef": "688ee03f-432d-4d73-9c7f-8895b24f21fd",
+	"description": null,
+	"backgroundColor": null
 }

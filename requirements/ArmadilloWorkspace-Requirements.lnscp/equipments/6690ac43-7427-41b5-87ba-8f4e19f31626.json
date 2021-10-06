@@ -1,18 +1,41 @@
 {
-	"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626",
 	"listIndex": -44.93294148983488,
-	"line": "Armadillo Canopy Adjuster",
+	"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626",
+	"customId": null,
 	"parameters": [
 		{
-			"_id": "60d1bc91f2bf5cb20c4addef",
-			"key": "Height"
+			"listIndex": null,
+			"_guid": null,
+			"customId": null,
+			"key": "Height",
+			"value": null
 		},
 		{
-			"_id": "60d1bc91f2bf5cb7964addf0",
-			"key": "Width"
+			"listIndex": null,
+			"_guid": null,
+			"customId": null,
+			"key": "Width",
+			"value": null
 		}
 	],
-	"childEntities": [],
+	"childEntities": [
+		{
+			"listIndex": null,
+			"_guid": "519064a5-1026-40f7-bc5c-87c4c241de8f"
+		},
+		{
+			"listIndex": null,
+			"_guid": "63952e62-c3ed-45e6-a73d-bbaa00039ec1"
+		},
+		{
+			"listIndex": null,
+			"_guid": "95690136-7507-45d8-93e5-63fa8bf32637"
+		}
+	],
 	"charts": [],
-	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000"
+	"line": "Armadillo Canopy Adjuster",
+	"imageRef": null,
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000",
+	"description": null,
+	"backgroundColor": null
 }

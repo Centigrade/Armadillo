@@ -1,43 +1,44 @@
 {
+	"_guid": "8943f9a7-0489-441a-8179-de6966c28655",
+	"listIndex": 531.3955243737981,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "57be0834-5a71-4e5e-bd35-e0820e2e8369"
+		},
+		{
+			"artifact": "5a9c7f73-1d5d-4e2c-b3cc-bbb22acf5b4c"
+		},
+		{
+			"artifact": "c1efec60-e215-4f47-9905-6c97db6f55d1"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true,
 	"tags": [
 		"Outdoor",
 		"Offgrid"
 	],
-	"_guid": "8943f9a7-0489-441a-8179-de6966c28655",
-	"listIndex": 531.3955243737981,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1623939468159,
 	"originScenarioRef": "1c2c8c4d-3572-4190-bff4-1af312403280",
+	"userNeed": "Employees do not want to work only on their laptop battery but want to run exernal monitors",
 	"originScenarioStepRef": "fcbd8984-5326-454e-a753-49a285d98044",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60d45018f2bf5c456d4af70c",
-			"artifact": "57be0834-5a71-4e5e-bd35-e0820e2e8369"
-		},
-		{
-			"_id": "60d45018f2bf5cc48f4af70d",
-			"artifact": "5a9c7f73-1d5d-4e2c-b3cc-bbb22acf5b4c"
-		},
-		{
-			"_id": "60d45018f2bf5c97014af70e",
-			"artifact": "c1efec60-e215-4f47-9905-6c97db6f55d1"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Having enough electrical power offgrid",
-	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
-	"userNeed": "Employees do not want to work only on their laptop battery but want to run exernal monitors",
-	"manualGroupAssign": true
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

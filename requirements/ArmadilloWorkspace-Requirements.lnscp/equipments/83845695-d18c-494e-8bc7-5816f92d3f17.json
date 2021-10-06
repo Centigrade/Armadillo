@@ -1,9 +1,13 @@
 {
-	"_guid": "83845695-d18c-494e-8bc7-5816f92d3f17",
 	"listIndex": -371.9722134129396,
-	"line": "Thermos Flask",
+	"_guid": "83845695-d18c-494e-8bc7-5816f92d3f17",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
-	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c"
+	"line": "Thermos Flask",
+	"imageRef": null,
+	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
+	"description": null,
+	"backgroundColor": null
 }

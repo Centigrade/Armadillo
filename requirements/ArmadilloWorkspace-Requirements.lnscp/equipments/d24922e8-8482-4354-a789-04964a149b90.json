@@ -1,15 +1,26 @@
 {
-	"_guid": "d24922e8-8482-4354-a789-04964a149b90",
 	"listIndex": -21.135228898959987,
-	"line": "Armadillo Desk",
+	"_guid": "d24922e8-8482-4354-a789-04964a149b90",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "615d6f20c898577897165088",
+			"listIndex": null,
 			"_guid": "44d375e7-b0f1-4bc0-a303-2f2ded5c8c33"
+		},
+		{
+			"listIndex": null,
+			"_guid": "8e60c33d-2f29-4ebc-8bd7-30f78ef993dd"
+		},
+		{
+			"listIndex": null,
+			"_guid": "5a54a982-4d57-452e-956b-caf3365a41db"
 		}
 	],
 	"charts": [],
+	"line": "Armadillo Desk",
+	"imageRef": null,
 	"typeRef": "6cf78153-ef92-467e-a0d8-9ab6b3eeb896",
-	"description": ""
+	"description": "",
+	"backgroundColor": null
 }

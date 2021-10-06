@@ -1,4 +1,7 @@
 {
+	"listIndex": 50.975858894750715,
+	"_guid": "2967dd60-c1b6-401b-89af-f639c4492234",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "2967dd60-c1b6-401b-89af-f639c4492234",
-	"timeStamp": 1623934878480,
 	"line": "Trial and error for better horizontal alignment",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 50.975858894750715,
-	"description": "When setting up the canopy it is sometimes difficult for users to arrive at a horizontal alignment as each side is setup individually. There is a lot of trial and error getting the horizontal position aligned."
+	"image": null,
+	"description": "When setting up the canopy it is sometimes difficult for users to arrive at a horizontal alignment as each side is setup individually. There is a lot of trial and error getting the horizontal position aligned.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623934878480
 }

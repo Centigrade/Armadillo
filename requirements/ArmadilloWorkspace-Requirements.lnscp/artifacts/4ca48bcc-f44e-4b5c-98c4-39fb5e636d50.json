@@ -1,0 +1,26 @@
+{
+	"listIndex": 1122.603627270489,
+	"_guid": "4ca48bcc-f44e-4b5c-98c4-39fb5e636d50",
+	"customId": null,
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"line": "Map with Desk spots",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"image": null,
+	"description": "As the desk or the smartphone of the user will have a GPS module installed, we already know the location of the desk via the Desk App. We could integrate an ultra sonic sensor inside the table so that we know if somebody is actually sitting at the desk or not to visualize this status on a map (green means, stationary work possble, yellow means only mobile work possible)",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1625237184099
+}

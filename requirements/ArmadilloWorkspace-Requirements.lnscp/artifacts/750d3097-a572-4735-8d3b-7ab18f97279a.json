@@ -1,4 +1,7 @@
 {
+	"listIndex": 440.3917948844214,
+	"_guid": "750d3097-a572-4735-8d3b-7ab18f97279a",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "750d3097-a572-4735-8d3b-7ab18f97279a",
-	"timeStamp": 1624018796386,
 	"line": "Sitting experience",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 440.3917948844214,
-	"description": "We used the IKEA folding chair together with a wedge-shaped bolster as our standard chair, as it is lightweight, easy to install, cheap and still quite comfortable.\n\n\nWe also tried a plastic popup chair, but the sitting experience is quite bad.\n\n\nWe observed that it is a pain in the ass, to always have to carry two different parts (the chair and the table)"
+	"image": null,
+	"description": "We used the IKEA folding chair together with a wedge-shaped bolster as our standard chair, as it is lightweight, easy to install, cheap and still quite comfortable.\n\n\nWe also tried a plastic popup chair, but the sitting experience is quite bad.\n\n\nWe observed that it is a pain in the ass, to always have to carry two different parts (the chair and the table)",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624018796386
 }

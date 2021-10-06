@@ -1,41 +1,43 @@
 {
+	"_guid": "bab907a9-09c5-42b9-bf10-b5d59df2d6c7",
+	"listIndex": 131.55637085239943,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "9086eb61-2f23-42d6-84e6-f37178b2e09d"
+		},
+		{
+			"artifact": "1ebf8fec-9919-4a98-bcd7-4932b89b8df0"
+		},
+		{
+			"artifact": "1c7a9379-2be5-467c-b8f2-39ea18d4a897"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Privacy"
 	],
-	"_guid": "bab907a9-09c5-42b9-bf10-b5d59df2d6c7",
-	"listIndex": 131.55637085239943,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1623939217030,
 	"originScenarioRef": "",
+	"userNeed": "As the number of Armadillo desks will likely be a limiting factor in the beginning, Employees want to check whether there are free desks available and book them to have them available when needed.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cc5fe0f2bf5c209d4ad346",
-			"artifact": "9086eb61-2f23-42d6-84e6-f37178b2e09d"
-		},
-		{
-			"_id": "60cc5fe0f2bf5cabd54ad347",
-			"artifact": "1ebf8fec-9919-4a98-bcd7-4932b89b8df0"
-		},
-		{
-			"_id": "60cc5fe0f2bf5c4ec84ad348",
-			"artifact": "1c7a9379-2be5-467c-b8f2-39ea18d4a897"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Booking a desk for personal use",
-	"userNeed": "As the number of Armadillo desks will likely be a limiting factor in the beginning, Employees want to check whether there are free desks available and book them to have them available when needed.",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

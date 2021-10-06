@@ -1,4 +1,7 @@
 {
+	"listIndex": 1223.234859705707,
+	"_guid": "d747d3d0-fbbe-4f66-8246-faf201f47f64",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "d747d3d0-fbbe-4f66-8246-faf201f47f64",
-	"timeStamp": 1627136952284,
 	"line": "Leg protections",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1223.234859705707,
-	"description": "To avoid wearing out the legs while pulling over rough surfaces, we need an additional material that protects the wood (e.g. vegan leather, metal or old wheel rubber)"
+	"image": null,
+	"description": "To avoid wearing out the legs while pulling over rough surfaces, we need an additional material that protects the wood (e.g. vegan leather, metal or old wheel rubber)",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627136952284
 }

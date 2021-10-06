@@ -1,4 +1,7 @@
 {
+	"listIndex": -1.4799735645022132,
+	"_guid": "e1452f61-5a67-4297-8849-07ead786a43c",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,10 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "e1452f61-5a67-4297-8849-07ead786a43c",
-	"timeStamp": 1623934334794,
-	"line": "",
+	"line": "Do not disturb status",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": -1.4799735645022132
+	"image": null,
+	"description": "Whenever someone closes the canopy, the Teams meeting goes to \"do not disturb\" ❓",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623934334794
 }

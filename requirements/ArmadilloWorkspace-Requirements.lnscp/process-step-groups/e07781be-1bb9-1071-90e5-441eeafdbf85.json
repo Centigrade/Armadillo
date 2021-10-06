@@ -1,10 +1,12 @@
 {
-	"artifactTypes": [
-		"b530a7bb-5029-4629-88d9-eb5cc5e448a7",
-		"81ec2e62-fdd5-4a4c-b4ae-299268415a59"
-	],
-	"_guid": "e07781be-1bb9-1071-90e5-441eeafdbf85",
 	"listIndex": 1,
+	"_guid": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"customId": null,
+	"artifactTypes": [
+		"81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+		"b530a7bb-5029-4629-88d9-eb5cc5e448a7",
+		"9eb1ba6e-dc05-4708-bfc3-83e75ecdecf6"
+	],
 	"name": "Verification",
 	"displayname": "Verification",
 	"color": "violet"

@@ -1,4 +1,7 @@
 {
+	"listIndex": 1252.8824794275115,
+	"_guid": "173621c0-30f0-4a42-b238-9d73b76a38fc",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "173621c0-30f0-4a42-b238-9d73b76a38fc",
-	"timeStamp": 1627137278137,
 	"line": "Hand padding",
 	"url": "",
 	"typeRef": "e6922c4c-d9f7-47e7-97a3-c19c436bea3b",
-	"listIndex": 1252.8824794275115,
-	"description": "A short hand padding indicates how to carry the table with the stronger hand. The hand padding could indicate the fingers by four waves.\n"
+	"image": null,
+	"description": "A short hand padding indicates how to carry the table with the stronger hand. The hand padding could indicate the fingers by four waves.\n",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627137278137
 }

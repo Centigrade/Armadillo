@@ -1,0 +1,27 @@
+{
+	"listIndex": 59.3576749087989,
+	"_guid": "23a3a186-ee9c-4b43-9cde-7b8283c82df1",
+	"customId": null,
+	"imagePath": null,
+	"equipment": [],
+	"scenario": [],
+	"startTime": {
+		"year": null,
+		"month": null,
+		"time": {
+			"hour": null,
+			"minute": null,
+			"second": null
+		}
+	},
+	"title": "A maintenance engineer debugging a machine",
+	"roleRef": "4c8a404b-aa27-431d-b0a5-ad7b60171e06",
+	"primaryActorRef": "0f48bb31-bb02-4fda-82ed-06ae5bd59596",
+	"environment": "",
+	"personaGoal": "",
+	"interactions": "",
+	"preconditions": "",
+	"verificationStatus": "unverified",
+	"backgroundColor": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

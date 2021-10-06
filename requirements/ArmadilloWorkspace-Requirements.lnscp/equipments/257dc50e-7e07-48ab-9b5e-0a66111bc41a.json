@@ -1,9 +1,13 @@
 {
-	"_guid": "257dc50e-7e07-48ab-9b5e-0a66111bc41a",
 	"listIndex": -840.164277702548,
-	"line": "Screw 3.5x25 countersunk",
-	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"_guid": "257dc50e-7e07-48ab-9b5e-0a66111bc41a",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
-	"charts": []
+	"charts": [],
+	"line": "Screw 3.5x25 countersunk",
+	"imageRef": "2ccf5d82-3205-478d-95dc-e7a099047e41",
+	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"description": null,
+	"backgroundColor": null
 }

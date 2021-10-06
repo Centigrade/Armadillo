@@ -1,0 +1,56 @@
+{
+	"listIndex": 49.02136969665598,
+	"_guid": "0f48bb31-bb02-4fda-82ed-06ae5bd59596",
+	"customId": null,
+	"tasks": [],
+	"motivations": [],
+	"frustrations": [],
+	"sociodemographicInfo": [
+		{
+			"key": "Status",
+			"description": ""
+		},
+		{
+			"key": "Age",
+			"description": ""
+		},
+		{
+			"key": "Children",
+			"description": ""
+		},
+		{
+			"key": "Education",
+			"description": ""
+		},
+		{
+			"key": "Profession",
+			"description": ""
+		},
+		{
+			"key": "Work environment",
+			"description": ""
+		},
+		{
+			"key": "Nationality",
+			"description": ""
+		},
+		{
+			"key": "IT-Skills",
+			"description": ""
+		},
+		{
+			"key": "Hobbies",
+			"description": ""
+		}
+	],
+	"profile": [],
+	"importance": 3,
+	"additionalRoles": [],
+	"name": "Manfred Engels",
+	"imageRef": "5b0d9ec0-8b09-1fee-d5e7-fdcdb8565bb8",
+	"verificationStatus": "verified",
+	"primaryRoleRef": "4c8a404b-aa27-431d-b0a5-ad7b60171e06",
+	"backgroundColor": null,
+	"quote": null,
+	"playerTypes": []
+}

@@ -1,4 +1,7 @@
 {
+	"listIndex": 1511.2772386987958,
+	"_guid": "18830cf2-af60-466d-801f-1aacf815d248",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "18830cf2-af60-466d-801f-1aacf815d248",
-	"timeStamp": 1627309556197,
 	"line": "Wedged-shaped cushion as standing pad",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1511.2772386987958,
-	"description": "When you prefer standing with barefoot, the underground may not be ideal while standing (e.g. crushed rock). Therefore, users can make use of the wedge-shaped cushion as a pad for standing."
+	"image": null,
+	"description": "When you prefer standing with barefoot, the underground may not be ideal while standing (e.g. crushed rock). Therefore, users can make use of the wedge-shaped cushion as a pad for standing.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627309556197
 }

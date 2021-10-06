@@ -1,36 +1,41 @@
 {
-	"tags": [
-		"DIY"
-	],
 	"_guid": "ce046bb7-6a9e-4921-9439-3ea52f1f7dc3",
-	"needingInformation": [],
+	"listIndex": null,
+	"customId": null,
 	"needingEquipment": [
 		{
-			"_id": "615d9ca1c8985756c816525f",
 			"equipment": "5695f237-185e-4833-b7e9-dc0d8e7f2d19"
 		}
 	],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "13ac00ce-5632-4f30-a921-342659707d17"
+		}
+	],
+	"lastArtifactType": "91a4de28-606f-4920-9ff2-b8cf2f287e4e",
+	"processStepGroup": "a8d5a41e-ff05-01f2-98ac-c35aa31617a2",
+	"manualGroupAssign": null,
+	"tags": [
+		"DIY"
+	],
 	"timeStamp": 1633524849030,
 	"originScenarioRef": "d82fb587-bdd3-4b4a-9ae2-6ace6c50912c",
+	"userNeed": "Dyson wants to save CO2 by getting the material from his local warehouse",
 	"originScenarioStepRef": "72398b87-0f7d-4272-970c-58dbe0d0a474",
 	"triggerRef": "",
 	"actorRef": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
 	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
+	"backgroundColor": null,
+	"title": "Have all materials at hand",
 	"language": "en",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "615da0dec898574a9b165355",
-			"artifact": "13ac00ce-5632-4f30-a921-342659707d17"
-		}
-	],
-	"title": "Have materials at hand",
-	"lastArtifactType": "91a4de28-606f-4920-9ff2-b8cf2f287e4e",
-	"processStepGroup": "a8d5a41e-ff05-01f2-98ac-c35aa31617a2",
-	"userNeed": "Dyson wants to save CO2 by getting the material from his local warehouse"
+	"originUserStory": null,
+	"scope": null
 }

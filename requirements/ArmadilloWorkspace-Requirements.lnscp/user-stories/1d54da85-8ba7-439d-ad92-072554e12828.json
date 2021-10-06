@@ -1,50 +1,50 @@
 {
+	"_guid": "1d54da85-8ba7-439d-ad92-072554e12828",
+	"listIndex": 365.8789272659266,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "7751ea38-d203-4fbd-9022-823090df841b"
+		},
+		{
+			"artifact": "3b501ec8-4eb8-4137-a1ab-d3add91c9067"
+		},
+		{
+			"artifact": "2e889ff0-22e4-4ee1-a8dd-9b9431532613"
+		},
+		{
+			"artifact": "9797e0d6-9512-4a3e-83ec-154d5f379cb6"
+		},
+		{
+			"artifact": "61f0f4ad-2c1b-4177-b2da-0b336d93be22"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Privacy",
 		"Collaboration"
 	],
-	"_guid": "1d54da85-8ba7-439d-ad92-072554e12828",
-	"listIndex": 365.8789272659266,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624193447892,
 	"originScenarioRef": "",
+	"userNeed": "Users want to hear only themselves and their meeting partners, not the rest.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60feba75b450f376cc1a89c0",
-			"artifact": "7751ea38-d203-4fbd-9022-823090df841b"
-		},
-		{
-			"_id": "60feba75b450f321a21a89c1",
-			"artifact": "3b501ec8-4eb8-4137-a1ab-d3add91c9067"
-		},
-		{
-			"_id": "60feba75b450f302421a89c2",
-			"artifact": "2e889ff0-22e4-4ee1-a8dd-9b9431532613"
-		},
-		{
-			"_id": "60feba75b450f352dd1a89c3",
-			"artifact": "9797e0d6-9512-4a3e-83ec-154d5f379cb6"
-		},
-		{
-			"_id": "60feba75b450f375a31a89c4",
-			"artifact": "61f0f4ad-2c1b-4177-b2da-0b336d93be22"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Keeping noise level low",
-	"userNeed": "Users want to hear only themselves and their meeting partners, not the rest.",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

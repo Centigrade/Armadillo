@@ -1,4 +1,7 @@
 {
+	"listIndex": 1266.2808601851166,
+	"_guid": "bc05e9d8-cbcc-4d93-a337-607913671515",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "bc05e9d8-cbcc-4d93-a337-607913671515",
-	"timeStamp": 1627137363484,
 	"line": "Shoulder padding",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1266.2808601851166,
-	"description": "A short hand padding indicates how to carry the table with the shoulder. The shoulder padding should be broader and longer than the hand padding so that it strongly indicates its purpose."
+	"image": null,
+	"description": "A short hand padding indicates how to carry the table with the shoulder. The shoulder padding should be broader and longer than the hand padding so that it strongly indicates its purpose.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627137363484
 }

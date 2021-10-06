@@ -1,0 +1,26 @@
+{
+	"listIndex": 1149.849389039855,
+	"_guid": "ba41e9e7-04cb-48ca-bb4b-ca95dd179ba9",
+	"customId": null,
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"line": "Better Wifi antenna",
+	"url": "vimeoId=570333282;vimeoId=570333033",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"image": null,
+	"description": "We could improve the wifi antenna significantly, if we manage to get the positioning more stable and remove the blocking window pane from the sender unit. See our technical conversation below...",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1625238522529
+}

@@ -1,4 +1,7 @@
 {
+	"listIndex": 406.17665682256757,
+	"_guid": "006002c8-446d-4200-b1f1-df9aa91a4fe2",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "006002c8-446d-4200-b1f1-df9aa91a4fe2",
-	"timeStamp": 1624009500018,
 	"line": "Receiving rain forecasts",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 406.17665682256757,
+	"image": null,
 	"description": "We call the weather service for particular location of the armadillo in order to tell users how long they can likely work before rain sets in.",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624009500018
 }

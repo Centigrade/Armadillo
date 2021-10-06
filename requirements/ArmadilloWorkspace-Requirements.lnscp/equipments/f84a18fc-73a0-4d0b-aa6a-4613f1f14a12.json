@@ -1,10 +1,13 @@
 {
-	"_guid": "f84a18fc-73a0-4d0b-aa6a-4613f1f14a12",
 	"listIndex": -392.73985321771625,
-	"line": "Armadillo Extension Legs",
+	"_guid": "f84a18fc-73a0-4d0b-aa6a-4613f1f14a12",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
+	"line": "Armadillo Extension Legs",
+	"imageRef": null,
 	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
-	"description": ""
+	"description": "",
+	"backgroundColor": null
 }

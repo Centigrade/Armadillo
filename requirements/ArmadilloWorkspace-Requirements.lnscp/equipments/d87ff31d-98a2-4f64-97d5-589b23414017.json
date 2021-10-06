@@ -1,10 +1,13 @@
 {
-	"_guid": "d87ff31d-98a2-4f64-97d5-589b23414017",
 	"listIndex": -358.9842754293957,
-	"line": "Carpet tub",
+	"_guid": "d87ff31d-98a2-4f64-97d5-589b23414017",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
+	"line": "Carpet tub",
+	"imageRef": null,
 	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
-	"description": "A carpet tub is a small carpet with an edge that can also be used with cool water to coolen your feet.\n\n\n![](https://m.media-amazon.com/images/I/312e3N+Xr0L._AC_.jpg)"
+	"description": "A carpet tub is a small carpet with an edge that can also be used with cool water to coolen your feet.\n\n\n![](https://m.media-amazon.com/images/I/312e3N+Xr0L._AC_.jpg)",
+	"backgroundColor": null
 }

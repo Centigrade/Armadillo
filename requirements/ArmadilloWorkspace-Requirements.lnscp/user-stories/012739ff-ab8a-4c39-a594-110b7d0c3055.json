@@ -1,53 +1,53 @@
 {
+	"_guid": "012739ff-ab8a-4c39-a594-110b7d0c3055",
+	"listIndex": 57.31542968918049,
+	"customId": null,
+	"needingEquipment": [
+		{
+			"equipment": "143361b8-1181-43b2-a97e-d7d985a910ed"
+		}
+	],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "f56028c9-70a2-4677-9ed9-dbbe8838a783"
+		},
+		{
+			"artifact": "6fbe3bf3-c457-46cf-8dc3-2b842560c82c"
+		},
+		{
+			"artifact": "25afe4bb-6cb7-4ac0-a1ac-2728d9f546e4"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Mobility",
 		"Health",
 		"Outdoor"
 	],
-	"_guid": "012739ff-ab8a-4c39-a594-110b7d0c3055",
-	"listIndex": 57.31542968918049,
-	"needingInformation": [],
-	"needingEquipment": [
-		{
-			"_id": "60cc5022f2bf5c637d4ad1b4",
-			"equipment": "143361b8-1181-43b2-a97e-d7d985a910ed"
-		}
-	],
 	"timeStamp": 1623933769159,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "When carrying the desk, employees should not stumble over it as it could provide harm.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
-	"painPoint": "",
-	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
 	"benefittingRoleRefs": [
 		{
-			"_id": "60cb438df2bf5c71ef4ab907",
 			"roleRef": "106dec96-6969-415b-874d-19ec0b53f879"
 		}
 	],
-	"artifacts": [
-		{
-			"_id": "60fc323cb450f39de71a897e",
-			"artifact": "f56028c9-70a2-4677-9ed9-dbbe8838a783"
-		},
-		{
-			"_id": "60fc323cb450f34fad1a897f",
-			"artifact": "6fbe3bf3-c457-46cf-8dc3-2b842560c82c"
-		},
-		{
-			"_id": "60fc323cb450f320131a8980",
-			"artifact": "25afe4bb-6cb7-4ac0-a1ac-2728d9f546e4"
-		}
-	],
+	"painPoint": "",
+	"processStep": "",
+	"backgroundColor": null,
 	"title": "Avoid stumbling",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
-	"userNeed": "When carrying the desk, employees should not stumble over it as it could provide harm."
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

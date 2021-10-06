@@ -1,10 +1,11 @@
 {
+	"listIndex": 6,
+	"_guid": "506a5bbf-cc26-6644-12bf-87147aa70d6f",
+	"customId": null,
 	"artifactTypes": [
 		"b8194e48-ad65-4051-81d5-816dda57f4b7",
 		"4736ffca-edff-4434-969a-98457ae0f917"
 	],
-	"_guid": "506a5bbf-cc26-6644-12bf-87147aa70d6f",
-	"listIndex": 6,
 	"name": "Visualization",
 	"displayname": "Visualization",
 	"color": "orange"

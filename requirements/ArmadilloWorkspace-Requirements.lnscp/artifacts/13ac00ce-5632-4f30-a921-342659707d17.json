@@ -1,4 +1,7 @@
 {
+	"listIndex": 1812.605179888606,
+	"_guid": "13ac00ce-5632-4f30-a921-342659707d17",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "13ac00ce-5632-4f30-a921-342659707d17",
-	"timeStamp": 1633525977639,
 	"line": "Material Recommendations",
 	"url": "vimeoId=599351411",
 	"typeRef": "91a4de28-606f-4920-9ff2-b8cf2f287e4e",
-	"listIndex": 1812.605179888606,
-	"description": "Get some pro tips in terms of the materials being used."
+	"image": null,
+	"description": "Get some pro tips in terms of the materials being used.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1633525977639
 }

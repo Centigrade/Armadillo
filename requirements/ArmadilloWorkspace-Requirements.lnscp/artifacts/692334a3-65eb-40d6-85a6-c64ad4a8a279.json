@@ -1,4 +1,7 @@
 {
+	"listIndex": 652.8205105091839,
+	"_guid": "692334a3-65eb-40d6-85a6-c64ad4a8a279",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "692334a3-65eb-40d6-85a6-c64ad4a8a279",
-	"timeStamp": 1624199754241,
 	"line": "Removing as the last one is a pitty",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 652.8205105091839,
-	"description": "We observed that, when users are finished at work, they do not want to spent a single minute more to remove their workplace. We observed that early adopters were willing to help each other removing their workplace, which provides social warmness and empathy.\n\nStill, some people might work late. These people are poor, as they have to remove not only their own desk but also the entire connectivity and power connections (i.e. the basic setup)"
+	"image": null,
+	"description": "We observed that, when users are finished at work, they do not want to spent a single minute more to remove their workplace. We observed that early adopters were willing to help each other removing their workplace, which provides social warmness and empathy.\n\nStill, some people might work late. These people are poor, as they have to remove not only their own desk but also the entire connectivity and power connections (i.e. the basic setup)",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624199754241
 }

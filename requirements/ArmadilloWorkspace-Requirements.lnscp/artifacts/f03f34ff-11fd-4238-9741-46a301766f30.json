@@ -1,4 +1,7 @@
 {
+	"listIndex": 1637.5752024775854,
+	"_guid": "f03f34ff-11fd-4238-9741-46a301766f30",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "f03f34ff-11fd-4238-9741-46a301766f30",
-	"timeStamp": 1628582046689,
 	"line": "Face to Face yet screen sharing",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1637.5752024775854,
-	"description": "While sitting at opponent sides of the table, users can look at their own laptop monitor, however, still share their screen contents e.g. via Teams while not using the audio and camera but the real face-to-face channel."
+	"image": null,
+	"description": "While sitting at opponent sides of the table, users can look at their own laptop monitor, however, still share their screen contents e.g. via Teams while not using the audio and camera but the real face-to-face channel.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1628582046689
 }

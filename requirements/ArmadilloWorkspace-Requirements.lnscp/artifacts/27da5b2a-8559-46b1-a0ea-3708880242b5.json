@@ -1,4 +1,7 @@
 {
+	"listIndex": 392.6753310752442,
+	"_guid": "27da5b2a-8559-46b1-a0ea-3708880242b5",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "27da5b2a-8559-46b1-a0ea-3708880242b5",
-	"timeStamp": 1624009483446,
 	"line": "Rain setting in",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 392.6753310752442,
+	"image": null,
 	"description": "People tend to panic when the first raindrops set in.\nCurrently, even our favorite tissue is water-repellent, the water congregates in the pit of the last tissue strip, which is bad.",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624009483446
 }

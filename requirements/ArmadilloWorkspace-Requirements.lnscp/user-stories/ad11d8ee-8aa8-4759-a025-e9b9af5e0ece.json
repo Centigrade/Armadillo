@@ -1,37 +1,40 @@
 {
+	"_guid": "ad11d8ee-8aa8-4759-a025-e9b9af5e0ece",
+	"listIndex": 745.2942003666249,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "8a41c05f-b9a3-4396-b09b-1d0beb3417ad"
+		},
+		{
+			"artifact": "727db74f-bb7d-4d52-88b1-ec023c3f5bef"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Feelgood"
 	],
-	"_guid": "ad11d8ee-8aa8-4759-a025-e9b9af5e0ece",
-	"listIndex": 745.2942003666249,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1627309787141,
 	"originScenarioRef": "",
+	"userNeed": "At hot summer times nobody wants to wear shoes if you don't have to",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60fec761b450f303441a8aec",
-			"artifact": "8a41c05f-b9a3-4396-b09b-1d0beb3417ad"
-		},
-		{
-			"_id": "60fec761b450f358b31a8aed",
-			"artifact": "727db74f-bb7d-4d52-88b1-ec023c3f5bef"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Working barefoot",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
-	"userNeed": "At hot summer times nobody wants to wear shoes if you don't have to"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

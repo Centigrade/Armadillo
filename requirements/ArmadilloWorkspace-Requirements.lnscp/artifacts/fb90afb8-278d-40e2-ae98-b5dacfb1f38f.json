@@ -1,4 +1,7 @@
 {
+	"listIndex": 323.0016365941443,
+	"_guid": "fb90afb8-278d-40e2-ae98-b5dacfb1f38f",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "fb90afb8-278d-40e2-ae98-b5dacfb1f38f",
-	"timeStamp": 1624005818767,
 	"line": "Closing the canopy",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 323.0016365941443,
-	"description": "Closing the canopy alltogether works pretty well already. However, we should refrain from building small windows into the tissue as this will likely lead to work disruptions."
+	"image": null,
+	"description": "Closing the canopy alltogether works pretty well already. However, we should refrain from building small windows into the tissue as this will likely lead to work disruptions.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624005818767
 }

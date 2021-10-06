@@ -1,0 +1,54 @@
+{
+	"listIndex": 14.840610361401806,
+	"_guid": "ff6d5680-76f3-46aa-815e-547f11a8e9e3",
+	"customId": null,
+	"imagePath": null,
+	"equipment": [],
+	"scenario": [
+		{
+			"listIndex": null,
+			"_guid": "2a67800b-cc86-417f-896e-dabe3c585e55",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/scenario-placeholder.svg"
+			],
+			"duration": {
+				"year": null,
+				"month": null,
+				"time": {
+					"hour": null,
+					"minute": null,
+					"second": null
+				}
+			},
+			"isOpen": null,
+			"title": "One must stay",
+			"line": "",
+			"actionSymbolRef": "",
+			"actorSymbolRef": null,
+			"meanTime": null,
+			"questions": null,
+			"userNeed": null,
+			"backgroundColor": null
+		}
+	],
+	"startTime": {
+		"year": null,
+		"month": null,
+		"time": {
+			"hour": null,
+			"minute": null,
+			"second": null
+		}
+	},
+	"title": "Two people are using the desks alone",
+	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+	"primaryActorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"environment": "",
+	"personaGoal": "",
+	"interactions": "",
+	"preconditions": "",
+	"verificationStatus": "unverified",
+	"backgroundColor": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

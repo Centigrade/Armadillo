@@ -1,4 +1,7 @@
 {
+	"listIndex": 597.2714408936232,
+	"_guid": "9797e0d6-9512-4a3e-83ec-154d5f379cb6",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "9797e0d6-9512-4a3e-83ec-154d5f379cb6",
-	"timeStamp": 1624193695204,
 	"line": "Volume meter",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 597.2714408936232,
-	"description": "We could encourage colleagues to talk less loud by showing a dB meter that tells them how much they would be heard by others in the volume that they are talking right now"
+	"image": null,
+	"description": "We could encourage colleagues to talk less loud by showing a dB meter that tells them how much they would be heard by others in the volume that they are talking right now",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624193695204
 }

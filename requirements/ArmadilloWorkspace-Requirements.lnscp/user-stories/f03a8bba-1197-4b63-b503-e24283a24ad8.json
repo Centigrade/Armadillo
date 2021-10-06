@@ -1,46 +1,47 @@
 {
+	"_guid": "f03a8bba-1197-4b63-b503-e24283a24ad8",
+	"listIndex": 723.54288260726,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "fd00a4f2-31ba-4d8e-9bc5-54e4096d95ea"
+		},
+		{
+			"artifact": "396fa7e7-11ba-45fa-af38-23a66e0431ca"
+		},
+		{
+			"artifact": "e54919ca-329d-4a93-acea-2e2d89b17747"
+		},
+		{
+			"artifact": "06456106-61ae-44d8-bf5f-4f854175051f"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Effectiveness",
 		"Ergonomics"
 	],
-	"_guid": "f03a8bba-1197-4b63-b503-e24283a24ad8",
-	"listIndex": 723.54288260726,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1627139925651,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "Benji wants a space-saving screen solution.",
 	"originScenarioStepRef": "9e08fac1-8496-4e74-af12-76e05d86bf2c",
 	"triggerRef": "",
 	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "61122d1bb450f309d21ac6b7",
-			"artifact": "fd00a4f2-31ba-4d8e-9bc5-54e4096d95ea"
-		},
-		{
-			"_id": "61122d1bb450f3ac1b1ac6b8",
-			"artifact": "396fa7e7-11ba-45fa-af38-23a66e0431ca"
-		},
-		{
-			"_id": "61122d1bb450f3d6f51ac6b9",
-			"artifact": "e54919ca-329d-4a93-acea-2e2d89b17747"
-		},
-		{
-			"_id": "61122d1bb450f31d9c1ac6ba",
-			"artifact": "06456106-61ae-44d8-bf5f-4f854175051f"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Utilizing extended screen space",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
-	"userNeed": "Benji wants a space-saving screen solution."
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

@@ -1,36 +1,40 @@
 {
+	"_guid": "e891f2bb-6573-4870-832a-6987b71e319c",
+	"listIndex": 252.7750142855027,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "d7c7e0da-df81-4254-ace1-4a647461e383"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
 	"tags": [
 		"Outdoor",
 		"Feelgood",
 		"Health",
 		"Effectiveness"
 	],
-	"_guid": "e891f2bb-6573-4870-832a-6987b71e319c",
-	"listIndex": 252.7750142855027,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624004979561,
 	"originScenarioRef": "",
+	"userNeed": "Users can better concentrate when the temperature is less than 25°C. We therefore have to reduce temperature as much as possible.",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cc59a6f2bf5ced1f4ad27f",
-			"artifact": "d7c7e0da-df81-4254-ace1-4a647461e383"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Keeping temperatures low",
-	"userNeed": "Users can better concentrate when the temperature is less than 25°C. We therefore have to reduce temperature as much as possible.",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

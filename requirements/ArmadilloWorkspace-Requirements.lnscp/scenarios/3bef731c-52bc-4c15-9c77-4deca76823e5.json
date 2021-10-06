@@ -1,0 +1,27 @@
+{
+	"listIndex": 27.05844688345016,
+	"_guid": "3bef731c-52bc-4c15-9c77-4deca76823e5",
+	"customId": null,
+	"imagePath": null,
+	"equipment": [],
+	"scenario": [],
+	"startTime": {
+		"year": null,
+		"month": null,
+		"time": {
+			"hour": null,
+			"minute": null,
+			"second": null
+		}
+	},
+	"title": "Setting up and start working",
+	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+	"primaryActorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"environment": "",
+	"personaGoal": "",
+	"interactions": "",
+	"preconditions": "",
+	"verificationStatus": "unverified",
+	"backgroundColor": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
+}

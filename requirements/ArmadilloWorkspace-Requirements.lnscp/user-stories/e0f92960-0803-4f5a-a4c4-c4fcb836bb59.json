@@ -1,34 +1,38 @@
 {
+	"_guid": "e0f92960-0803-4f5a-a4c4-c4fcb836bb59",
+	"listIndex": 48.49248146271,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "ed5c729f-052e-4a27-ae1c-b0ab7136f80c"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
 	"tags": [
 		"Effectiveness",
 		"Ergonomics"
 	],
-	"_guid": "e0f92960-0803-4f5a-a4c4-c4fcb836bb59",
-	"listIndex": 48.49248146271,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1628584059103,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "Benji would like to have as few connections as possible",
 	"originScenarioStepRef": "dcfb0b23-5f60-445f-b0d5-c3f69db2402a",
 	"triggerRef": "",
 	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "61123896b450f394d41ac851",
-			"artifact": "ed5c729f-052e-4a27-ae1c-b0ab7136f80c"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Having periphal connectivity",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
-	"userNeed": "Benji would like to have as few connections as possible"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

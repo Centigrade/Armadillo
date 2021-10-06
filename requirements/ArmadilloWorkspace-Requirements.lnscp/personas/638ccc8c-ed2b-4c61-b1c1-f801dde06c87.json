@@ -1,63 +1,56 @@
 {
-	"tasks": [],
-	"_guid": "638ccc8c-ed2b-4c61-b1c1-f801dde06c87",
 	"listIndex": 11.752885320971561,
+	"_guid": "638ccc8c-ed2b-4c61-b1c1-f801dde06c87",
+	"customId": null,
+	"tasks": [],
 	"motivations": [],
 	"frustrations": [],
 	"sociodemographicInfo": [
 		{
-			"_id": "60ca147bf2bf5c47e24ab477",
 			"key": "Status",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c0eae4ab478",
 			"key": "Age",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c37f74ab479",
 			"key": "Children",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c5b744ab47a",
 			"key": "Education",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c07204ab47b",
 			"key": "Profession",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5cbf5c4ab47c",
 			"key": "Work environment",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c7a0e4ab47d",
 			"key": "Nationality",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c496d4ab47e",
 			"key": "IT-Skills",
 			"description": ""
 		},
 		{
-			"_id": "60ca147bf2bf5c33a84ab47f",
 			"key": "Hobbies",
 			"description": ""
 		}
 	],
 	"profile": [],
 	"importance": 3,
+	"additionalRoles": [],
 	"name": "Sophie Harris",
-	"imageRef": "5b877924-3eb8-4f7a-8301-9c5e0d340d3c",
+	"imageRef": "59f13227-845b-61a2-aee7-2481981791f9",
 	"verificationStatus": "verified",
 	"primaryRoleRef": "7e73e03f-ca2a-4342-b8c3-b83a49efc1ad",
-	"additionalRoles": [],
-	"playerTypes": [],
-	"quote": "I like to talk to people and read between the lines"
+	"backgroundColor": null,
+	"quote": "I like to talk to people and read between the lines",
+	"playerTypes": []
 }

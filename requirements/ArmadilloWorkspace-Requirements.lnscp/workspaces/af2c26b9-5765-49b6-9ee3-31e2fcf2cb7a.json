@@ -1,0 +1,86 @@
+{
+	"listIndex": null,
+	"_guid": "af2c26b9-5765-49b6-9ee3-31e2fcf2cb7a",
+	"customId": null,
+	"session": "550329d3-1c73-4375-b650-71769d2193e4",
+	"includedEntities": [
+		{
+			"entity": "20658a2e-ad4e-44b5-b5df-a593f189a852",
+			"included": true
+		},
+		{
+			"entity": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+			"included": true
+		},
+		{
+			"entity": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
+			"included": true
+		},
+		{
+			"entity": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+			"included": true
+		},
+		{
+			"entity": "6258e1cb-dee9-4073-b029-d84838678bd5",
+			"included": true
+		},
+		{
+			"entity": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+			"included": true
+		},
+		{
+			"entity": "736c5b55-7d0d-45bc-a4a0-77d6606a0fed",
+			"included": true
+		},
+		{
+			"entity": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
+			"included": true
+		},
+		{
+			"entity": "861a729a-1a0e-4053-b0d6-3385709179f0",
+			"included": true
+		},
+		{
+			"entity": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732",
+			"included": true
+		},
+		{
+			"entity": "a5061512-1cdb-4c4b-a24f-c8e512e41283",
+			"included": true
+		},
+		{
+			"entity": "86940f27-24c5-4886-b815-37d6f51599ef",
+			"included": true
+		},
+		{
+			"entity": "73a48765-ba40-4e3a-b26d-6d80cfb04973",
+			"included": true
+		},
+		{
+			"entity": "160a54d1-93bd-410a-b8e1-1bf56bf5d833",
+			"included": true
+		},
+		{
+			"entity": "26d1ba82-405c-4a95-b55f-4e67d137f9e5",
+			"included": true
+		}
+	],
+	"name": "Hackateam \"The Connectaz\"",
+	"includes": {
+		"20658a2e-ad4e-44b5-b5df-a593f189a852": true,
+		"925ec5b6-c913-49b9-91cb-a08db91865bd": true,
+		"6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c": true,
+		"14fe29e9-be95-4b37-83f7-a4efa4ef114e": true,
+		"6258e1cb-dee9-4073-b029-d84838678bd5": true,
+		"90b016ee-f230-42f1-a7fc-1910fe3bc699": true,
+		"736c5b55-7d0d-45bc-a4a0-77d6606a0fed": true,
+		"76a0c43d-8fee-4929-9f58-2f4f9da55e09": true,
+		"861a729a-1a0e-4053-b0d6-3385709179f0": true,
+		"b77d9fc2-ed19-4a92-b12f-dfa7431f7732": true,
+		"a5061512-1cdb-4c4b-a24f-c8e512e41283": true,
+		"86940f27-24c5-4886-b815-37d6f51599ef": true,
+		"73a48765-ba40-4e3a-b26d-6d80cfb04973": true,
+		"160a54d1-93bd-410a-b8e1-1bf56bf5d833": true,
+		"26d1ba82-405c-4a95-b55f-4e67d137f9e5": true
+	}
+}

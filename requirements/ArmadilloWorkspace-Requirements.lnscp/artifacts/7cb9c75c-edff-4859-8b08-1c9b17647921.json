@@ -1,4 +1,7 @@
 {
+	"listIndex": 17.538166858460723,
+	"_guid": "7cb9c75c-edff-4859-8b08-1c9b17647921",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "7cb9c75c-edff-4859-8b08-1c9b17647921",
-	"timeStamp": 1623934378004,
 	"line": "Drinks falling on laptops",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 17.538166858460723,
-	"description": "When an employee has to move his desk he almost certainly asks another employee for help. Because when all personal belongings such as laptop and drinks are placed on the table it is impossible to move the table alone and collecting the belongings first is to time intense. \n\n\nAlso during moving the table, drinks are falling from the table and might damage the laptop."
+	"image": null,
+	"description": "When an employee has to move his desk he almost certainly asks another employee for help. Because when all personal belongings such as laptop and drinks are placed on the table it is impossible to move the table alone and collecting the belongings first is to time intense. \n\n\nAlso during moving the table, drinks are falling from the table and might damage the laptop.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623934378004
 }

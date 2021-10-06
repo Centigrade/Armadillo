@@ -1,4 +1,7 @@
 {
+	"listIndex": 1340.7192235943742,
+	"_guid": "0d9395b8-b2b0-45f5-8726-02631f7718d2",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "0d9395b8-b2b0-45f5-8726-02631f7718d2",
-	"timeStamp": 1627139822104,
 	"line": "Work/Life curve",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1340.7192235943742,
-	"description": "Afterwards a profile curve in the Armadillo companion app can show when breaks taken so that the feeling of \"guilt\" is removed."
+	"image": null,
+	"description": "Afterwards a profile curve in the Armadillo companion app can show when breaks taken so that the feeling of \"guilt\" is removed.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627139822104
 }

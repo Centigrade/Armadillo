@@ -1,9 +1,13 @@
 {
-	"_guid": "48c341a5-ad15-4f33-a32c-64d1efb1c431",
 	"listIndex": -789.9011074049967,
-	"line": "Screw 4x70 countersunk",
-	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"_guid": "48c341a5-ad15-4f33-a32c-64d1efb1c431",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
-	"charts": []
+	"charts": [],
+	"line": "Screw 4x70 countersunk",
+	"imageRef": "2ccf5d82-3205-478d-95dc-e7a099047e41",
+	"typeRef": "d0ad3f61-d96f-44c4-9f58-69a15f1ed06c",
+	"description": null,
+	"backgroundColor": null
 }

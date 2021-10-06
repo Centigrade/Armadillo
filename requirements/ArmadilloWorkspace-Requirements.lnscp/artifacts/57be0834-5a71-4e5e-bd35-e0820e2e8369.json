@@ -1,4 +1,7 @@
 {
+	"listIndex": 134.58713186767883,
+	"_guid": "57be0834-5a71-4e5e-bd35-e0820e2e8369",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "57be0834-5a71-4e5e-bd35-e0820e2e8369",
-	"timeStamp": 1623939530998,
 	"line": "External power source and extension cords",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 134.58713186767883,
-	"description": "People are using 220V driven external monitors (sometimes two of them). That's why a lot of setup effort comes from establishing power lines through extension cords. Also the location is always dependent from an external power source.\n\n\nThe extension cords do not really contribute to the aesthetic appearance of the outdoor setup."
+	"image": null,
+	"description": "People are using 220V driven external monitors (sometimes two of them). That's why a lot of setup effort comes from establishing power lines through extension cords. Also the location is always dependent from an external power source.\n\n\nThe extension cords do not really contribute to the aesthetic appearance of the outdoor setup.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623939530998
 }

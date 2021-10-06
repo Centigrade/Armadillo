@@ -1,4 +1,7 @@
 {
+	"listIndex": 464.99628329229597,
+	"_guid": "3511d7aa-c12c-499f-9b86-7fc492487f42",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,12 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "3511d7aa-c12c-499f-9b86-7fc492487f42",
-	"timeStamp": 1624019176818,
 	"line": "Contributing to rain forecasts",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 464.99628329229597,
+	"image": null,
 	"description": "The Armadillo desk could deliver the collected weather data to a central hub so that this data can be used for more accurate forecasts in turn.",
-	"image": null
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624019176818
 }

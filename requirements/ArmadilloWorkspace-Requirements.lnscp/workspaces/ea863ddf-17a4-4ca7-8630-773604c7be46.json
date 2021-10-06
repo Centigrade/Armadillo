@@ -1,397 +1,401 @@
 {
+	"listIndex": null,
 	"_guid": "ea863ddf-17a4-4ca7-8630-773604c7be46",
+	"customId": null,
 	"session": "4d6f92cf-e2f5-4a60-b824-8a72a2fb718e",
-	"name": "Hackateam \"The Xtenders\"",
 	"includedEntities": [
 		{
-			"_id": "615aecd6c89857cf8d164365",
 			"entity": "f33b0c48-276b-4d6b-9a29-85f1e6ddb0c3",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898573a9e164366",
 			"entity": "c0ecc63e-8863-45a5-9a45-e00523a15ef1",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c8985745c6164367",
 			"entity": "79fd1001-cda9-422b-9344-bf18b4f72c68",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857c91a164368",
 			"entity": "a4578053-4c43-487a-8cbd-df0a759cc04b",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857ed50164369",
 			"entity": "43ca8b05-b100-4dfb-b2f4-bf5dca669682",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898577ac816436a",
 			"entity": "f03a8bba-1197-4b63-b503-e24283a24ad8",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857c4fc16436b",
 			"entity": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898570bce16436c",
 			"entity": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898575bb516436d",
 			"entity": "736c5b55-7d0d-45bc-a4a0-77d6606a0fed",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898570ad016436e",
 			"entity": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857087b16436f",
 			"entity": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c8985765a4164370",
 			"entity": "861a729a-1a0e-4053-b0d6-3385709179f0",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857c340164371",
 			"entity": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857ae6a164372",
 			"entity": "23a3a186-ee9c-4b43-9cde-7b8283c82df1",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857030b164373",
 			"entity": "0f48bb31-bb02-4fda-82ed-06ae5bd59596",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985744ec164374",
 			"entity": "4c8a404b-aa27-431d-b0a5-ad7b60171e06",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898572000164375",
 			"entity": "ff6d5680-76f3-46aa-815e-547f11a8e9e3",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985781c8164376",
 			"entity": "3bef731c-52bc-4c15-9c77-4deca76823e5",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898579ded164377",
 			"entity": "ce1a1269-fc9d-4eda-b983-e94c6424a60e",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857c070164378",
 			"entity": "9606183c-5cc6-4fe2-b0e8-8034ed821dd2",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857662b164379",
 			"entity": "10c88f26-cc05-446e-a2d8-f92e18fc8a91",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857590416437a",
 			"entity": "6c8638bd-fbdf-4a02-a104-59a454fd7892",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857001916437b",
 			"entity": "08e7b69e-6951-4d34-ba69-8c0f46c16d9d",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898570a7e16437c",
 			"entity": "e36ba8f9-7e69-4ec5-8da4-284f43048402",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857398d16437d",
 			"entity": "e0f92960-0803-4f5a-a4c4-c4fcb836bb59",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c8985762e116437e",
 			"entity": "925ec5b6-c913-49b9-91cb-a08db91865bd",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898575f2e16437f",
 			"entity": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985734cb164380",
 			"entity": "1c2c8c4d-3572-4190-bff4-1af312403280",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898575883164381",
 			"entity": "20658a2e-ad4e-44b5-b5df-a593f189a852",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898570dad164382",
 			"entity": "012739ff-ab8a-4c39-a594-110b7d0c3055",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898575e1e164383",
 			"entity": "32219a64-47da-4a13-90c0-8b0eeba43af8",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857c6ad164384",
 			"entity": "a5061512-1cdb-4c4b-a24f-c8e512e41283",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898575619164385",
 			"entity": "5205e09b-70e8-494c-9190-3a0bfccad521",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898577589164386",
 			"entity": "bab907a9-09c5-42b9-bf10-b5d59df2d6c7",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985711b3164387",
 			"entity": "a49d2c53-3cba-414d-ab82-795eb6864b4d",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898576a96164388",
 			"entity": "7aed7fe1-272d-43e6-be01-89e7c4d8ba10",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857dd1b164389",
 			"entity": "e891f2bb-6573-4870-832a-6987b71e319c",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985791cf16438a",
 			"entity": "6f8eead2-0dae-462a-98e4-f09df7ed4caf",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857525c16438b",
 			"entity": "6a5cafb3-ad97-4ca9-9a7b-786fc0ba0c8c",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857e2c216438c",
 			"entity": "7c9909ba-7c10-4d77-bc9c-d8d67c9cbeb1",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985701bb16438d",
 			"entity": "a947ad8b-4e7c-436b-b3fd-12f509483fda",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857b79216438e",
 			"entity": "1d54da85-8ba7-439d-ad92-072554e12828",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857bdd616438f",
 			"entity": "1c5d2b60-5954-4b3c-b851-f4159a1c26ef",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857060e164390",
 			"entity": "adeb43c2-8140-4bfa-a77e-9ce590c026e8",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857dac1164391",
 			"entity": "f849ac3e-881a-4fdd-9e57-d63af0f28eee",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898572b44164392",
 			"entity": "b6dbf6c4-41b8-4518-8079-b720d091d958",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898571c31164393",
 			"entity": "3a44770d-1e4f-4ded-96f6-ba51f7183f2f",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898579bad164394",
 			"entity": "95cf824f-634e-4eae-b2e0-f733b75b97aa",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857fced164395",
 			"entity": "d1d2cc02-0b17-4a3b-a9a6-d14bf160518c",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857f8cc164396",
 			"entity": "afe4d5f8-e29e-47ec-b4d0-266da43978f0",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898575810164397",
 			"entity": "8943f9a7-0489-441a-8179-de6966c28655",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985769f4164398",
 			"entity": "014de933-3e9b-4613-9389-507b91fd51ac",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898572b7f164399",
 			"entity": "51d812a8-b924-4008-8da0-cfa808d5bce5",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857353e16439a",
 			"entity": "b40f8d8b-7514-4421-bebf-17fec703c36f",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857f67d16439b",
 			"entity": "26d1ba82-405c-4a95-b55f-4e67d137f9e5",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857dd1316439c",
 			"entity": "89db299f-0381-48f7-b1a8-f873c7acb608",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857e75516439d",
 			"entity": "73a48765-ba40-4e3a-b26d-6d80cfb04973",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857637216439e",
 			"entity": "77743c32-d236-494b-9a59-944316ed73cb",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857246016439f",
 			"entity": "5532be06-3517-45c2-82f7-6949f9b24c51",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985763211643a0",
 			"entity": "2297b1c6-504d-4343-904b-572ac4a92cb0",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898575e731643a1",
 			"entity": "474837c2-b8a3-49b2-8229-b33f377d4d0d",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985718a11643a2",
 			"entity": "8997a88f-37c8-4ff5-a57f-915ce130abcb",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985773eb1643a3",
 			"entity": "160a54d1-93bd-410a-b8e1-1bf56bf5d833",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c89857492b1643a4",
 			"entity": "23ea20ba-e235-4c8e-936d-391e6eca3a7f",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985769691643a5",
 			"entity": "11655f03-b555-4afb-b4d5-d89a64162ef3",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985754911643a6",
 			"entity": "b8d13af6-aaab-4412-acc7-bd2cf0a6b6bf",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985754281643a7",
 			"entity": "86940f27-24c5-4886-b815-37d6f51599ef",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898575a591643a8",
 			"entity": "6f9a8779-6b53-4586-a744-04d792530c15",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985739e81643a9",
 			"entity": "3e46d55d-ed17-4922-a550-64c3f5237c88",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985750101643aa",
 			"entity": "600a18f8-b0a8-46a0-8c76-7666ffa3185d",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c898572b321643ab",
 			"entity": "ad11d8ee-8aa8-4759-a025-e9b9af5e0ece",
 			"included": false
 		},
 		{
-			"_id": "615aecd6c8985755e31643ac",
 			"entity": "143361b8-1181-43b2-a97e-d7d985a910ed",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898574cb41643ad",
 			"entity": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c89857675e1643ae",
 			"entity": "62d47952-8c05-4e1e-b397-9d70622ce768",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898577d3c1643af",
 			"entity": "be1a46ed-a064-4f48-ba0f-b88cd9e2d4c9",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c8985737231643b0",
 			"entity": "a6e82ae2-6145-4983-b927-12543f262e0d",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c8985730cc1643b1",
 			"entity": "ad5c43a6-4c73-46f0-b725-b559ce98cd1c",
 			"included": true
 		},
 		{
-			"_id": "615aecd6c898574cd31643b2",
 			"entity": "ccb6059f-5a2b-444a-be0b-85c294d7702d",
 			"included": true
 		}
-	]
+	],
+	"name": "Hackateam \"The Xtenders\"",
+	"includes": {
+		"f33b0c48-276b-4d6b-9a29-85f1e6ddb0c3": true,
+		"c0ecc63e-8863-45a5-9a45-e00523a15ef1": true,
+		"79fd1001-cda9-422b-9344-bf18b4f72c68": true,
+		"a4578053-4c43-487a-8cbd-df0a759cc04b": true,
+		"43ca8b05-b100-4dfb-b2f4-bf5dca669682": true,
+		"f03a8bba-1197-4b63-b503-e24283a24ad8": true,
+		"90b016ee-f230-42f1-a7fc-1910fe3bc699": true,
+		"14fe29e9-be95-4b37-83f7-a4efa4ef114e": true,
+		"736c5b55-7d0d-45bc-a4a0-77d6606a0fed": true,
+		"76a0c43d-8fee-4929-9f58-2f4f9da55e09": true,
+		"6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c": true,
+		"861a729a-1a0e-4053-b0d6-3385709179f0": true,
+		"b77d9fc2-ed19-4a92-b12f-dfa7431f7732": true,
+		"23a3a186-ee9c-4b43-9cde-7b8283c82df1": false,
+		"0f48bb31-bb02-4fda-82ed-06ae5bd59596": false,
+		"4c8a404b-aa27-431d-b0a5-ad7b60171e06": true,
+		"ff6d5680-76f3-46aa-815e-547f11a8e9e3": false,
+		"3bef731c-52bc-4c15-9c77-4deca76823e5": false,
+		"ce1a1269-fc9d-4eda-b983-e94c6424a60e": true,
+		"9606183c-5cc6-4fe2-b0e8-8034ed821dd2": false,
+		"10c88f26-cc05-446e-a2d8-f92e18fc8a91": true,
+		"6c8638bd-fbdf-4a02-a104-59a454fd7892": true,
+		"08e7b69e-6951-4d34-ba69-8c0f46c16d9d": true,
+		"e36ba8f9-7e69-4ec5-8da4-284f43048402": true,
+		"e0f92960-0803-4f5a-a4c4-c4fcb836bb59": true,
+		"925ec5b6-c913-49b9-91cb-a08db91865bd": true,
+		"c9b1de32-9022-4eb7-b2ca-70bc1eefa145": false,
+		"1c2c8c4d-3572-4190-bff4-1af312403280": true,
+		"20658a2e-ad4e-44b5-b5df-a593f189a852": true,
+		"012739ff-ab8a-4c39-a594-110b7d0c3055": true,
+		"32219a64-47da-4a13-90c0-8b0eeba43af8": false,
+		"a5061512-1cdb-4c4b-a24f-c8e512e41283": false,
+		"5205e09b-70e8-494c-9190-3a0bfccad521": false,
+		"bab907a9-09c5-42b9-bf10-b5d59df2d6c7": false,
+		"a49d2c53-3cba-414d-ab82-795eb6864b4d": true,
+		"7aed7fe1-272d-43e6-be01-89e7c4d8ba10": false,
+		"e891f2bb-6573-4870-832a-6987b71e319c": false,
+		"6f8eead2-0dae-462a-98e4-f09df7ed4caf": false,
+		"6a5cafb3-ad97-4ca9-9a7b-786fc0ba0c8c": false,
+		"7c9909ba-7c10-4d77-bc9c-d8d67c9cbeb1": false,
+		"a947ad8b-4e7c-436b-b3fd-12f509483fda": false,
+		"1d54da85-8ba7-439d-ad92-072554e12828": false,
+		"1c5d2b60-5954-4b3c-b851-f4159a1c26ef": true,
+		"adeb43c2-8140-4bfa-a77e-9ce590c026e8": true,
+		"f849ac3e-881a-4fdd-9e57-d63af0f28eee": false,
+		"b6dbf6c4-41b8-4518-8079-b720d091d958": false,
+		"3a44770d-1e4f-4ded-96f6-ba51f7183f2f": false,
+		"95cf824f-634e-4eae-b2e0-f733b75b97aa": false,
+		"d1d2cc02-0b17-4a3b-a9a6-d14bf160518c": false,
+		"afe4d5f8-e29e-47ec-b4d0-266da43978f0": false,
+		"8943f9a7-0489-441a-8179-de6966c28655": false,
+		"014de933-3e9b-4613-9389-507b91fd51ac": false,
+		"51d812a8-b924-4008-8da0-cfa808d5bce5": false,
+		"b40f8d8b-7514-4421-bebf-17fec703c36f": false,
+		"26d1ba82-405c-4a95-b55f-4e67d137f9e5": false,
+		"89db299f-0381-48f7-b1a8-f873c7acb608": false,
+		"73a48765-ba40-4e3a-b26d-6d80cfb04973": false,
+		"77743c32-d236-494b-9a59-944316ed73cb": false,
+		"5532be06-3517-45c2-82f7-6949f9b24c51": false,
+		"2297b1c6-504d-4343-904b-572ac4a92cb0": false,
+		"474837c2-b8a3-49b2-8229-b33f377d4d0d": false,
+		"8997a88f-37c8-4ff5-a57f-915ce130abcb": false,
+		"160a54d1-93bd-410a-b8e1-1bf56bf5d833": false,
+		"23ea20ba-e235-4c8e-936d-391e6eca3a7f": false,
+		"11655f03-b555-4afb-b4d5-d89a64162ef3": false,
+		"b8d13af6-aaab-4412-acc7-bd2cf0a6b6bf": false,
+		"86940f27-24c5-4886-b815-37d6f51599ef": false,
+		"6f9a8779-6b53-4586-a744-04d792530c15": false,
+		"3e46d55d-ed17-4922-a550-64c3f5237c88": false,
+		"600a18f8-b0a8-46a0-8c76-7666ffa3185d": false,
+		"ad11d8ee-8aa8-4759-a025-e9b9af5e0ece": false,
+		"143361b8-1181-43b2-a97e-d7d985a910ed": true,
+		"e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc": true,
+		"62d47952-8c05-4e1e-b397-9d70622ce768": true,
+		"be1a46ed-a064-4f48-ba0f-b88cd9e2d4c9": true,
+		"a6e82ae2-6145-4983-b927-12543f262e0d": true,
+		"ad5c43a6-4c73-46f0-b725-b559ce98cd1c": true,
+		"ccb6059f-5a2b-444a-be0b-85c294d7702d": true
+	}
 }

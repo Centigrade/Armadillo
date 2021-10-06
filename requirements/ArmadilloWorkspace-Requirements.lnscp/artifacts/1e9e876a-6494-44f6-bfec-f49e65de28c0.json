@@ -1,4 +1,7 @@
 {
+	"listIndex": 887.269672713597,
+	"_guid": "1e9e876a-6494-44f6-bfec-f49e65de28c0",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "1e9e876a-6494-44f6-bfec-f49e65de28c0",
-	"timeStamp": 1624447185532,
 	"line": "Nasty carrying from A to B",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 887.269672713597,
-	"description": "We observed that setting up and removing the setup for the entire group is a pain in the ass and we need to reduce distances and doors and elevators as much as possible. "
+	"image": null,
+	"description": "We observed that setting up and removing the setup for the entire group is a pain in the ass and we need to reduce distances and doors and elevators as much as possible. ",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624447185532
 }

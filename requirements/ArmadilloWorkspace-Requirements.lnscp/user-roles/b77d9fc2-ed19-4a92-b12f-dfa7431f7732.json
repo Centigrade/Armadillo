@@ -1,4 +1,7 @@
 {
+	"listIndex": -0.7299009874565804,
+	"_guid": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732",
+	"customId": null,
 	"tasks": [
 		"441e2844-bbab-4c69-860e-4e949eb447f9",
 		"0062ef94-45a8-4d4e-94eb-1e9db1d86255",
@@ -7,13 +10,12 @@
 		"ce8cc856-fa38-4ce3-9c52-ce8263480346"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [],
-	"_guid": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732",
-	"listIndex": -0.7299009874565804,
 	"role": "Rational",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "no-hair",
 	"hairColor": "grey",
 	"headRef": "head",
@@ -34,5 +36,8 @@
 	"upperBodyColor": "grey",
 	"attributeRightRef": "no-attribute",
 	"attributeRightColor": "grey",
+	"importance": null,
+	"backgroundColor": null,
+	"baseRole": null,
 	"resources": []
 }

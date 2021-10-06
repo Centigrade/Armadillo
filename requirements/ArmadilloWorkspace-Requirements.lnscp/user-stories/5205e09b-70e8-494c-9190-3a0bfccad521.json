@@ -1,37 +1,40 @@
 {
+	"_guid": "5205e09b-70e8-494c-9190-3a0bfccad521",
+	"listIndex": 119.9865658388142,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "2967dd60-c1b6-401b-89af-f639c4492234"
+		},
+		{
+			"artifact": "ec0b675d-079a-4e75-a434-881277ac6143"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Aesthetics"
 	],
-	"_guid": "5205e09b-70e8-494c-9190-3a0bfccad521",
-	"listIndex": 119.9865658388142,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1623934767899,
 	"originScenarioRef": "",
+	"userNeed": "Employees tend to setup the screws of the canopy in a way that the canopy is horizontal aligned with the horizon. ",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cb47ccf2bf5c09024abb9e",
-			"artifact": "2967dd60-c1b6-401b-89af-f639c4492234"
-		},
-		{
-			"_id": "60cb47ccf2bf5c0e1d4abb9f",
-			"artifact": "ec0b675d-079a-4e75-a434-881277ac6143"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Keeping the canopy symmetrical",
-	"userNeed": "Employees tend to setup the screws of the canopy in a way that the canopy is horizontal aligned with the horizon. ",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

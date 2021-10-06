@@ -1,18 +1,19 @@
 {
+	"listIndex": -17.33366504374849,
+	"_guid": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+	"customId": null,
 	"tasks": [
 		"718a2c9b-ab15-4101-80f4-f87213dd7f6f",
 		"ab6ba91a-f9ba-4efb-8ee3-c29f69a09b98",
 		"bc8fbd44-6f6d-4712-8eaf-95e9c0026fc4"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [],
-	"_guid": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
-	"listIndex": -17.33366504374849,
 	"role": "Software Engineer",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
-	"importance": 3,
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "pony-tail",
 	"hairColor": "black",
 	"headRef": "head",
@@ -33,5 +34,8 @@
 	"upperBodyColor": "cyan",
 	"attributeRightRef": "no-attribute",
 	"attributeRightColor": "green",
+	"importance": 3,
+	"backgroundColor": null,
+	"baseRole": null,
 	"resources": []
 }

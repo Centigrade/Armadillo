@@ -1,41 +1,41 @@
 {
-	"tags": [],
 	"_guid": "ce1a1269-fc9d-4eda-b983-e94c6424a60e",
 	"listIndex": 528.6703057287116,
-	"needingInformation": [],
+	"customId": "qu",
 	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "d35a4ffe-c469-4c7f-ba0d-640bb8e54683"
+		},
+		{
+			"artifact": "3cc953bb-c68e-43a2-8c9a-e593292fbf5f"
+		},
+		{
+			"artifact": "fee9c47a-4eea-4f82-a732-58348ceb3303"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true,
+	"tags": [],
 	"timeStamp": 1624199064274,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "Benji does not want to waste time with transport and construction",
 	"originScenarioStepRef": "892a0774-acfb-45e9-8e81-130debc11ca0",
 	"triggerRef": "",
 	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60d44b4cf2bf5c26d84af6e4",
-			"artifact": "d35a4ffe-c469-4c7f-ba0d-640bb8e54683"
-		},
-		{
-			"_id": "60d44b4cf2bf5c17894af6e5",
-			"artifact": "3cc953bb-c68e-43a2-8c9a-e593292fbf5f"
-		},
-		{
-			"_id": "60d44b4cf2bf5cd9554af6e6",
-			"artifact": "fee9c47a-4eea-4f82-a732-58348ceb3303"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Setting up quickly",
-	"userNeed": "Benji does not want to waste time with transport and construction",
-	"customId": "qu",
-	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
-	"manualGroupAssign": true
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

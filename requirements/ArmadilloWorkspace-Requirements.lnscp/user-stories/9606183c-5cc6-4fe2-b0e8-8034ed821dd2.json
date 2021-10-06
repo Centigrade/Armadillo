@@ -1,35 +1,39 @@
 {
+	"_guid": "9606183c-5cc6-4fe2-b0e8-8034ed821dd2",
+	"listIndex": 300.00346584986187,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "8a14a3b9-85e5-45a7-ab88-267da7b228b0"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
 	"tags": [
 		"Ergonomics",
 		"Effectiveness",
 		"Protection"
 	],
-	"_guid": "9606183c-5cc6-4fe2-b0e8-8034ed821dd2",
-	"listIndex": 300.00346584986187,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1624006920931,
 	"originScenarioRef": "",
+	"userNeed": "Users cannot work effectively if their table does not stand upright and stright",
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "60cc613cf2bf5c3ad44ad368",
-			"artifact": "8a14a3b9-85e5-45a7-ab88-267da7b228b0"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Having a straight stable worktable",
-	"userNeed": "Users cannot work effectively if their table does not stand upright and stright",
-	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

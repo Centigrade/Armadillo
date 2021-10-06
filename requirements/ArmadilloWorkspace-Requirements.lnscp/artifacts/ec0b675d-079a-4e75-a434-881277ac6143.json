@@ -1,4 +1,7 @@
 {
+	"listIndex": 65.4314616635871,
+	"_guid": "ec0b675d-079a-4e75-a434-881277ac6143",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "ec0b675d-079a-4e75-a434-881277ac6143",
-	"timeStamp": 1623934921044,
 	"line": "Degree scale for screws",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 65.4314616635871,
-	"description": "With a small numeric scale (in degrees), a user can setup both sides equally in an easier way."
+	"image": null,
+	"description": "With a small numeric scale (in degrees), a user can setup both sides equally in an easier way.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1623934921044
 }

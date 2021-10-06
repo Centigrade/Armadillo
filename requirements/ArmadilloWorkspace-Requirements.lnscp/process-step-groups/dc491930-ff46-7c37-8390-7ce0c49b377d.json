@@ -1,10 +1,11 @@
 {
+	"listIndex": 3,
+	"_guid": "dc491930-ff46-7c37-8390-7ce0c49b377d",
+	"customId": null,
 	"artifactTypes": [
 		"7e319b07-2e53-4eef-91d8-64b0e58fab97",
 		"e6922c4c-d9f7-47e7-97a3-c19c436bea3b"
 	],
-	"_guid": "dc491930-ff46-7c37-8390-7ce0c49b377d",
-	"listIndex": 3,
 	"name": "Conception",
 	"displayname": "Conception",
 	"color": "pink"

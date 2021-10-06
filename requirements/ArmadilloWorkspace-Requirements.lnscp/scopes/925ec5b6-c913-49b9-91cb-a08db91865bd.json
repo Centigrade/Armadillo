@@ -1,10 +1,20 @@
 {
-	"_guid": "925ec5b6-c913-49b9-91cb-a08db91865bd",
 	"listIndex": 0.08560962132414551,
+	"_guid": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"customId": null,
+	"branding": {
+		"logoUrl": null,
+		"backgroundBody": null,
+		"headerPrimary": null,
+		"headerSecondary": null,
+		"bodyPrimary": null,
+		"bodySecondary": null
+	},
 	"title": "Working outdoors during Corona summers",
 	"keyScenario": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"keyUserRole": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
+	"keyPersona": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
 	"keyMvp": "6368e88a-e9a8-4179-9768-e41a6b3b91fc",
 	"keyBusinessGoal": "20658a2e-ad4e-44b5-b5df-a593f189a852",
-	"keyUserRole": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
-	"keyPersona": "76a0c43d-8fee-4929-9f58-2f4f9da55e09"
+	"backgroundColor": null
 }

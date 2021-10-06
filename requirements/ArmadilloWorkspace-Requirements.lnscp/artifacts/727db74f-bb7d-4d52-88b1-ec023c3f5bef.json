@@ -1,4 +1,7 @@
 {
+	"listIndex": 1565.6863756070975,
+	"_guid": "727db74f-bb7d-4d52-88b1-ec023c3f5bef",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "727db74f-bb7d-4d52-88b1-ec023c3f5bef",
-	"timeStamp": 1627309917494,
 	"line": "Carpet tub",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1565.6863756070975,
-	"description": " We could provide a small carpet with an edge that can be used as a carpet only or even as a tub with cool water to relax and coolen the users' feet."
+	"image": null,
+	"description": " We could provide a small carpet with an edge that can be used as a carpet only or even as a tub with cool water to relax and coolen the users' feet.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1627309917494
 }

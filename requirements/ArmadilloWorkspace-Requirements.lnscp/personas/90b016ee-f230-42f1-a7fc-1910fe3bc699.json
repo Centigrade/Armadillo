@@ -1,69 +1,61 @@
 {
-	"tasks": [],
-	"_guid": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 	"listIndex": 0.1257071088933044,
+	"_guid": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"customId": null,
+	"tasks": [],
 	"motivations": [],
 	"frustrations": [],
 	"sociodemographicInfo": [
 		{
-			"_id": "60ca1473f2bf5c080f4ab46b",
 			"key": "Status",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c38974ab46c",
 			"key": "Age",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c6c0f4ab46d",
 			"key": "Children",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c2e8e4ab46e",
 			"key": "Education",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c1a914ab46f",
 			"key": "Profession",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c6b0c4ab470",
 			"key": "Work environment",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c04e44ab471",
 			"key": "Nationality",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5ced714ab472",
 			"key": "IT-Skills",
 			"description": ""
 		},
 		{
-			"_id": "60ca1473f2bf5c59414ab473",
 			"key": "Hobbies",
 			"description": ""
 		}
 	],
 	"profile": [],
 	"importance": 3,
+	"additionalRoles": [
+		{
+			"peerActors": [],
+			"role": "736c5b55-7d0d-45bc-a4a0-77d6606a0fed"
+		}
+	],
 	"name": "Benji Introwa",
 	"imageRef": "dd2e016d-4fb0-2c73-f60c-8e14ed167383",
 	"verificationStatus": "verified",
 	"primaryRoleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
-	"additionalRoles": [
-		{
-			"peerActors": [],
-			"_id": "60d1b47ef2bf5c86464add5d",
-			"role": "736c5b55-7d0d-45bc-a4a0-77d6606a0fed"
-		}
-	],
-	"playerTypes": [],
-	"quote": "I like working alone and isolatedly as I prefer to focus on nasty engineering problems rather than talking bullshit with colleagues."
+	"backgroundColor": null,
+	"quote": "I like working alone and isolatedly as I prefer to focus on nasty engineering problems rather than talking bullshit with colleagues.",
+	"playerTypes": []
 }

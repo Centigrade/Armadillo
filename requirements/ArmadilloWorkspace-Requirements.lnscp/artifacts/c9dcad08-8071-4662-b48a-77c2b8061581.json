@@ -1,4 +1,7 @@
 {
+	"listIndex": 711.6189981916797,
+	"_guid": "c9dcad08-8071-4662-b48a-77c2b8061581",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "c9dcad08-8071-4662-b48a-77c2b8061581",
-	"timeStamp": 1624262839294,
 	"line": "Fear of breaking things",
 	"url": "",
 	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
-	"listIndex": 711.6189981916797,
-	"description": "Centigrade colleagues were afraid of using the desk for the first time as they fear they might not achieve it or break something."
+	"image": null,
+	"description": "Centigrade colleagues were afraid of using the desk for the first time as they fear they might not achieve it or break something.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624262839294
 }

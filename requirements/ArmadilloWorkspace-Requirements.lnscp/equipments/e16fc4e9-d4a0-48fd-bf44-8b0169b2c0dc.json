@@ -1,18 +1,30 @@
 {
-	"_guid": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc",
 	"listIndex": -32.10506398973515,
-	"line": "Armadillo Canopy",
+	"_guid": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [
 		{
-			"_id": "60d1bb7df2bf5c71ee4adddf",
+			"listIndex": null,
 			"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626"
 		},
 		{
-			"_id": "60d1bb7df2bf5c09a54adde0",
+			"listIndex": null,
 			"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626"
+		},
+		{
+			"listIndex": null,
+			"_guid": "fa12dc96-9094-4d87-8805-ddf4af6e4b44"
+		},
+		{
+			"listIndex": null,
+			"_guid": "fa12dc96-9094-4d87-8805-ddf4af6e4b44"
 		}
 	],
 	"charts": [],
-	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000"
+	"line": "Armadillo Basic Canopy",
+	"imageRef": null,
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000",
+	"description": null,
+	"backgroundColor": null
 }

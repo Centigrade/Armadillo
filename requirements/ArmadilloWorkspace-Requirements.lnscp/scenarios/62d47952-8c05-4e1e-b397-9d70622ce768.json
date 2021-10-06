@@ -1,23 +1,26 @@
 {
-	"_guid": "62d47952-8c05-4e1e-b397-9d70622ce768",
 	"listIndex": 70.848221935042,
+	"_guid": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"customId": null,
+	"imagePath": null,
 	"equipment": [],
 	"scenario": [
 		{
+			"listIndex": null,
+			"_guid": "b6bb2433-779b-4d6e-b35d-93fae357b6b3",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/sc_sun.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/sc_sun.svg"
-			],
-			"_id": "611679a8b450f35ee61bc4cd",
-			"_guid": "b6bb2433-779b-4d6e-b35d-93fae357b6b3",
 			"isOpen": null,
 			"title": "Arriving at the Science Park",
 			"line": "Benji arrives at the Science Park in the morning. What luck, the sun is shining. He decides to go to the Outdoor Office.",
@@ -29,20 +32,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "9e08fac1-8496-4e74-af12-76e05d86bf2c",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/sc_binary-code-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/sc_binary-code-front.svg"
-			],
-			"_id": "611679a8b450f3a4ba1bc4ce",
-			"_guid": "9e08fac1-8496-4e74-af12-76e05d86bf2c",
 			"isOpen": true,
 			"title": "Trying out the outdoor office for the first time",
 			"line": "It was warm the whole week and therefore he has now decided that he tries the outdoor office. Until now, he had always been deterred by the fact that he only has the 15 inch monitor of his laptop to work. At home he has two external monitors connected to be able to program properly.",
@@ -54,20 +58,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "7e0d2ddc-b327-4a7f-a263-ddf5c0fdc415",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/fitness-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/fitness-front.svg"
-			],
-			"_id": "611679a8b450f338fc1bc4cf",
-			"_guid": "7e0d2ddc-b327-4a7f-a263-ddf5c0fdc415",
 			"isOpen": true,
 			"title": "Too many things to carry",
 			"line": "Benji walks to the horse trailer with the Armadillo Desks. There he finds the desks. Suddenly he sees that there are monitors next to them. He thinks to himself: Too bad I'm not an octopus. Table and monitor at the same time could be difficult. And what does he do with his things if he then still wants to get the monitor?",
@@ -79,21 +84,22 @@
 			"backgroundColor": null
 		},
 		{
-			"duration": {
-				"time": {
-					"hour": null,
-					"minute": null,
-					"second": null
-				},
-				"year": null,
-				"month": null
-			},
+			"listIndex": null,
+			"_guid": "fef496f8-7b84-48c6-b9da-26d84020487e",
+			"customId": null,
 			"visuals": [
 				"./assets/img/scenario-plot-icons/sc_legs-walking-front.svg",
 				"./assets/img/scenario-plot-icons/sc_legs-walking-back.svg"
 			],
-			"_id": "611679a8b450f322281bc4d0",
-			"_guid": "fef496f8-7b84-48c6-b9da-26d84020487e",
+			"duration": {
+				"year": null,
+				"month": null,
+				"time": {
+					"hour": null,
+					"minute": null,
+					"second": null
+				}
+			},
 			"isOpen": true,
 			"title": "Two ways in a hurry",
 			"line": "He decides to carry the table first, locks the trailer, runs to the roundel, then grabs his bag and runs back again. He hurries because he is afraid that the table will get away.",
@@ -105,20 +111,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "892a0774-acfb-45e9-8e81-130debc11ca0",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/running-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/running-front.svg"
-			],
-			"_id": "611679a8b450f3cb861bc4d1",
-			"_guid": "892a0774-acfb-45e9-8e81-130debc11ca0",
 			"isOpen": true,
 			"title": "Much time has passed",
 			"line": "Benji takes the monitor and runs back again. He has already broken out in a light sweat. In the meantime, 15 minutes have passed. The first meeting is approaching and he still has to set up the table.",
@@ -130,20 +137,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "dcfb0b23-5f60-445f-b0d5-c3f69db2402a",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/sc_monitor-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/sc_monitor-front.svg"
-			],
-			"_id": "611679a8b450f382fa1bc4d2",
-			"_guid": "dcfb0b23-5f60-445f-b0d5-c3f69db2402a",
 			"isOpen": true,
 			"title": "Monitor in the way and cable clutter",
 			"line": "After he has set up the table, he wants to fold down the hood. It gets stuck on the second monitor. Benji is annoyed, he has to get up and move the monitor. And then he has a lot of cables, where he first has to find the right connections and then get up again to find the cable for the monitor and plug it in.",
@@ -155,20 +163,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "07b148ee-5c85-435c-af67-ecf5d98191e5",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/sc_rocket-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/sc_rocket-front.svg"
-			],
-			"_id": "611679a8b450f313441bc4d3",
-			"_guid": "07b148ee-5c85-435c-af67-ecf5d98191e5",
 			"isOpen": true,
 			"title": "Limited Space",
 			"line": "Somehow the monitor takes up a lot of space, even just the stand. Benji has to limit himself with his laptop and notebook.",
@@ -180,20 +189,21 @@
 			"backgroundColor": null
 		},
 		{
+			"listIndex": null,
+			"_guid": "515e18e8-a57e-4599-bb05-9b5c81c6c38d",
+			"customId": null,
+			"visuals": [
+				"./assets/img/scenario-plot-icons/knowledge-exchange-front.svg"
+			],
 			"duration": {
+				"year": null,
+				"month": null,
 				"time": {
 					"hour": null,
 					"minute": null,
 					"second": null
-				},
-				"year": null,
-				"month": null
+				}
 			},
-			"visuals": [
-				"./assets/img/scenario-plot-icons/knowledge-exchange-front.svg"
-			],
-			"_id": "611679a8b450f3a7521bc4d4",
-			"_guid": "515e18e8-a57e-4599-bb05-9b5c81c6c38d",
 			"isOpen": true,
 			"title": "Working together in the outdoor office",
 			"line": "In the afternoon, Benji's colleague Sandy Lee comes by. The two have a meeting together. Benji wants to show her the current issues on Git. They want to work together on Benji's outdoor desk. Benji opens the hood, gets stuck again and then wants to put the monitor in the middle. It's all really impractical. Sandy Lee sees everything, but in turn can't share anything himself.",
@@ -205,13 +215,23 @@
 			"backgroundColor": null
 		}
 	],
+	"startTime": {
+		"year": null,
+		"month": null,
+		"time": {
+			"hour": null,
+			"minute": null,
+			"second": null
+		}
+	},
 	"title": "Benji needs more screens in outdoor office",
 	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
 	"primaryActorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 	"environment": "",
 	"personaGoal": "",
-	"interactions": "",
-	"preconditions": "",
+	"interactions": "Sandy Lee, Design colleague",
+	"preconditions": "Benji has never been in the outdoor office because of the limited screen space of his laptop.",
 	"verificationStatus": "unverified",
+	"backgroundColor": null,
 	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

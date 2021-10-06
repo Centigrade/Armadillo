@@ -1,17 +1,18 @@
 {
+	"listIndex": 10.921704430668221,
+	"_guid": "1b025ba6-74e5-45b0-852d-6b4a67de1dfd",
+	"customId": null,
 	"tasks": [
 		"2f63a6ab-8f28-499e-a73e-4fabf6611c37",
 		"7f5f8b0a-d63a-410c-adcb-1ba3e82b7369"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [],
-	"_guid": "1b025ba6-74e5-45b0-852d-6b4a67de1dfd",
-	"listIndex": 10.921704430668221,
 	"role": "Talent Manager",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
-	"importance": 3,
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "no-hair",
 	"hairColor": "grey",
 	"headRef": "head",
@@ -32,5 +33,8 @@
 	"upperBodyColor": "grey",
 	"attributeRightRef": "no-attribute",
 	"attributeRightColor": "grey",
+	"importance": 3,
+	"backgroundColor": null,
+	"baseRole": null,
 	"resources": []
 }

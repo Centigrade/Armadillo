@@ -1,11 +1,12 @@
 {
+	"listIndex": 8,
+	"_guid": "a8d5a41e-ff05-01f2-98ac-c35aa31617a2",
+	"customId": null,
 	"artifactTypes": [
 		"d7024cd5-3ad5-414d-b384-6d0f5512f237",
 		"d117ac6a-531b-46fd-8469-86dc46907b77",
 		"91a4de28-606f-4920-9ff2-b8cf2f287e4e"
 	],
-	"_guid": "a8d5a41e-ff05-01f2-98ac-c35aa31617a2",
-	"listIndex": 8,
 	"name": "Implementation",
 	"displayname": "Implementation",
 	"color": "cyan"

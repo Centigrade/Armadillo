@@ -1,4 +1,7 @@
 {
+	"listIndex": 568.7305974985838,
+	"_guid": "3b501ec8-4eb8-4137-a1ab-d3add91c9067",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "3b501ec8-4eb8-4137-a1ab-d3add91c9067",
-	"timeStamp": 1624193597960,
 	"line": "Inner sound absorbation tissue",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 568.7305974985838,
-	"description": "The material of the canopy could consist of a noice absorbing material. This way, users could also use it as a small podcast studio."
+	"image": null,
+	"description": "The material of the canopy could consist of a noice absorbing material. This way, users could also use it as a small podcast studio.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624193597960
 }

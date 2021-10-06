@@ -1,0 +1,18 @@
+{
+	"listIndex": -199.76244301903378,
+	"_guid": "fa12dc96-9094-4d87-8805-ddf4af6e4b44",
+	"customId": null,
+	"parameters": [],
+	"childEntities": [
+		{
+			"listIndex": null,
+			"_guid": "e0cac8e4-ba00-4f99-8718-1c5226e4d9ca"
+		}
+	],
+	"charts": [],
+	"line": "Canopy Corner Connector Set",
+	"imageRef": null,
+	"typeRef": "74f81637-4700-42d7-9922-f148ee1490de",
+	"description": "x7",
+	"backgroundColor": null
+}

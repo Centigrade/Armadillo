@@ -1,0 +1,42 @@
+{
+	"listIndex": -211.8004531772747,
+	"_guid": "95690136-7507-45d8-93e5-63fa8bf32637",
+	"customId": null,
+	"parameters": [],
+	"childEntities": [
+		{
+			"listIndex": null,
+			"_guid": "d812045c-5ca8-4b54-b079-3382d64d6fbc"
+		},
+		{
+			"listIndex": null,
+			"_guid": "7edf9080-c01f-49ab-ae31-8c99dd9082c2"
+		},
+		{
+			"listIndex": null,
+			"_guid": "7edf9080-c01f-49ab-ae31-8c99dd9082c2"
+		},
+		{
+			"listIndex": null,
+			"_guid": "1c0c7005-46c3-44c9-89dc-bd806116ae59"
+		},
+		{
+			"listIndex": null,
+			"_guid": "7edf9080-c01f-49ab-ae31-8c99dd9082c2"
+		},
+		{
+			"listIndex": null,
+			"_guid": "7edf9080-c01f-49ab-ae31-8c99dd9082c2"
+		},
+		{
+			"listIndex": null,
+			"_guid": "d812045c-5ca8-4b54-b079-3382d64d6fbc"
+		}
+	],
+	"charts": [],
+	"line": "Canopy Adjuster Stickfoot Set",
+	"imageRef": null,
+	"typeRef": "74f81637-4700-42d7-9922-f148ee1490de",
+	"description": null,
+	"backgroundColor": null
+}

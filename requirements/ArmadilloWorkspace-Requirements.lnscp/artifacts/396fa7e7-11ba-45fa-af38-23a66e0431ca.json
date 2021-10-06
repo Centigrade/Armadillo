@@ -1,4 +1,7 @@
 {
+	"listIndex": 1603.8831122417573,
+	"_guid": "396fa7e7-11ba-45fa-af38-23a66e0431ca",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "396fa7e7-11ba-45fa-af38-23a66e0431ca",
-	"timeStamp": 1628581137337,
 	"line": "Laptop Extender Screen Mount",
 	"url": "https://www.amazon.de/Tragbarer-Monitor-Laptop-Extender-Bildschirm/dp/B08YKD34ZL/ref=asc_df_B08YKD34ZL/?tag=googshopde-21&linkCode=df0&hvadid=501284650267&hvpos=&hvnetw=g&hvrand=913567946801647977&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041781&hvtargid=pla-1212933772311&psc=1&th=1&psc=1",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 1603.8831122417573,
-	"description": "Using a gas-spring mount allows to even carry heavier and larger screens."
+	"image": null,
+	"description": "Using a gas-spring mount allows to even carry heavier and larger screens.",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1628581137337
 }

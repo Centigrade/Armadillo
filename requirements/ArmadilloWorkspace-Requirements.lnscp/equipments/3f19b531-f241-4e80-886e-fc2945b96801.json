@@ -1,9 +1,13 @@
 {
-	"_guid": "3f19b531-f241-4e80-886e-fc2945b96801",
 	"listIndex": -243.2845832214603,
-	"line": "Armadillo Accessoire Kit",
+	"_guid": "3f19b531-f241-4e80-886e-fc2945b96801",
+	"customId": null,
 	"parameters": [],
 	"childEntities": [],
 	"charts": [],
-	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c"
+	"line": "Armadillo Accessoire Kit",
+	"imageRef": null,
+	"typeRef": "1d3ab923-1dd5-4ee0-b7ef-519da12b3b1c",
+	"description": null,
+	"backgroundColor": null
 }

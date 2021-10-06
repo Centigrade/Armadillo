@@ -1,4 +1,7 @@
 {
+	"listIndex": 756.1189425065137,
+	"_guid": "94af6b06-a657-4c14-b54e-dc1a622c5696",
+	"customId": null,
 	"uiElement": {
 		"keyFactors": [],
 		"editableContents": [],
@@ -8,11 +11,16 @@
 		"components": [],
 		"accessPoints": []
 	},
-	"_guid": "94af6b06-a657-4c14-b54e-dc1a622c5696",
-	"timeStamp": 1624263239501,
 	"line": "Distance sensor",
 	"url": "",
 	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"listIndex": 756.1189425065137,
-	"description": "With a distance sensor, we can check whether someone is sitting at the desk and create a respective usage profile that can later be used by users to \"recollect\" their work times during time trackings. "
+	"image": null,
+	"description": "With a distance sensor, we can check whether someone is sitting at the desk and create a respective usage profile that can later be used by users to \"recollect\" their work times during time trackings. ",
+	"svgImage": null,
+	"svgImageTransform": {
+		"x": null,
+		"y": null,
+		"z": null
+	},
+	"timeStamp": 1624263239501
 }

@@ -1,292 +1,296 @@
 {
+	"listIndex": null,
 	"_guid": "ce24e5dd-4eda-4807-9fc8-a66cccc6834f",
+	"customId": null,
 	"session": "ee70f3d6-1760-4fc1-93f5-4841b1802df1",
-	"name": "Hackateam \"Kings of Convenience\"",
 	"includedEntities": [
 		{
-			"_id": "615aecd1c89857a6421642dd",
 			"entity": "20658a2e-ad4e-44b5-b5df-a593f189a852",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857610c1642de",
 			"entity": "925ec5b6-c913-49b9-91cb-a08db91865bd",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857adcf1642df",
 			"entity": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857271a1642e0",
 			"entity": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985725471642e1",
 			"entity": "1c2c8c4d-3572-4190-bff4-1af312403280",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985752251642e2",
 			"entity": "10c88f26-cc05-446e-a2d8-f92e18fc8a91",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985769ed1642e3",
 			"entity": "08e7b69e-6951-4d34-ba69-8c0f46c16d9d",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857926f1642e4",
 			"entity": "012739ff-ab8a-4c39-a594-110b7d0c3055",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857078e1642e5",
 			"entity": "32219a64-47da-4a13-90c0-8b0eeba43af8",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c898573c4b1642e6",
 			"entity": "a5061512-1cdb-4c4b-a24f-c8e512e41283",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898576cd31642e7",
 			"entity": "5205e09b-70e8-494c-9190-3a0bfccad521",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985713e61642e8",
 			"entity": "bab907a9-09c5-42b9-bf10-b5d59df2d6c7",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985757471642e9",
 			"entity": "acf3ee14-a06b-400a-8630-ec1410723cc1",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985720201642ea",
 			"entity": "a49d2c53-3cba-414d-ab82-795eb6864b4d",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985792631642eb",
 			"entity": "7aed7fe1-272d-43e6-be01-89e7c4d8ba10",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c898576e931642ec",
 			"entity": "e891f2bb-6573-4870-832a-6987b71e319c",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898571c301642ed",
 			"entity": "6f8eead2-0dae-462a-98e4-f09df7ed4caf",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985763041642ee",
 			"entity": "9606183c-5cc6-4fe2-b0e8-8034ed821dd2",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857a67c1642ef",
 			"entity": "6a5cafb3-ad97-4ca9-9a7b-786fc0ba0c8c",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985742a11642f0",
 			"entity": "7c9909ba-7c10-4d77-bc9c-d8d67c9cbeb1",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857d55b1642f1",
 			"entity": "a947ad8b-4e7c-436b-b3fd-12f509483fda",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857a6ca1642f2",
 			"entity": "1d54da85-8ba7-439d-ad92-072554e12828",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985765001642f3",
 			"entity": "1c5d2b60-5954-4b3c-b851-f4159a1c26ef",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c898578e311642f4",
 			"entity": "adeb43c2-8140-4bfa-a77e-9ce590c026e8",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857b7c21642f5",
 			"entity": "f849ac3e-881a-4fdd-9e57-d63af0f28eee",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898570ad31642f6",
 			"entity": "b6dbf6c4-41b8-4518-8079-b720d091d958",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985700ce1642f7",
 			"entity": "3a44770d-1e4f-4ded-96f6-ba51f7183f2f",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985709e81642f8",
 			"entity": "95cf824f-634e-4eae-b2e0-f733b75b97aa",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857e8541642f9",
 			"entity": "d1d2cc02-0b17-4a3b-a9a6-d14bf160518c",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898575ce71642fa",
 			"entity": "afe4d5f8-e29e-47ec-b4d0-266da43978f0",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985796561642fb",
 			"entity": "ce1a1269-fc9d-4eda-b983-e94c6424a60e",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985720f41642fc",
 			"entity": "8943f9a7-0489-441a-8179-de6966c28655",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857afd41642fd",
 			"entity": "014de933-3e9b-4613-9389-507b91fd51ac",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985715291642fe",
 			"entity": "51d812a8-b924-4008-8da0-cfa808d5bce5",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898574b691642ff",
 			"entity": "b40f8d8b-7514-4421-bebf-17fec703c36f",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985777e2164300",
 			"entity": "26d1ba82-405c-4a95-b55f-4e67d137f9e5",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985730ca164301",
 			"entity": "89db299f-0381-48f7-b1a8-f873c7acb608",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857abab164302",
 			"entity": "73a48765-ba40-4e3a-b26d-6d80cfb04973",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857577c164303",
 			"entity": "77743c32-d236-494b-9a59-944316ed73cb",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898571071164304",
 			"entity": "5532be06-3517-45c2-82f7-6949f9b24c51",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898573f37164305",
 			"entity": "2297b1c6-504d-4343-904b-572ac4a92cb0",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898572d05164306",
 			"entity": "474837c2-b8a3-49b2-8229-b33f377d4d0d",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985757a7164307",
 			"entity": "8997a88f-37c8-4ff5-a57f-915ce130abcb",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898573fa5164308",
 			"entity": "160a54d1-93bd-410a-b8e1-1bf56bf5d833",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c8985748ee164309",
 			"entity": "23ea20ba-e235-4c8e-936d-391e6eca3a7f",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898579bc516430a",
 			"entity": "11655f03-b555-4afb-b4d5-d89a64162ef3",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c89857fc7716430b",
 			"entity": "b8d13af6-aaab-4412-acc7-bd2cf0a6b6bf",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898571c1c16430c",
 			"entity": "86940f27-24c5-4886-b815-37d6f51599ef",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c898578ae516430d",
 			"entity": "6f9a8779-6b53-4586-a744-04d792530c15",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857cca016430e",
 			"entity": "3e46d55d-ed17-4922-a550-64c3f5237c88",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857593716430f",
 			"entity": "f03a8bba-1197-4b63-b503-e24283a24ad8",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857bbd1164310",
 			"entity": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c898577484164311",
 			"entity": "143361b8-1181-43b2-a97e-d7d985a910ed",
 			"included": false
 		},
 		{
-			"_id": "615aecd1c898570d21164312",
 			"entity": "ccb6059f-5a2b-444a-be0b-85c294d7702d",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c89857d586164313",
 			"entity": "ad5c43a6-4c73-46f0-b725-b559ce98cd1c",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985784b5164314",
 			"entity": "f84a18fc-73a0-4d0b-aa6a-4613f1f14a12",
 			"included": true
 		},
 		{
-			"_id": "615aecd1c8985732de164315",
 			"entity": "3341edda-49a4-4911-8c2a-1c29345688e7",
 			"included": true
 		}
-	]
+	],
+	"name": "Hackateam \"Kings of Convenience\"",
+	"includes": {
+		"20658a2e-ad4e-44b5-b5df-a593f189a852": true,
+		"925ec5b6-c913-49b9-91cb-a08db91865bd": true,
+		"c9b1de32-9022-4eb7-b2ca-70bc1eefa145": true,
+		"6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c": true,
+		"1c2c8c4d-3572-4190-bff4-1af312403280": true,
+		"10c88f26-cc05-446e-a2d8-f92e18fc8a91": true,
+		"08e7b69e-6951-4d34-ba69-8c0f46c16d9d": false,
+		"012739ff-ab8a-4c39-a594-110b7d0c3055": true,
+		"32219a64-47da-4a13-90c0-8b0eeba43af8": true,
+		"a5061512-1cdb-4c4b-a24f-c8e512e41283": false,
+		"5205e09b-70e8-494c-9190-3a0bfccad521": false,
+		"bab907a9-09c5-42b9-bf10-b5d59df2d6c7": false,
+		"acf3ee14-a06b-400a-8630-ec1410723cc1": false,
+		"a49d2c53-3cba-414d-ab82-795eb6864b4d": false,
+		"7aed7fe1-272d-43e6-be01-89e7c4d8ba10": true,
+		"e891f2bb-6573-4870-832a-6987b71e319c": false,
+		"6f8eead2-0dae-462a-98e4-f09df7ed4caf": false,
+		"9606183c-5cc6-4fe2-b0e8-8034ed821dd2": true,
+		"6a5cafb3-ad97-4ca9-9a7b-786fc0ba0c8c": false,
+		"7c9909ba-7c10-4d77-bc9c-d8d67c9cbeb1": true,
+		"a947ad8b-4e7c-436b-b3fd-12f509483fda": false,
+		"1d54da85-8ba7-439d-ad92-072554e12828": false,
+		"1c5d2b60-5954-4b3c-b851-f4159a1c26ef": true,
+		"adeb43c2-8140-4bfa-a77e-9ce590c026e8": false,
+		"f849ac3e-881a-4fdd-9e57-d63af0f28eee": false,
+		"b6dbf6c4-41b8-4518-8079-b720d091d958": false,
+		"3a44770d-1e4f-4ded-96f6-ba51f7183f2f": false,
+		"95cf824f-634e-4eae-b2e0-f733b75b97aa": true,
+		"d1d2cc02-0b17-4a3b-a9a6-d14bf160518c": false,
+		"afe4d5f8-e29e-47ec-b4d0-266da43978f0": true,
+		"ce1a1269-fc9d-4eda-b983-e94c6424a60e": true,
+		"8943f9a7-0489-441a-8179-de6966c28655": false,
+		"014de933-3e9b-4613-9389-507b91fd51ac": true,
+		"51d812a8-b924-4008-8da0-cfa808d5bce5": false,
+		"b40f8d8b-7514-4421-bebf-17fec703c36f": true,
+		"26d1ba82-405c-4a95-b55f-4e67d137f9e5": false,
+		"89db299f-0381-48f7-b1a8-f873c7acb608": true,
+		"73a48765-ba40-4e3a-b26d-6d80cfb04973": false,
+		"77743c32-d236-494b-9a59-944316ed73cb": false,
+		"5532be06-3517-45c2-82f7-6949f9b24c51": false,
+		"2297b1c6-504d-4343-904b-572ac4a92cb0": false,
+		"474837c2-b8a3-49b2-8229-b33f377d4d0d": false,
+		"8997a88f-37c8-4ff5-a57f-915ce130abcb": false,
+		"160a54d1-93bd-410a-b8e1-1bf56bf5d833": false,
+		"23ea20ba-e235-4c8e-936d-391e6eca3a7f": false,
+		"11655f03-b555-4afb-b4d5-d89a64162ef3": false,
+		"b8d13af6-aaab-4412-acc7-bd2cf0a6b6bf": false,
+		"86940f27-24c5-4886-b815-37d6f51599ef": true,
+		"6f9a8779-6b53-4586-a744-04d792530c15": true,
+		"3e46d55d-ed17-4922-a550-64c3f5237c88": true,
+		"f03a8bba-1197-4b63-b503-e24283a24ad8": true,
+		"90b016ee-f230-42f1-a7fc-1910fe3bc699": true,
+		"143361b8-1181-43b2-a97e-d7d985a910ed": false,
+		"ccb6059f-5a2b-444a-be0b-85c294d7702d": true,
+		"ad5c43a6-4c73-46f0-b725-b559ce98cd1c": true,
+		"f84a18fc-73a0-4d0b-aa6a-4613f1f14a12": true,
+		"3341edda-49a4-4911-8c2a-1c29345688e7": true
+	}
 }

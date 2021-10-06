@@ -1,9 +1,20 @@
 {
-	"_guid": "ce4c1a54-7dbf-4327-831a-6fb1dca89202",
 	"listIndex": 44.86410222073974,
-	"title": "Do it your self home office desk",
-	"keyScenario": "",
+	"_guid": "ce4c1a54-7dbf-4327-831a-6fb1dca89202",
+	"customId": null,
+	"branding": {
+		"logoUrl": null,
+		"backgroundBody": null,
+		"headerPrimary": null,
+		"headerSecondary": null,
+		"bodyPrimary": null,
+		"bodySecondary": null
+	},
+	"title": "Do it your self mobile desk",
+	"keyScenario": "d82fb587-bdd3-4b4a-9ae2-6ace6c50912c",
+	"keyUserRole": "d079563c-24cf-4978-83f7-2e6a3c097556",
+	"keyPersona": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
 	"keyMvp": "5da91a99-ea59-4062-ab5f-3b5cc89ae6d6",
 	"keyBusinessGoal": "20658a2e-ad4e-44b5-b5df-a593f189a852",
-	"keyPersona": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145"
+	"backgroundColor": null
 }

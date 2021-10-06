@@ -1,24 +1,37 @@
 {
-	"tags": [],
 	"_guid": "160a54d1-93bd-410a-b8e1-1bf56bf5d833",
 	"listIndex": 640.5386828158619,
-	"needingInformation": [],
+	"customId": null,
 	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "fdf228fe-611e-4f71-af46-6ad569e3fde5"
+		}
+	],
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"manualGroupAssign": null,
+	"tags": [
+		"Feelgood"
+	],
 	"timeStamp": 1625234139851,
 	"originScenarioRef": "",
+	"userNeed": null,
 	"originScenarioStepRef": "",
 	"triggerRef": "",
 	"actorRef": "",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "New",
+	"backgroundColor": null,
+	"title": "Receiving visitors",
 	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [],
-	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

@@ -1,10 +1,11 @@
 {
+	"listIndex": 3.5186513490723224,
+	"_guid": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"customId": null,
 	"artifactTypes": [
 		"cd8c7c55-dcbc-4869-a6ff-bb77081c528d"
 	],
-	"_guid": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
-	"listIndex": 2.5186513490723224,
 	"name": "New Column",
 	"displayname": "STORY TELLING",
-	"color": "grey"
+	"color": "orange"
 }

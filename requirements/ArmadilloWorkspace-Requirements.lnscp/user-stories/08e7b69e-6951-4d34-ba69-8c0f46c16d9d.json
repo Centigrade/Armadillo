@@ -1,37 +1,40 @@
 {
+	"_guid": "08e7b69e-6951-4d34-ba69-8c0f46c16d9d",
+	"listIndex": 44.358838674313475,
+	"customId": null,
+	"needingEquipment": [],
+	"needingInformation": [],
+	"artifacts": [
+		{
+			"artifact": "e7122dce-bde1-4e8a-91d9-75608cfb7a9a"
+		},
+		{
+			"artifact": "f03f34ff-11fd-4238-9741-46a301766f30"
+		}
+	],
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"manualGroupAssign": null,
 	"tags": [
 		"Collaboration"
 	],
-	"_guid": "08e7b69e-6951-4d34-ba69-8c0f46c16d9d",
-	"listIndex": 44.358838674313475,
-	"needingInformation": [],
-	"needingEquipment": [],
 	"timeStamp": 1623932147217,
 	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"userNeed": "A meeting in a group of two occurs more frequently than a meeting in a group of one or more. Employees need this use case to work almost as good as working alone.",
 	"originScenarioStepRef": "515e18e8-a57e-4599-bb05-9b5c81c6c38d",
 	"triggerRef": "",
 	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
 	"roleRef": "",
 	"driverRef": "",
+	"reasoningRef": null,
 	"task": "",
 	"benefit": "",
+	"benefittingRoleRefs": [],
 	"painPoint": "",
 	"processStep": "",
-	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-	"language": "en",
-	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
-	"benefittingRoleRefs": [],
-	"artifacts": [
-		{
-			"_id": "611230a2b450f34e591ac81a",
-			"artifact": "e7122dce-bde1-4e8a-91d9-75608cfb7a9a"
-		},
-		{
-			"_id": "611230a2b450f316031ac81b",
-			"artifact": "f03f34ff-11fd-4238-9741-46a301766f30"
-		}
-	],
+	"backgroundColor": null,
 	"title": "Working as a group of two",
-	"userNeed": "A meeting in a group of two occurs more frequently than a meeting in a group of one or more. Employees need this use case to work almost as good as working alone.",
-	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+	"language": "en",
+	"originUserStory": null,
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd"
 }

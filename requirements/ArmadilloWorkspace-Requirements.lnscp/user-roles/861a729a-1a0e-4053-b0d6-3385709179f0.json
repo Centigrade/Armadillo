@@ -1,4 +1,7 @@
 {
+	"listIndex": -1.5219957506836528,
+	"_guid": "861a729a-1a0e-4053-b0d6-3385709179f0",
+	"customId": null,
 	"tasks": [
 		"faed1d3b-09db-441e-90c6-25727bb3f872",
 		"016d4654-3906-4970-907b-25167ed16af0",
@@ -9,13 +12,12 @@
 		"cb4a662b-17e1-460d-9f46-f2b47b5d17a7"
 	],
 	"responsibilities": [],
-	"scenarios": [],
-	"personas": [],
 	"mixinRoles": [],
-	"_guid": "861a729a-1a0e-4053-b0d6-3385709179f0",
-	"listIndex": -1.5219957506836528,
 	"role": "Idealist",
 	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
+	"isKeyUserRole": null,
+	"imagePath": null,
+	"color": null,
 	"hairRef": "no-hair",
 	"hairColor": "grey",
 	"headRef": "head",
@@ -36,5 +38,8 @@
 	"upperBodyColor": "grey",
 	"attributeRightRef": "no-attribute",
 	"attributeRightColor": "grey",
+	"importance": null,
+	"backgroundColor": null,
+	"baseRole": null,
 	"resources": []
 }

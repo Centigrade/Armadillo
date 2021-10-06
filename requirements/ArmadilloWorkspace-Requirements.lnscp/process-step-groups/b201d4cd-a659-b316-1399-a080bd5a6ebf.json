@@ -1,11 +1,11 @@
 {
+	"listIndex": 2,
+	"_guid": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"customId": null,
 	"artifactTypes": [
 		"b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
-		"29e54c85-3449-4837-a2ae-8e034aa28137",
-		"375710b1-ffda-4467-ae4d-bfa9d50a3644"
+		"29e54c85-3449-4837-a2ae-8e034aa28137"
 	],
-	"_guid": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
-	"listIndex": 2,
 	"name": "ConceptIdeation",
 	"displayname": "Concept Ideation",
 	"color": "pink"
