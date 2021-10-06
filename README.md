@@ -13,19 +13,21 @@
 ## Why
 We are digital design professionals, UX designers and software engineers working remotely together with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
 
-## How
-Our approach is to work outdoors as much as possible, especially during summer time, because outdoors we can pick any large meeting place we like, without paying the rent for an inflexible four-wall-trapped office space. But apart from summer time, you can use the Armadillo desk also as mobile desk in your limited home office space.
+## What
+The heart of our project is the Armadillo Mobile desk that can be used inside and outside and is optimized for mobility and outdoor screen work. It is made to have a good time at work. 
 
-Here is how you jumpstart into building your own Armadillo Desk:
+## How
+As you see, our favorite approach is to work outdoors as much as possible, especially during summer time. But regardless from summer time, you can use the Armadillo desk also as mobile desk in your limited home office space.
+
+💪 Here is how you jumpstart into building your own Armadillo Desk:
+
 1️⃣ Watch our DIY teaser video to get inspired!
 2️⃣ Checkout this GitHub repository on your local harddrive
 3️⃣ Register with LeanScope, the tool that will provide you with the building instructions: https://app.leanscope.io
 4️⃣ Launch LeanScope and open the ResearchAndDevelopment-Spec.lnscp file using LeanScope
 5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
 
-
-## What
-The heart of our project is the Armadillo Outdoor desk that can be used inside and outside and is optimized for mobility, screen work and removing sunbeams. It is made to have a good time at work. You can find the entire building process including 3D printing files and user test videos in this repository. Have fun and join the movement!
+Happy Do It Yourself!
 
 ## How to build your own Armadillo Canopy for existing desks (⚠️ for fearless makers only)
 
