@@ -31,7 +31,7 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 - 6️⃣ Use the right sidebar to open the workspace called "DIY Requirements"
 - 7️⃣ Go to the "Scenarios" tab, select the key scenario and hit "Story Player" to receive the instructions
 
-The following screen capture shows the steps in LeanScope from 4️⃣ to 6️⃣
+The following screen capture shows the steps from 4️⃣ to 7️⃣
 
 [![LeanScope DIY Workspace](https://img.youtube.com/vi/1gGJbf06p4Y/0.jpg)](https://youtu.be/1gGJbf06p4Y)
 
