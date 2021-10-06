@@ -32,7 +32,7 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 
 The following screen capture shows the steps in LeanScope from 4️⃣ to 6️⃣
 
-[![LeanScope DIY Workspace](https://img.youtube.com/vi/1gGJbf06p4Y/0.jpg)](https://youtu.be/1gGJbf06p4Y)
+[![LeanScope DIY Workspace](https://img.youtube.com/vi/1gGJbf06p4Y/1.jpg)](https://youtu.be/1gGJbf06p4Y)
 
 👋 Happy Do It Yourself!
 
