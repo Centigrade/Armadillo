@@ -27,6 +27,10 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 - 2️⃣ Checkout this [GitHub repository](https://github.com/Centigrade/Armadillo.git) on your local harddrive
 - 3️⃣ Create a free account for [LeanScope](https://www.leanscope.io/), the requirements tool we use for our requirements engineering
 - 4️⃣ [Launch](https://app.leanscope.io) LeanScope, choose "Open Folder" from the main screen or main menu and choose the [ResearchAndDevelopment-Spec.lnscp](https://github.com/Centigrade/Armadillo/tree/main/requirements/ArmadilloWorkspace-Requirements.lnscp) folder in the file dialog
-- 5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
+- 5️⃣ Open the workspace called "DIY - Build Your Own Mobile Desk"
+- 6️⃣ Go to the "Scenarios" tab, select the key scenario and hit "Story Player" to receive the instructions
+
+The following screen capture shows the steps 4️⃣ to 6️⃣
+
 
 Happy Do It Yourself!
