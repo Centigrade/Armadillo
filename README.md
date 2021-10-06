@@ -30,7 +30,7 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 - 5️⃣ Open the workspace called "DIY - Build Your Own Mobile Desk"
 - 6️⃣ Go to the "Scenarios" tab, select the key scenario and hit "Story Player" to receive the instructions
 
-The following screen capture shows the steps 4️⃣ to 6️⃣
+The following screen capture shows the steps in LeanScope from 4️⃣ to 6️⃣
 
 
 Happy Do It Yourself!
