@@ -25,7 +25,7 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 
 - 1️⃣ Watch our cool [DIY teaser video](https://youtu.be/Gkbu_ZHPUQ8) to get inspired!
 - 2️⃣ Checkout this [GitHub repository](https://github.com/Centigrade/Armadillo.git) on your local harddrive
-- 3️⃣ Register with [LeanScope](https://www.leanscope.io/), the tool that will provide you with the building instructions: https://app.leanscope.io
+- 3️⃣ Create a free account for [LeanScope](https://www.leanscope.io/), the requirements tool we use for our requirements engineering at https://app.leanscope.io
 - 4️⃣ Launch LeanScope, choose "Open Folder" from the main screen or main menu and choose the [ResearchAndDevelopment-Spec.lnscp](https://github.com/Centigrade/Armadillo/tree/main/requirements/ArmadilloWorkspace-Requirements.lnscp) folder in the file dialog
 - 5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
 
