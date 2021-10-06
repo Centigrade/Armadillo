@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "2fe764e6-682f-4466-b144-0c3410e5f669",
+	"timeStamp": 1624286425138,
+	"line": "Microcontroller as router and VPN dialer",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 865.0866972556233,
+	"description": "If we have a Raspberry Pi installed in the table anyway, we can use it to act as a Wifi router than automatically connects to the VPN when needed."
+}

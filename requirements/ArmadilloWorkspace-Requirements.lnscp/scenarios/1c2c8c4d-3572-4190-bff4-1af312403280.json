@@ -1,0 +1,67 @@
+{
+	"_guid": "1c2c8c4d-3572-4190-bff4-1af312403280",
+	"listIndex": 1.240528171935983,
+	"equipment": [],
+	"scenario": [
+		{
+			"duration": {
+				"time": {
+					"hour": null,
+					"minute": null,
+					"second": null
+				},
+				"year": null,
+				"month": null
+			},
+			"visuals": [
+				"./assets/img/scenario-plot-icons/sc_cup-front.svg"
+			],
+			"_id": "60ed9393f2bf5c8dec4b5c1d",
+			"_guid": "fcbd8984-5326-454e-a753-49a285d98044",
+			"isOpen": true,
+			"title": "Starting the day",
+			"line": "Benji starts his day with a large cup of coffee. Today he is going to kill a nasty bug that, yesterday, he was not able to solve",
+			"actionSymbolRef": "",
+			"actorSymbolRef": null,
+			"meanTime": null,
+			"questions": null,
+			"userNeed": null,
+			"backgroundColor": null
+		},
+		{
+			"duration": {
+				"time": {
+					"hour": null,
+					"minute": null,
+					"second": null
+				},
+				"year": null,
+				"month": null
+			},
+			"visuals": [
+				"./assets/img/scenario-plot-icons/tabs-back.svg"
+			],
+			"_id": "60ed9393f2bf5ccb514b5c1e",
+			"_guid": "8ba064dc-265c-469c-b5ef-be2693c84018",
+			"isOpen": true,
+			"title": "Multi-monitor setup",
+			"line": "Benji launches his VS code editor. He has three monitors to distribute all the information that he needs across his desk. One for the code editor (in portrait mode), a second screen for debugging window as well as his laptop for the communication tools such as email and calendar and a ",
+			"actionSymbolRef": "",
+			"actorSymbolRef": null,
+			"meanTime": null,
+			"questions": null,
+			"userNeed": null,
+			"backgroundColor": null
+		}
+	],
+	"title": "Working effectively",
+	"roleRef": "",
+	"primaryActorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"environment": "",
+	"personaGoal": "",
+	"interactions": "",
+	"preconditions": "",
+	"verificationStatus": "unverified",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"imagePath": null
+}

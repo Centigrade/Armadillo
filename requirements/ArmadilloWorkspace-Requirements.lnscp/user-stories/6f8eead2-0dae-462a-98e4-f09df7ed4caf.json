@@ -1,0 +1,29 @@
+{
+	"tags": [
+		"Collaboration",
+		"Privacy"
+	],
+	"_guid": "6f8eead2-0dae-462a-98e4-f09df7ed4caf",
+	"listIndex": 284.5428799960843,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624005952583,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [],
+	"title": "Being personally adressable",
+	"userNeed": "Users that are not in a meeting and are not doing focused work want to be adressed by other colleagues to socialize.",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+}

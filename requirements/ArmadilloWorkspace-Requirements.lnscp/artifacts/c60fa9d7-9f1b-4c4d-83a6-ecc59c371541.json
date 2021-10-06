@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "c60fa9d7-9f1b-4c4d-83a6-ecc59c371541",
+	"timeStamp": 1624200665359,
+	"line": "Double-sided",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 685.6640909178643,
+	"description": "Darker material avoids reflections, however, conflicts with absorbing sun beams. Therefore, we might have to go with a double-layered tissue that is bright outside and dark from the inside, similar to window blind foil."
+}

@@ -1,0 +1,18 @@
+{
+	"_guid": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc",
+	"listIndex": -32.10506398973515,
+	"line": "Armadillo Canopy",
+	"parameters": [],
+	"childEntities": [
+		{
+			"_id": "60d1bb7df2bf5c71ee4adddf",
+			"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626"
+		},
+		{
+			"_id": "60d1bb7df2bf5c09a54adde0",
+			"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626"
+		}
+	],
+	"charts": [],
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000"
+}

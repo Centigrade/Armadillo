@@ -1,0 +1,42 @@
+{
+	"tags": [
+		"Outdoor",
+		"Effectiveness"
+	],
+	"_guid": "77743c32-d236-494b-9a59-944316ed73cb",
+	"listIndex": 592.6808405202821,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623934173546,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60d44823f2bf5c83ee4af659",
+			"artifact": "7db6ac9d-fd50-41fc-beca-09b84657aad3"
+		},
+		{
+			"_id": "60d44823f2bf5c0aa44af65a",
+			"artifact": "e1452f61-5a67-4297-8849-07ead786a43c"
+		},
+		{
+			"_id": "60d44823f2bf5c6f5b4af65b",
+			"artifact": "caaab6ff-6ad2-4c1e-a2bb-e31388d82acc"
+		}
+	],
+	"title": "Providing unimpaired work for clients",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true
+}

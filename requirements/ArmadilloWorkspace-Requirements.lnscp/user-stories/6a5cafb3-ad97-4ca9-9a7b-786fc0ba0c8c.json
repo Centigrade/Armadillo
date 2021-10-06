@@ -1,0 +1,44 @@
+{
+	"tags": [
+		"Ergonomics",
+		"Mobility",
+		"Health"
+	],
+	"_guid": "6a5cafb3-ad97-4ca9-9a7b-786fc0ba0c8c",
+	"listIndex": 321.77947897091843,
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "60febf2db450f3fe2a1a8a28",
+			"equipment": "3aecb579-356a-4c90-86e6-46a3036850d5"
+		}
+	],
+	"timeStamp": 1624018754149,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60cc9002f2bf5cebfe4ad479",
+			"artifact": "750d3097-a572-4735-8d3b-7ab18f97279a"
+		},
+		{
+			"_id": "60cc9002f2bf5c93c54ad47a",
+			"artifact": "2c48d537-1d36-47eb-a64c-16623625f498"
+		}
+	],
+	"title": "Sitting at work",
+	"userNeed": "Users want to have proper seat so that they do not get injured when working outside for several hours.",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

@@ -1,0 +1,120 @@
+{
+	"tasks": [],
+	"_guid": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
+	"listIndex": 37.12747222364081,
+	"motivations": [
+		{
+			"_id": "60f15f98f2bf5c569e4b6842",
+			"description": "Improve existing systems ❓"
+		},
+		{
+			"_id": "60f15f98f2bf5c5e444b6843",
+			"description": "Do something good and talk about it"
+		},
+		{
+			"_id": "60f15f98f2bf5c20d84b6844",
+			"description": "Being an early adopter"
+		}
+	],
+	"frustrations": [],
+	"sociodemographicInfo": [
+		{
+			"_id": "615d9a82c898571e811651a1",
+			"key": "Status",
+			"description": ""
+		},
+		{
+			"_id": "615d9a82c898575b9d1651a2",
+			"key": "Age",
+			"description": "28"
+		},
+		{
+			"_id": "615d9a82c89857c6f61651a3",
+			"key": "Children",
+			"description": "2"
+		},
+		{
+			"_id": "615d9a82c89857bda91651a4",
+			"key": "Education",
+			"description": ""
+		},
+		{
+			"_id": "615d9a82c8985766ee1651a5",
+			"key": "Profession",
+			"description": "Architect"
+		},
+		{
+			"_id": "615d9a82c898579a281651a6",
+			"key": "Work environment",
+			"description": "Digital workplace in a large office space"
+		},
+		{
+			"_id": "615d9a82c898578b3c1651a7",
+			"key": "Nationality",
+			"description": ""
+		},
+		{
+			"_id": "615d9a82c89857d5e51651a8",
+			"key": "IT-Skills",
+			"description": "CAD Tools, 3D Models"
+		},
+		{
+			"_id": "615d9a82c8985773001651a9",
+			"key": "Hobbies",
+			"description": "Sustainable fashion, Instructables.com, Contributing to communities"
+		}
+	],
+	"profile": [
+		{
+			"_id": "60e57e86f2bf5c30704b230f",
+			"description": "Social"
+		},
+		{
+			"_id": "60e57e86f2bf5cfae14b2310",
+			"description": "Extroverted"
+		},
+		{
+			"_id": "60e57e86f2bf5c63af4b2311",
+			"description": "Communicative"
+		}
+	],
+	"importance": 3,
+	"name": "Dyson Yuri",
+	"imageRef": "6400f92f-2ae2-f737-85c0-bc4d29046798",
+	"verificationStatus": "verified",
+	"primaryRoleRef": "d079563c-24cf-4978-83f7-2e6a3c097556",
+	"additionalRoles": [],
+	"playerTypes": [
+		{
+			"_id": "61163399b450f38af81b15f3",
+			"title": "Achiever",
+			"weight": 2
+		},
+		{
+			"_id": "61163399b450f3193b1b15f4",
+			"title": "Disruptor",
+			"weight": 1
+		},
+		{
+			"_id": "61163399b450f3175b1b15f5",
+			"title": "Free Spirit",
+			"weight": 1
+		},
+		{
+			"_id": "61163399b450f36a111b15f6",
+			"title": "Philanthropist",
+			"weight": 1
+		},
+		{
+			"_id": "61163399b450f3002a1b15f7",
+			"title": "Player",
+			"weight": 0
+		},
+		{
+			"_id": "61163399b450f37e4a1b15f8",
+			"title": "Socializer",
+			"weight": 3
+		}
+	],
+	"quote": "I like getting shit done and being the first who got the shit done."
+}

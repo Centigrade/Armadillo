@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "89e05891-08c9-4976-b0d4-01b39beb8ec4",
+	"timeStamp": 1624263179009,
+	"line": "Hard to separate private time from work time",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 745.7252698387479,
+	"description": "Users working in the home office might do lots of other stuff in between and - if they use a timetracking system - might not know at the end of the day how much time they spent really for working"
+}

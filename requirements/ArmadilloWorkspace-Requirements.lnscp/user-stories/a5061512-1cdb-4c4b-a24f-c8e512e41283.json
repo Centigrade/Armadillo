@@ -1,0 +1,28 @@
+{
+	"tags": [
+		"Collaboration"
+	],
+	"_guid": "a5061512-1cdb-4c4b-a24f-c8e512e41283",
+	"listIndex": 82.88723782933837,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623934033021,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [],
+	"title": "Collaborating as a group larger than two",
+	"userNeed": "Modern employees like to work directly together with their colleagues using digital realtime tools such as Miro (but also by using analog \"realtime\" boards such as a standard flipchart or whiteboard)",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+}

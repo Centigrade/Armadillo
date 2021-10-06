@@ -1,0 +1,40 @@
+{
+	"tasks": [
+		"9bc39fe6-f286-4119-8435-2cc9eb65a02c",
+		"28f2af77-26e8-44a2-a351-c4d04836e350",
+		"7138f44e-0731-423d-b9d5-ed6fde5b7a8c"
+	],
+	"responsibilities": [
+		"051a713f-d485-455e-9e90-4bcb9ebdbc9e"
+	],
+	"scenarios": [],
+	"personas": [],
+	"mixinRoles": [],
+	"_guid": "6258e1cb-dee9-4073-b029-d84838678bd5",
+	"listIndex": -12.076884070126468,
+	"role": "Modern Employee",
+	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
+	"importance": 3,
+	"hairRef": "short",
+	"hairColor": "black",
+	"headRef": "head",
+	"headColor": "orange",
+	"hatRef": "no-hat",
+	"hatColor": null,
+	"glassesRef": "no-glasses",
+	"glassesColor": "green",
+	"beardRef": "no-beard",
+	"beardColor": null,
+	"shoeRef": "shoes-formal-f",
+	"shoeColor": "violet",
+	"lowerBodyRef": "pants-formal-f",
+	"lowerBodyColor": "violet",
+	"bodyRef": "body",
+	"bodyColor": null,
+	"upperBodyRef": "shirt-f",
+	"upperBodyColor": "green",
+	"attributeRightRef": null,
+	"attributeRightColor": null,
+	"resources": [],
+	"color": null
+}

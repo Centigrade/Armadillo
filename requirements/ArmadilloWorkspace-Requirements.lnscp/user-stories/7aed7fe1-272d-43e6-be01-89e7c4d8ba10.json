@@ -1,0 +1,39 @@
+{
+	"tags": [
+		"Privacy",
+		"Protection"
+	],
+	"_guid": "7aed7fe1-272d-43e6-be01-89e7c4d8ba10",
+	"listIndex": 207.0668975762545,
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "60febf20b450f36aeb1a8a24",
+			"equipment": "ca65e4e7-71f7-482a-bcaf-d99d116e81fb"
+		}
+	],
+	"timeStamp": 1623940649034,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60cb5e63f2bf5c3e164acca6",
+			"artifact": "61cf2f5c-909a-4d4e-bad6-aa457a07e09a"
+		}
+	],
+	"title": "Having private storage",
+	"userNeed": "When setting up the location or tearing it away, a lot of small things need to be stored so that users do not have to run multiple",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

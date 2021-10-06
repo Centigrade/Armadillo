@@ -1,0 +1,42 @@
+{
+	"tags": [
+		"Effectiveness",
+		"Aesthetics"
+	],
+	"_guid": "6f9a8779-6b53-4586-a744-04d792530c15",
+	"listIndex": 700.7612101519748,
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "60febf48b450f3deca1a8a2c",
+			"equipment": "ca65e4e7-71f7-482a-bcaf-d99d116e81fb"
+		}
+	],
+	"timeStamp": 1627138579676,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60fc2adab450f343771a8283",
+			"artifact": "8f9bd29c-53c1-4fb8-ba7e-cd6787871798"
+		},
+		{
+			"_id": "60fc2adab450f31bc31a8284",
+			"artifact": "37c1b65c-1780-4c99-9c31-7e89ea61d10e"
+		}
+	],
+	"title": "Organizing stuff",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

@@ -1,0 +1,15 @@
+{
+	"_guid": "143361b8-1181-43b2-a97e-d7d985a910ed",
+	"listIndex": 0.0940920651324304,
+	"line": "Automatic pull back unit",
+	"parameters": [],
+	"childEntities": [
+		{
+			"_id": "60cc5354f2bf5cc0064ad230",
+			"_guid": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc"
+		}
+	],
+	"charts": [],
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000",
+	"description": ""
+}

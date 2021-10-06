@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "2e889ff0-22e4-4ee1-a8dd-9b9431532613",
+	"timeStamp": 1624193618728,
+	"line": "White noise generator",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 580.1637789504235,
+	"description": "When each armadillo has a small speaker outside that generates white noise, this could overwrite the precise words of human language"
+}

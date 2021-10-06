@@ -1,0 +1,29 @@
+{
+	"tags": [
+		"Feelgood",
+		"Health",
+		"Outdoor"
+	],
+	"_guid": "8997a88f-37c8-4ff5-a57f-915ce130abcb",
+	"listIndex": 625.9423709400924,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1625127972495,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [],
+	"title": "Avoiding insects harms",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+}

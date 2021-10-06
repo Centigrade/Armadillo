@@ -1,0 +1,38 @@
+{
+	"tags": [
+		"Feelgood",
+		"Outdoor"
+	],
+	"_guid": "95cf824f-634e-4eae-b2e0-f733b75b97aa",
+	"listIndex": 456.7195745692417,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624274838175,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60d077e4f2bf5c68f84adab9",
+			"artifact": "6bb91b9a-2b8c-4aa2-a719-adf92a3d09fa"
+		},
+		{
+			"_id": "60d077e4f2bf5c83634adaba",
+			"artifact": "7856602d-78ac-479c-befe-fe834a350117"
+		}
+	],
+	"title": "Keeping the desk tidy",
+	"userNeed": "Users do not want to have garbage or empty bottles occupying space on the desk",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

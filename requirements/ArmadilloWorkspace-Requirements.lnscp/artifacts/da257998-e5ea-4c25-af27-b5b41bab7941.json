@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "da257998-e5ea-4c25-af27-b5b41bab7941",
+	"timeStamp": 1627306457587,
+	"line": "Looking downwards with laptop only",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 1416.2895193448796,
+	"description": "We observe that when no second screen is being used (notebook only) users tend to look downwards to the laptop display. This is unhealthy and can product neck damages!"
+}

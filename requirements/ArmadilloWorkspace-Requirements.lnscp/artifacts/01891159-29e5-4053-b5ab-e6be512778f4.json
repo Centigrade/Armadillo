@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "01891159-29e5-4053-b5ab-e6be512778f4",
+	"timeStamp": 1627136798968,
+	"line": "Pulling strap",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 1211.8457211171376,
+	"description": "We add a pulling strap to the upper crossbrace of each of the two leg units, so that the table can be pulled into the direction where the legs do not shut themselves. The strap needs to be long enough so that there is a clear area where users can put their feet."
+}

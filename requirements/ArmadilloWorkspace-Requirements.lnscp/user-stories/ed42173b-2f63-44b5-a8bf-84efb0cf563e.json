@@ -1,0 +1,31 @@
+{
+	"tags": [
+		"DIY"
+	],
+	"_guid": "ed42173b-2f63-44b5-a8bf-84efb0cf563e",
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "615d9e67c89857cf2a16529e",
+			"equipment": "66a4be5c-cbdd-43d7-9f23-34d19bf25aa7"
+		}
+	],
+	"timeStamp": 1633525182467,
+	"originScenarioRef": "d82fb587-bdd3-4b4a-9ae2-6ace6c50912c",
+	"originScenarioStepRef": "f56cbbb9-5dba-45d5-8140-43adc0239840",
+	"triggerRef": "",
+	"actorRef": "c9b1de32-9022-4eb7-b2ca-70bc1eefa145",
+	"roleRef": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"language": "en",
+	"benefittingRoleRefs": [],
+	"artifacts": [],
+	"title": "Have tools at hand",
+	"lastArtifactType": "",
+	"userNeed": "Dyson wants to have the best tools available, however, without the costs",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+}

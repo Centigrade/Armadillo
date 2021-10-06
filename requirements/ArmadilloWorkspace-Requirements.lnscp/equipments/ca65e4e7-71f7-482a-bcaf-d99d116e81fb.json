@@ -1,0 +1,31 @@
+{
+	"_guid": "ca65e4e7-71f7-482a-bcaf-d99d116e81fb",
+	"listIndex": -266.01762669337535,
+	"line": "Armadillo Bag",
+	"parameters": [
+		{
+			"_id": "615aeabac89857454e16428c",
+			"key": "Height"
+		},
+		{
+			"_id": "615aeabac898573b0a16428d",
+			"key": "Width"
+		}
+	],
+	"childEntities": [
+		{
+			"_id": "60febe07b450f30f941a8a09",
+			"_guid": "319f762d-74d4-4058-aa7f-73c440208c67"
+		},
+		{
+			"_id": "60febe07b450f307951a8a0a",
+			"_guid": "8596bce0-5841-4f87-b897-0b8fe6a2cff3"
+		},
+		{
+			"_id": "60febe07b450f3ffa51a8a0b",
+			"_guid": "918b3721-4b04-4511-bd11-ef661eb873ad"
+		}
+	],
+	"charts": [],
+	"typeRef": "0f1dec5d-25c3-4e15-a23e-db689432aeb7"
+}

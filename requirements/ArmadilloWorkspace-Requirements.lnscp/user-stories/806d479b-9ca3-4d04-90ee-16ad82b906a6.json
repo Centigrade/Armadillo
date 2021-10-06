@@ -1,0 +1,38 @@
+{
+	"tags": [
+		"Outdoor",
+		"Mobility"
+	],
+	"_guid": "806d479b-9ca3-4d04-90ee-16ad82b906a6",
+	"listIndex": 780.6853704998571,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1628847331487,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "61163d7cb450f3582a1b3139",
+			"artifact": "d4032ef6-2b7d-4206-8447-69376871cbb5"
+		},
+		{
+			"_id": "61163d7cb450f39c5e1b313a",
+			"artifact": "7b02ed5c-65b3-403f-86e1-c72427cd23b1"
+		}
+	],
+	"title": "Knowing early about outdoor-ability",
+	"userNeed": " Users want to know when the conditions fit to work outdoors for a longer period in time because setting up the desk takes time and therefore the weather must hold for certain duration",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

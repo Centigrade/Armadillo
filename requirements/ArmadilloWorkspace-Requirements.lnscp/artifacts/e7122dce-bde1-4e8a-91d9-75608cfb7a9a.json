@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "e7122dce-bde1-4e8a-91d9-75608cfb7a9a",
+	"timeStamp": 1628581953413,
+	"line": "Peer to peer work",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 1626.0784187355557,
+	"description": "During a peer to peer situation such as code reviews or dev buddy discussions two people need to look on the same screen content."
+}

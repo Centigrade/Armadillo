@@ -1,0 +1,39 @@
+{
+	"tags": [
+		"Collaboration",
+		"Effectiveness"
+	],
+	"_guid": "2297b1c6-504d-4343-904b-572ac4a92cb0",
+	"listIndex": 608.8117906673803,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624005657481,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60cc5cbef2bf5ca60d4ad2f9",
+			"artifact": "ef507354-5599-40f0-ad2a-86b94ce1138c"
+		},
+		{
+			"_id": "60cc5cbef2bf5cc0f44ad2fa",
+			"artifact": "fb90afb8-278d-40e2-ae98-b5dacfb1f38f"
+		}
+	],
+	"title": "Staying focused",
+	"userNeed": "Users might be distracted in outdoor settings as well as large office spaces and want to create their own retreat zone",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true
+}

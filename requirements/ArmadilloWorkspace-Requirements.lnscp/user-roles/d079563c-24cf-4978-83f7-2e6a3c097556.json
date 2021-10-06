@@ -1,0 +1,40 @@
+{
+	"tasks": [
+		"0ecef7f2-eee1-45ae-b858-514204412efc",
+		"a8675ff8-04b8-4c8b-8281-3abad4fe2408",
+		"1dfd5242-9a7c-4dc5-aa0f-1fe46531ae21"
+	],
+	"responsibilities": [],
+	"scenarios": [],
+	"personas": [],
+	"mixinRoles": [
+		"cb247613-e1e6-477f-847c-d58d55af888a"
+	],
+	"_guid": "d079563c-24cf-4978-83f7-2e6a3c097556",
+	"listIndex": -8.806543573905458,
+	"role": "Influencing Maker",
+	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
+	"importance": 3,
+	"hairRef": "short-gel",
+	"hairColor": "black",
+	"headRef": "head",
+	"headColor": "orange",
+	"hatRef": "cap",
+	"hatColor": "violet",
+	"glassesRef": "no-glasses",
+	"glassesColor": null,
+	"beardRef": "full-beard",
+	"beardColor": "black",
+	"shoeRef": "shoes-formal-m",
+	"shoeColor": "black",
+	"lowerBodyRef": "more-pants2",
+	"lowerBodyColor": "black",
+	"bodyRef": "body",
+	"bodyColor": null,
+	"upperBodyRef": "work-m",
+	"upperBodyColor": "grey",
+	"attributeRightRef": "no-attribute",
+	"attributeRightColor": "grey",
+	"resources": [],
+	"color": null
+}

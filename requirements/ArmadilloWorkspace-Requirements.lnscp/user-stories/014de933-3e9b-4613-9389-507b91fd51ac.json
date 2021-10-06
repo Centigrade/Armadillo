@@ -1,0 +1,37 @@
+{
+	"tags": [
+		"Outdoor"
+	],
+	"_guid": "014de933-3e9b-4613-9389-507b91fd51ac",
+	"listIndex": 0.10181303173627598,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623931832156,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60cc6b81f2bf5c38994ad39b",
+			"artifact": "4d550348-0a7b-4170-8f4d-844342e6e90b"
+		},
+		{
+			"_id": "60cc6b81f2bf5ca1ca4ad39c",
+			"artifact": "d085e44e-f21f-4609-a23f-07976cff122a"
+		}
+	],
+	"title": "Having shadow for at least 1 hour",
+	"userNeed": "Employees want to be sure to be in a shadow zone for at least 1 hour so that they can readjust their location in the meeting break without driving \"hot\" right in between the meeting",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

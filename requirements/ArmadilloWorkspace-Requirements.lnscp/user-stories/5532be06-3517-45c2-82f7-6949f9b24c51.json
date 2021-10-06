@@ -1,0 +1,48 @@
+{
+	"tags": [
+		"Outdoor",
+		"Effectiveness"
+	],
+	"_guid": "5532be06-3517-45c2-82f7-6949f9b24c51",
+	"listIndex": 603.3350222509146,
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "60d318d2f2bf5c3a744ae966",
+			"equipment": "c03e99ab-ddfc-41d2-b686-7e3154dc422f"
+		}
+	],
+	"timeStamp": 1624445095190,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60d44901f2bf5c0e584af67c",
+			"artifact": "63819557-b138-427a-9fb9-18505c019ab1"
+		},
+		{
+			"_id": "60d44901f2bf5c5dbf4af67d",
+			"artifact": "1e9e876a-6494-44f6-bfec-f49e65de28c0"
+		},
+		{
+			"_id": "60d44901f2bf5c7dd34af67e",
+			"artifact": "d55d81ab-9421-411c-8abb-6ae1143309eb"
+		}
+	],
+	"title": "Storing the entire group setup",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"userNeed": "Users need to safe time when setting up their workplace",
+	"manualGroupAssign": true
+}

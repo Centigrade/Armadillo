@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "37c1b65c-1780-4c99-9c31-7e89ea61d10e",
+	"timeStamp": 1627138774675,
+	"line": "Circular inlets from large to small",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 1297.9745778515542,
+	"description": "Our idea is to provide an arrangement of circular holes with inlets in various sizes from large to small so that you are able to organize your stuff by size. For the smallest hole we could even go with an LED that shows the status of the Armadillo brain (the Raspberry Pi)."
+}

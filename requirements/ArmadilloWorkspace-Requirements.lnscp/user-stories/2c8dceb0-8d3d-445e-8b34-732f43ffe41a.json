@@ -1,0 +1,40 @@
+{
+	"tags": [
+		"Feelgood"
+	],
+	"_guid": "2c8dceb0-8d3d-445e-8b34-732f43ffe41a",
+	"listIndex": 768.7929552261471,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1628844327678,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "61163202b450f35d851b15d5",
+			"artifact": "8a5a978a-773d-46fc-b8b9-a0acd73fb9eb"
+		},
+		{
+			"_id": "61163202b450f3d7271b15d6",
+			"artifact": "f2e08706-6da0-42d5-8d25-402ad017e79b"
+		},
+		{
+			"_id": "61163202b450f385611b15d7",
+			"artifact": "e4039aa8-519c-4838-9b84-bcb9ad6c0a85"
+		}
+	],
+	"title": "Having a nice smell around",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

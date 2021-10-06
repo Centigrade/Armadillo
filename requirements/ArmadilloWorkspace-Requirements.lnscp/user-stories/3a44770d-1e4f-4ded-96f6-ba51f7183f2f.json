@@ -1,0 +1,37 @@
+{
+	"tags": [
+		"Compliance"
+	],
+	"_guid": "3a44770d-1e4f-4ded-96f6-ba51f7183f2f",
+	"listIndex": 432.8744897290112,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624263010043,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60d04a4bf2bf5c453a4ada02",
+			"artifact": "89e05891-08c9-4976-b0d4-01b39beb8ec4"
+		},
+		{
+			"_id": "60d04a4bf2bf5c175c4ada03",
+			"artifact": "94af6b06-a657-4c14-b54e-dc1a622c5696"
+		}
+	],
+	"title": "Separating working time from private time",
+	"userNeed": "Users working in the home office need to separate the private time from the working time",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

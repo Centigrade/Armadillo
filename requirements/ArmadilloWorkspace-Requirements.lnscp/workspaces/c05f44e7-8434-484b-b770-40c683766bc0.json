@@ -1,0 +1,102 @@
+{
+	"_guid": "c05f44e7-8434-484b-b770-40c683766bc0",
+	"session": "1a01444c-e4fd-4163-a204-cab61f91a576",
+	"name": "Hackateam \"Shadow on the Run\"",
+	"includedEntities": [
+		{
+			"_id": "61124d81b450f3fc351adb5c",
+			"entity": "20658a2e-ad4e-44b5-b5df-a593f189a852",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f373c01adb5d",
+			"entity": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f327de1adb5e",
+			"entity": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f3a9481adb5f",
+			"entity": "14fe29e9-be95-4b37-83f7-a4efa4ef114e",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f335511adb60",
+			"entity": "6258e1cb-dee9-4073-b029-d84838678bd5",
+			"included": false
+		},
+		{
+			"_id": "61124d81b450f350b71adb61",
+			"entity": "34172517-ba46-444e-9adc-7e15ceae8211",
+			"included": false
+		},
+		{
+			"_id": "61124d81b450f32cf51adb62",
+			"entity": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f308c81adb63",
+			"entity": "736c5b55-7d0d-45bc-a4a0-77d6606a0fed",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f371971adb64",
+			"entity": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f3b68c1adb65",
+			"entity": "861a729a-1a0e-4053-b0d6-3385709179f0",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f37f261adb66",
+			"entity": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f301e11adb67",
+			"entity": "e891f2bb-6573-4870-832a-6987b71e319c",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f302041adb68",
+			"entity": "51d812a8-b924-4008-8da0-cfa808d5bce5",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f38e8d1adb69",
+			"entity": "adeb43c2-8140-4bfa-a77e-9ce590c026e8",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f3051d1adb6a",
+			"entity": "e16fc4e9-d4a0-48fd-bf44-8b0169b2c0dc",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f32aaa1adb6b",
+			"entity": "a947ad8b-4e7c-436b-b3fd-12f509483fda",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f395c61adb6c",
+			"entity": "10c88f26-cc05-446e-a2d8-f92e18fc8a91",
+			"included": true
+		},
+		{
+			"_id": "61124d81b450f368f31adb6d",
+			"entity": "89db299f-0381-48f7-b1a8-f873c7acb608",
+			"included": false
+		},
+		{
+			"_id": "61124d81b450f31d441adb6e",
+			"entity": "b8d13af6-aaab-4412-acc7-bd2cf0a6b6bf",
+			"included": false
+		}
+	]
+}

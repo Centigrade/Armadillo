@@ -1,0 +1,57 @@
+{
+	"tags": [
+		"Mobility"
+	],
+	"_guid": "10c88f26-cc05-446e-a2d8-f92e18fc8a91",
+	"listIndex": 21.339179078007128,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623931940215,
+	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"originScenarioStepRef": "fef496f8-7b84-48c6-b9da-26d84020487e",
+	"triggerRef": "",
+	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60fc2557b450f3d86b1a81e2",
+			"artifact": "7cb9c75c-edff-4859-8b08-1c9b17647921"
+		},
+		{
+			"_id": "60fc2557b450f337ad1a81e3",
+			"artifact": "b0967cba-3321-4378-a0cd-845f5e213e74"
+		},
+		{
+			"_id": "60fc2557b450f34c341a81e4",
+			"artifact": "01891159-29e5-4053-b5ab-e6be512778f4"
+		},
+		{
+			"_id": "60fc2557b450f334dc1a81e5",
+			"artifact": "d747d3d0-fbbe-4f66-8246-faf201f47f64"
+		},
+		{
+			"_id": "60fc2557b450f368901a81e6",
+			"artifact": "d2e945c6-dcf5-4278-8b0a-2a03fee94d54"
+		},
+		{
+			"_id": "60fc2557b450f3a4621a81e7",
+			"artifact": "173621c0-30f0-4a42-b238-9d73b76a38fc"
+		},
+		{
+			"_id": "60fc2557b450f3d4e21a81e8",
+			"artifact": "bc05e9d8-cbcc-4d93-a337-607913671515"
+		}
+	],
+	"title": "Moving location without external help",
+	"userNeed": "Benji wants to be able to transport everything with a handle",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

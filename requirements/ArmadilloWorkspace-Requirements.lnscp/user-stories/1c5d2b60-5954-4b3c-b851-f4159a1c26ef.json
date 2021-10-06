@@ -1,0 +1,43 @@
+{
+	"tags": [
+		"Mobility",
+		"Outdoor"
+	],
+	"_guid": "1c5d2b60-5954-4b3c-b851-f4159a1c26ef",
+	"listIndex": 388.1702463035629,
+	"needingInformation": [],
+	"needingEquipment": [
+		{
+			"_id": "60febfa1b450f340d11a8a3c",
+			"equipment": "ca65e4e7-71f7-482a-bcaf-d99d116e81fb"
+		}
+	],
+	"timeStamp": 1624199721080,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60febf6fb450f3ffd41a8a2e",
+			"artifact": "692334a3-65eb-40d6-85a6-c64ad4a8a279"
+		},
+		{
+			"_id": "60febf6fb450f3dcbf1a8a2f",
+			"artifact": "d336ccca-b17f-41f9-8d9f-4476cd820086"
+		}
+	],
+	"title": "Removing workspace quickly",
+	"userNeed": "Users need to remove the desk and setup quickly",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "ed5c729f-052e-4a27-ae1c-b0ab7136f80c",
+	"timeStamp": 1628584082053,
+	"line": "Additional external connectors",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 1656.8171544944064,
+	"description": "Users tend to you use their laptop never without periphals. The following periphals were likely being connected:\n- Mouse\n- HDMI display\n- USB and USB-C charging\n\n\nThe problem is that modern laptops do not provide many connections anymore (e.g. only two USB-C ports for a modern MacBook Pro 13\").\n\n\nTherefore most users have an USB-C peripheral adapter as a key additional hub."
+}

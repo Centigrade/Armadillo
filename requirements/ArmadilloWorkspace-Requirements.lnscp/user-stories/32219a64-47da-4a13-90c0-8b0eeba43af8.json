@@ -1,0 +1,28 @@
+{
+	"tags": [
+		"Mobility"
+	],
+	"_guid": "32219a64-47da-4a13-90c0-8b0eeba43af8",
+	"listIndex": 68.66064485509924,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623933926135,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [],
+	"title": "Fitting into an elevator",
+	"userNeed": "Employees that work in larger office towers might likely have to transport their desk in an elevator, elevators however are limited in size and the desk needs to fit in.",
+	"processStepGroup": "32713557-2915-ce52-4189-055af90c04a4"
+}

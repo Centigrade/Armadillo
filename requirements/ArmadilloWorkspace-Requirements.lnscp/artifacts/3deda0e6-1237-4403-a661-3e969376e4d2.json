@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "3deda0e6-1237-4403-a661-3e969376e4d2",
+	"timeStamp": 1624286176949,
+	"line": "Closed canopy when it is windy",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 832.9970999327492,
+	"description": "Users tend to close the canopy when it is windy. It is good that the tissue is not fully closed so that the wind cannot take and lift the entire desk. However, light material starts to wiggle pretty much, making noises that might be hearable during meetings."
+}

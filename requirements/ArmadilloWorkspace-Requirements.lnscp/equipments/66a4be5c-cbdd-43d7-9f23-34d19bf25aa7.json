@@ -1,0 +1,18 @@
+{
+	"_guid": "66a4be5c-cbdd-43d7-9f23-34d19bf25aa7",
+	"line": "Armadillo One Tools",
+	"parameters": [],
+	"childEntities": [
+		{
+			"_id": "615d9f55c898570aea1652da",
+			"_guid": "a6e82ae2-6145-4983-b927-12543f262e0d"
+		},
+		{
+			"_id": "615d9f55c8985757a91652db",
+			"_guid": "d5eb610c-d0b1-406d-946a-a2d1c00f3ffa"
+		}
+	],
+	"charts": [],
+	"typeRef": "688ee03f-432d-4d73-9c7f-8895b24f21fd",
+	"imageRef": "38d0fe26-20fb-4e6b-b0c9-0f83ee877fcc"
+}

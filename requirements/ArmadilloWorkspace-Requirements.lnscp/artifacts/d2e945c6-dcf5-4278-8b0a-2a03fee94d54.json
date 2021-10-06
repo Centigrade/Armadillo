@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "d2e945c6-dcf5-4278-8b0a-2a03fee94d54",
+	"timeStamp": 1627137085143,
+	"line": "Folding markers",
+	"url": "",
+	"typeRef": "e6922c4c-d9f7-47e7-97a3-c19c436bea3b",
+	"listIndex": 1235.9515502263228,
+	"description": "While the table is collapsed, a wood-branded 1 indicates where to expand the first leg uni, while a wood-branded 2 indicates how to expand the second unit.\n\n\nWhen the table is expanded, it is the other way around: another wood-branded 1 at a different position indicates which leg unit to move first and second.\n\n\nThe nice thing is that the folding markers for collapsing the table will disappear once the table is collapsed."
+}

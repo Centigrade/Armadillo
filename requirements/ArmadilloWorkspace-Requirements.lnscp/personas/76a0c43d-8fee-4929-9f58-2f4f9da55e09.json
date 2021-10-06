@@ -1,0 +1,100 @@
+{
+	"tasks": [],
+	"_guid": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
+	"listIndex": 24.073865067654612,
+	"motivations": [
+		{
+			"_id": "61111b48b450f33a261ac26e",
+			"description": "Trying new things"
+		},
+		{
+			"_id": "61111b48b450f301341ac26f",
+			"description": "Following trends in the design industry"
+		},
+		{
+			"_id": "61111b48b450f38d961ac270",
+			"description": "Working with other talented people"
+		},
+		{
+			"_id": "61111b48b450f386881ac271",
+			"description": "Shaping things and brainstorming ideas"
+		}
+	],
+	"frustrations": [
+		{
+			"_id": "61111b40b450f359eb1ac261",
+			"description": "Never catching up with all the problems at hand"
+		},
+		{
+			"_id": "61111b40b450f327181ac262",
+			"description": "Not seeing the own colleagues in person"
+		}
+	],
+	"sociodemographicInfo": [
+		{
+			"_id": "61111b8cb450f3216f1ac29b",
+			"key": "Status",
+			"description": ""
+		},
+		{
+			"_id": "61111b8cb450f30a011ac29c",
+			"key": "Age",
+			"description": "32"
+		},
+		{
+			"_id": "61111b8cb450f309121ac29d",
+			"key": "Children",
+			"description": "none"
+		},
+		{
+			"_id": "61111b8cb450f3afbc1ac29e",
+			"key": "Education",
+			"description": "Master of Arts"
+		},
+		{
+			"_id": "61111b8cb450f326da1ac29f",
+			"key": "Profession",
+			"description": "Digital Design Professional"
+		},
+		{
+			"_id": "61111b8cb450f33e321ac2a0",
+			"key": "Work environment",
+			"description": ""
+		},
+		{
+			"_id": "61111b8cb450f3ff261ac2a1",
+			"key": "Nationality",
+			"description": "German"
+		},
+		{
+			"_id": "61111b8cb450f31afa1ac2a2",
+			"key": "IT-Skills",
+			"description": "Sketch, Adobe CC, No programming skills"
+		},
+		{
+			"_id": "61111b8cb450f351511ac2a3",
+			"key": "Hobbies",
+			"description": "Pottery, Cooking"
+		}
+	],
+	"profile": [],
+	"importance": 3,
+	"name": "Sandy Lee",
+	"imageRef": "77ed36ee-834c-835f-1e4f-9c1e0e286db6",
+	"verificationStatus": "verified",
+	"primaryRoleRef": "6b12f9fd-8fb4-48df-8b1c-5f4c93c33b9c",
+	"additionalRoles": [
+		{
+			"peerActors": [],
+			"_id": "60d1b5e6f2bf5ce6f94addc8",
+			"role": "861a729a-1a0e-4053-b0d6-3385709179f0"
+		},
+		{
+			"peerActors": [],
+			"_id": "60d1b5e6f2bf5c62944addc9",
+			"role": "b77d9fc2-ed19-4a92-b12f-dfa7431f7732"
+		}
+	],
+	"playerTypes": [],
+	"quote": "I am creative person with tons of great ideas, but I need other people and inspiration to refresh my batteries."
+}

@@ -1,0 +1,39 @@
+{
+	"tags": [
+		"Ergonomics",
+		"Health",
+		"Outdoor"
+	],
+	"_guid": "a49d2c53-3cba-414d-ab82-795eb6864b4d",
+	"listIndex": 175.96351116210025,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1623940527787,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "76a0c43d-8fee-4929-9f58-2f4f9da55e09",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60feba1bb450f3099f1a89a7",
+			"artifact": "da257998-e5ea-4c25-af27-b5b41bab7941"
+		},
+		{
+			"_id": "60feba1bb450f35cb11a89a8",
+			"artifact": "fa56479a-c38e-45f8-ae41-14b51d0f6ccd"
+		}
+	],
+	"title": "Watching the display \"neck up\"",
+	"userNeed": "When working on the laptop for several hours, the user is looking downwards for too long causing neck problems. The need a stand that brings the display in their field of view (however, this requires an additional keyboard)",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf"
+}

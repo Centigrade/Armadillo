@@ -1,0 +1,42 @@
+{
+	"tags": [
+		"Ergonomics",
+		"Effectiveness"
+	],
+	"_guid": "6c8638bd-fbdf-4a02-a104-59a454fd7892",
+	"listIndex": 15.635750608842788,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1628581720396,
+	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"originScenarioStepRef": "07b148ee-5c85-435c-af67-ecf5d98191e5",
+	"triggerRef": "",
+	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "29e54c85-3449-4837-a2ae-8e034aa28137",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "61152589b450f3835e1b12cb",
+			"artifact": "c3ba42aa-8105-405b-acc7-b201bc81ae33"
+		},
+		{
+			"_id": "61152589b450f316821b12cc",
+			"artifact": "946d8b93-c13e-4b71-b960-626aefa1e3ae"
+		},
+		{
+			"_id": "61152589b450f393d11b12cd",
+			"artifact": "30ace40e-93fe-4cb7-8c55-58b109e92462"
+		}
+	],
+	"title": "Having enough free working space",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"userNeed": "Benji wants a space-saving screen solution."
+}

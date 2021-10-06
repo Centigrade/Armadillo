@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "befd9e2c-921e-4715-b5f2-cce97426b984",
+	"timeStamp": 1623997705884,
+	"line": "Gigacube rather than antenna Wifi",
+	"url": "https://vimeo.com/manage/videos/564043751",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 168.85529471945688,
+	"description": "As the Wifi antenna did not work reliably in the beginnings of our tests, people startet using the Gigacube solution (a mobile SIM based Wifi). The connection was very good and fast, even for online meetings. The only disadvantage is, that 3 people can share one cube at max. so several cubes are needed, requiring several power cords, which makes the entire setup more messy and complicated.\n\nAlso people had to manually dial into VPN and pause their DSM syncs which makes this solution only limitedly viable."
+}

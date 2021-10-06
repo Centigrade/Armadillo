@@ -1,0 +1,43 @@
+{
+	"tags": [
+		"Feelgood",
+		"Protection"
+	],
+	"_guid": "afe4d5f8-e29e-47ec-b4d0-266da43978f0",
+	"listIndex": 496.5818674748396,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624004005035,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60d43bfaf2bf5c1cba4af374",
+			"artifact": "947ce6d5-454e-4110-84f0-1a47d8dd88a5"
+		},
+		{
+			"_id": "60d43bfaf2bf5c2b624af375",
+			"artifact": "e36d1a16-4d08-4042-9d7b-ded5d58424da"
+		},
+		{
+			"_id": "60d43bfaf2bf5c10ec4af376",
+			"artifact": "755b0ec8-89df-4709-b806-ca4014e68444"
+		}
+	],
+	"title": "Storing drinks",
+	"userNeed": "Users want to have their drinks right in place",
+	"processStepGroup": "a3f28de6-7cca-415c-ac2b-3b0d967bea98",
+	"manualGroupAssign": true
+}

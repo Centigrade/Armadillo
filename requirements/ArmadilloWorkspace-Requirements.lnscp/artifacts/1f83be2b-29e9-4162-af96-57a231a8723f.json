@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "1f83be2b-29e9-4162-af96-57a231a8723f",
+	"timeStamp": 1624286359047,
+	"line": "SIM-based Wifi requires VPN",
+	"url": "",
+	"typeRef": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"listIndex": 846.6151568111453,
+	"description": "As the Wifi antenna did not work out all the time, users switched to the Gigacube SIM-based Wifi network. This however made it necessary to dial into the VPN manually, which is awkward and reduces the performance."
+}

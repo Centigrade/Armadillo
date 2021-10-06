@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "e54919ca-329d-4a93-acea-2e2d89b17747",
+	"timeStamp": 1627139992208,
+	"line": "Third party partnership",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 1375.0843274992687,
+	"description": "We partner with third software vendors such Open Broadcaster or Duet that focus on using the smartphone as an additional device.\n\nWhile OBS can be used to use the smartphones camera, Duet can be used to use the smartphone display as a second screen."
+}

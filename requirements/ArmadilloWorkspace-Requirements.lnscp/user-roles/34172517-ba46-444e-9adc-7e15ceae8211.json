@@ -1,0 +1,41 @@
+{
+	"tasks": [
+		"08b9d376-ef50-4437-851b-084da138c6b6",
+		"20403d60-4dd3-4da6-914a-f41005b1bc20"
+	],
+	"responsibilities": [
+		"599965c7-27cd-497b-8f78-b117240e40b9",
+		"5fac933c-ec1e-4d54-a4f1-725b88205a57"
+	],
+	"scenarios": [],
+	"personas": [],
+	"mixinRoles": [
+		"27ba821d-2f71-40c9-9110-3cae5125d4c0"
+	],
+	"_guid": "34172517-ba46-444e-9adc-7e15ceae8211",
+	"listIndex": 58.76604715775953,
+	"role": "Employer",
+	"imageRef": "2af3edf9-079e-36c1-9981-316c4fa0eebd",
+	"importance": 3,
+	"hairRef": "no-hair",
+	"hairColor": "grey",
+	"headRef": "head",
+	"headColor": "grey",
+	"hatRef": "no-hat",
+	"hatColor": "grey",
+	"glassesRef": "no-glasses",
+	"glassesColor": "grey",
+	"beardRef": "no-beard",
+	"beardColor": "grey",
+	"shoeRef": "shoes-flat-m",
+	"shoeColor": "grey",
+	"lowerBodyRef": "more-pants",
+	"lowerBodyColor": "grey",
+	"bodyRef": "body",
+	"bodyColor": "grey",
+	"upperBodyRef": "short-sleeve-shirt-m",
+	"upperBodyColor": "grey",
+	"attributeRightRef": "no-attribute",
+	"attributeRightColor": "grey",
+	"resources": []
+}

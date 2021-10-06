@@ -1,0 +1,33 @@
+{
+	"tags": [
+		"Effectiveness"
+	],
+	"_guid": "be1a46ed-a064-4f48-ba0f-b88cd9e2d4c9",
+	"listIndex": 756.5237944137795,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1628588549295,
+	"originScenarioRef": "62d47952-8c05-4e1e-b397-9d70622ce768",
+	"originScenarioStepRef": "dcfb0b23-5f60-445f-b0d5-c3f69db2402a",
+	"triggerRef": "",
+	"actorRef": "90b016ee-f230-42f1-a7fc-1910fe3bc699",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "81ec2e62-fdd5-4a4c-b4ae-299268415a59",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "61124a14b450f35c591ad73b",
+			"artifact": "ab3a31db-d097-4e6b-bfbe-ab70e0d36fe1"
+		}
+	],
+	"title": "Having enough electrical power",
+	"processStepGroup": "e07781be-1bb9-1071-90e5-441eeafdbf85",
+	"userNeed": "Benji needs enough electrical power to plug in all his equipment"
+}

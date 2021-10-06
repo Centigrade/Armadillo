@@ -1,0 +1,38 @@
+{
+	"tags": [
+		"Privacy",
+		"Outdoor"
+	],
+	"_guid": "7c9909ba-7c10-4d77-bc9c-d8d67c9cbeb1",
+	"listIndex": 342.7599600477581,
+	"needingInformation": [],
+	"needingEquipment": [],
+	"timeStamp": 1624020703337,
+	"originScenarioRef": "",
+	"originScenarioStepRef": "",
+	"triggerRef": "",
+	"actorRef": "",
+	"roleRef": "",
+	"driverRef": "",
+	"task": "",
+	"benefit": "",
+	"painPoint": "",
+	"processStep": "",
+	"lastArtifactType": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"language": "en",
+	"scope": "925ec5b6-c913-49b9-91cb-a08db91865bd",
+	"benefittingRoleRefs": [],
+	"artifacts": [
+		{
+			"_id": "60cc9776f2bf5c8f354ad4e3",
+			"artifact": "836ae7f9-89b1-4be6-93e5-b4467ed3365c"
+		},
+		{
+			"_id": "60cc9776f2bf5c53d94ad4e4",
+			"artifact": "640c3e22-79ef-4879-95e5-3643907c3738"
+		}
+	],
+	"title": "Leaving the desk unattended",
+	"processStepGroup": "b201d4cd-a659-b316-1399-a080bd5a6ebf",
+	"userNeed": "If users are alone in their Armadillo workspace outside, they have a problem, because leaving the desk unattended my drag thiefs and the users' property is jeopardized."
+}

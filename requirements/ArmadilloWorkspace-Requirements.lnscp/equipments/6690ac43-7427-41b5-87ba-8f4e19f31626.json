@@ -1,0 +1,18 @@
+{
+	"_guid": "6690ac43-7427-41b5-87ba-8f4e19f31626",
+	"listIndex": -44.93294148983488,
+	"line": "Armadillo Canopy Adjuster",
+	"parameters": [
+		{
+			"_id": "60d1bc91f2bf5cb20c4addef",
+			"key": "Height"
+		},
+		{
+			"_id": "60d1bc91f2bf5cb7964addf0",
+			"key": "Width"
+		}
+	],
+	"childEntities": [],
+	"charts": [],
+	"typeRef": "a1f25b00-6bbb-4c41-aa10-60b709f6b000"
+}

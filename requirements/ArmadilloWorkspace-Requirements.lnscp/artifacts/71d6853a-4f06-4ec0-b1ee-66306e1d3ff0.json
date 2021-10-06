@@ -1,0 +1,18 @@
+{
+	"uiElement": {
+		"keyFactors": [],
+		"editableContents": [],
+		"variants": [],
+		"contents": [],
+		"timestamp": [],
+		"components": [],
+		"accessPoints": []
+	},
+	"_guid": "71d6853a-4f06-4ec0-b1ee-66306e1d3ff0",
+	"timeStamp": 1623997850709,
+	"line": "SIM-based Wifi built in",
+	"url": "",
+	"typeRef": "b7f8d0c8-9ff2-4c11-af9b-b4062624b8b7",
+	"listIndex": 183.44407019457196,
+	"description": "Each table could have a Gigacube and SIM card on its own, hosted and paid by the employer. This way, even people working from home could have a reliable connectivity, indepent of their local infrastructure which is a benefit for the employer, too (because meetings that fail because of bad internet connectivity are very expensive)"
+}
