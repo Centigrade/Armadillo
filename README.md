@@ -19,7 +19,7 @@ The heart of our project is the Armadillo Mobile desk that can be used inside an
 ## How
 As you see, our favorite approach is to work outdoors as much as possible, especially during summer time. But regardless from summer time, you can use the Armadillo desk also as mobile desk in your limited home office space.
 
-[![Armadillo DIY](https://img.youtube.com/vi/Gkbu_ZHPUQ8/0.jpg)](https://youtu.be/Gkbu_ZHPUQ8)
+[![Armadillo DIY Teaser](https://img.youtube.com/vi/Gkbu_ZHPUQ8/0.jpg)](https://youtu.be/Gkbu_ZHPUQ8)
 
 💪 Here is how you jumpstart into building your own Armadillo Desk:
 
@@ -32,5 +32,7 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 
 The following screen capture shows the steps in LeanScope from 4️⃣ to 6️⃣
 
+[![LeanScope DIY Workspace](https://img.youtube.com/vi/1gGJbf06p4Y/0.jpg)](https://youtu.be/1gGJbf06p4Y)
 
-Happy Do It Yourself!
+👋 Happy Do It Yourself!
+
