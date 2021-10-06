@@ -11,7 +11,7 @@
 💪 So - we as UX professional sat together and re-invented the way of working remotely. Together. Anywhere.
 
 ## Why
-We are digital design professionals, UX designers and software engineers working remotely together with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
+We are [digital design professionals](https://www.digitaldesign.org/), UX designers and software engineers working remotely together at the leading UX agency [Centigrade](https://www.centigrade.de) with clients around the world. We are students, singles, mothers, dads, nerds, gamers and a lot more. As we like each other, we wanted to see each other in person more often, however, without loosing the flexible home office standards that Corona brought to us all. That's why we thought: it is time to reinvent digital, screen-based workspaces. Now and forever.
 
 ## What
 The heart of our project is the Armadillo Mobile desk that can be used inside and outside and is optimized for mobility and outdoor screen work. It is made to have a good time at work. 
@@ -19,35 +19,23 @@ The heart of our project is the Armadillo Mobile desk that can be used inside an
 ## How
 As you see, our favorite approach is to work outdoors as much as possible, especially during summer time. But regardless from summer time, you can use the Armadillo desk also as mobile desk in your limited home office space.
 
+[![Armadillo DIY Teaser](https://img.youtube.com/vi/Gkbu_ZHPUQ8/0.jpg)](https://youtu.be/Gkbu_ZHPUQ8)
+
 💪 Here is how you jumpstart into building your own Armadillo Desk:
 
-1️⃣ Watch our DIY teaser video to get inspired!
-2️⃣ Checkout this GitHub repository on your local harddrive
-3️⃣ Register with LeanScope, the tool that will provide you with the building instructions: https://app.leanscope.io
-4️⃣ Launch LeanScope and open the ResearchAndDevelopment-Spec.lnscp file using LeanScope
-5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
 
-Happy Do It Yourself!
+- 1️⃣ Watch our cool [DIY teaser video](https://youtu.be/Gkbu_ZHPUQ8) to get inspired!
+- 2️⃣ Checkout this [GitHub repository](https://github.com/Centigrade/Armadillo.git) on your local harddrive
+- 3️⃣ Create a free account for [LeanScope](https://www.leanscope.io/), the requirements tool we use for our requirements engineering
+- 4️⃣ Upgrade to LeanScope Pro (no worries, there is a 30 days free trial for which you do not have to provide payment infos)
+- 5️⃣ [Launch](https://app.leanscope.io) LeanScope, choose "Open Folder" from the main screen or main menu and choose the [ArmadilloWorkspace-Requirements.lnscp](https://github.com/Centigrade/Armadillo/tree/main/requirements/ArmadilloWorkspace-Requirements.lnscp) folder in the file dialog
+- 6️⃣ Use the right sidebar to open the workspace called "DIY Requirements"
+- 7️⃣ Go to the "Scenarios" tab, select the key scenario and hit "Story Player" to receive the instructions
+- 8️⃣ Go to the "Views" tab, select "Entity Map" and to get an overview of the required materials and tools
 
-## How to build your own Armadillo Canopy for existing desks (⚠️ for fearless makers only)
+The following screen capture shows the steps from 4️⃣ to 8️⃣
 
-### Physical Tools
-You need the following tools in order to get started:
-- A 3D printer (17x12cm minimum buildspace)
-- An electric drill (ideally portable)
-- 2mm drill (for pre-drilling)
-- 10mm and 5mm wood drill (for actual drilling)
-- Screwdriver
-- Chop saw (only if at hand), hand saw otherwise
+[![LeanScope DIY Workspace](https://img.youtube.com/vi/1gGJbf06p4Y/0.jpg)](https://youtu.be/1gGJbf06p4Y)
 
-## Material
-- 3 Tough fillament
-- ..
+👋 Happy Do It Yourself!
 
-## Software Tools
-- [CURA 3D Printing Software](https://ultimaker.com/software/ultimaker-cura) to open the STL files in the *assets/printables* folder
-
-## Resources
-
-### Gather
-The virtual represenation of the Armadillo Outdoor Office concept is realized using Gather. You can join the Centigrade outdoor office here: https://gather.town/i/2XLJmajE
