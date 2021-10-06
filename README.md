@@ -21,33 +21,10 @@ As you see, our favorite approach is to work outdoors as much as possible, espec
 
 💪 Here is how you jumpstart into building your own Armadillo Desk:
 
-1️⃣ Watch our DIY teaser video to get inspired!
-2️⃣ Checkout this GitHub repository on your local harddrive
-3️⃣ Register with LeanScope, the tool that will provide you with the building instructions: https://app.leanscope.io
-4️⃣ Launch LeanScope and open the ResearchAndDevelopment-Spec.lnscp file using LeanScope
-5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
+- 1️⃣ Watch our DIY teaser video to get inspired!
+- 2️⃣ Checkout this GitHub repository on your local harddrive
+- 3️⃣ Register with LeanScope, the tool that will provide you with the building instructions: https://app.leanscope.io
+- 4️⃣ Launch LeanScope and open the ResearchAndDevelopment-Spec.lnscp file using LeanScope
+- 5️⃣ Go to the Step by Step instructions scenario and start the "Story Player"
 
 Happy Do It Yourself!
-
-## How to build your own Armadillo Canopy for existing desks (⚠️ for fearless makers only)
-
-### Physical Tools
-You need the following tools in order to get started:
-- A 3D printer (17x12cm minimum buildspace)
-- An electric drill (ideally portable)
-- 2mm drill (for pre-drilling)
-- 10mm and 5mm wood drill (for actual drilling)
-- Screwdriver
-- Chop saw (only if at hand), hand saw otherwise
-
-## Material
-- 3 Tough fillament
-- ..
-
-## Software Tools
-- [CURA 3D Printing Software](https://ultimaker.com/software/ultimaker-cura) to open the STL files in the *assets/printables* folder
-
-## Resources
-
-### Gather
-The virtual represenation of the Armadillo Outdoor Office concept is realized using Gather. You can join the Centigrade outdoor office here: https://gather.town/i/2XLJmajE
